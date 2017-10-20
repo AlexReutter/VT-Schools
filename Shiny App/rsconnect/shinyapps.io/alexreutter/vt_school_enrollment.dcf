@@ -1,0 +1,10 @@
+name: vt_school_enrollment
+title: VT School Enrollment
+account: alexreutter
+server: shinyapps.io
+appId: 154366
+bundleId: 697744
+url: https://alexreutter.shinyapps.io/vt_school_enrollment/
+when: 1485978845.54513
+asMultiple: FALSE
+asStatic: FALSE

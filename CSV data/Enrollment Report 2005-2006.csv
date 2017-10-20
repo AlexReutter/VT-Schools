@@ -1,0 +1,390 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Enrollment Report,,,,,,,,,,,,,,,,,
+,,,,,,,,,Student Enrollment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Export to Excel,,,,,,,,,,,,,,,,,
+,,,,,,,,,,School Year  2005-2006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Information about this report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,School Report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,NECAP Assessment Report Information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Operating District Financial Information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,County               SU/SD                Operating District    School Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,PK/EEE,K Part,,,K Full,1st,2nd,3rd,4th,,,,5th,6th,EU,7th,,,8th,,9th,10th,,11th,12th,SU,AW,PD,Total
+,,,,,,,,,,,Statewide Total,"4,048","2,097",,,"3,995","6,450","6,430","6,485","6,550",,,,"6,829","7,069",40,"7,118",,,"7,496",,"7,713","7,479",,"7,194","6,851",53,22,6,"93,925"
+,Addison County,,,,,Addison Central SU,Addison Central SU,,,,Addison Central SU,28, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,28
+,,,,,,,Bridport,,,,Bridport Central School,4,16,,, ,15,16,10,16,,,,16,14, , ,,, ,, , ,, , , , , ,107
+,,,,,,,Cornwall,,,,Bingham Memorial School, , ,,,14,7,15,20,8,,,,10,14, , ,,, ,, , ,, , , , , ,88
+,,,,,,,Middlebury ID #4,,,,Middlebury ID #4 School, , ,,,60,55,58,51,57,,,,58,73, , ,,, ,, , ,, , , , , ,412
+,,,,,,,Middlebury UHSD #3,,,,Middlebury Senior UHSD #3, , ,,, , , , , ,,,, , , , ,,, ,,169,180,,176,172,7, , ,704
+,,,,,,,,,,,Middlebury Union Middle School #3, , ,,, , , , , ,,,, , , ,146,,,161,, , ,, , , , , ,307
+,,,,,,,Ripton,,,,Ripton Elementary School,5, ,,,11,9,7,8,7,,,,11,10, , ,,, ,, , ,, , , , , ,68
+,,,,,,,Salisbury,,,,Salisbury Community School, , ,,,10,18,16,13,14,,,,17,16, , ,,, ,, , ,, , , , , ,104
+,,,,,,,Shoreham,,,,Shoreham Elementary School, , ,,,12,8,17,11,12,,,,15,19, , ,,, ,, , ,, , , , , ,94
+,,,,,,,Weybridge,,,,Weybridge Elementary School, ,22,,, ,10,14,12,17,,,,14,15, , ,,, ,, , ,, , , , , ,104
+,,,,,,Addison Northeast SU,Addison Northeast SU,,,,Addison Northeast SU,25, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,25
+,,,,,,,Bristol,,,,Bristol Elementary School, , ,,,36,44,46,42,41,,,,51,65, , ,,, ,, , ,, , , , , ,325
+,,,,,,,Lincoln,,,,Lincoln Community School, , ,,,22,15,16,14,21,,,,17,15, , ,,, ,, , ,, , , , , ,120
+,,,,,,,Monkton,,,,Monkton Central School, , ,,,34,28,17,33,24,,,,24,24, , ,,, ,, , ,, , , , , ,184
+,,,,,,,Mt Abraham UHSD #28 (District),,,,Mt Abraham UHSD #28 (School), , ,,, , , , , ,,,, , , ,140,,,166,,193,166,,161,133, ,1, ,960
+,,,,,,,New Haven,,,,Beeman Elementary School, , ,,,16,17,26,22,19,,,,24,25, , ,,, ,, , ,, , , , , ,149
+,,,,,,,Starksboro,,,,Robinson School, , ,,,24,24,17,18,24,,,,16,25, , ,,, ,, , ,, , , , , ,148
+,,,,,,Addison Northwest SU,Addison,,,,Addison Central School, ,18,,, ,17,17,19,26,,,,20,21, , ,,, ,, , ,, , , , , ,138
+,,,,,,,Addison Northwest SU,,,,Addison Northwest SU,32, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,32
+,,,,,,,Ferrisburgh,,,,Ferrisburgh Central School, , ,,,27,26,28,23,29,,,,33,38, , ,,, ,, , ,, , , , , ,204
+,,,,,,,Vergennes UESD #44 (District),,,,Vergennes UESD #44 (School), ,29,,, ,40,35,39,44,,,,39,42, , ,,, ,, , ,, , , , , ,268
+,,,,,,,Vergennes UHSD #5 (District),,,,Vergennes UHSD #5 (School), , ,,, , , , , ,,,, , , ,88,,,107,,116,114,,112,120, , , ,657
+,,,,,,Addison Rutland SU,Orwell,,,,Orwell Village School, , ,,,8,28,13,11,13,,,,16,21, ,16,,,25,, , ,, , , , , ,151
+,,,,,,Rutland Northeast SU,Leicester,,,,Leicester Central School, , ,,,9,10,13,10,8,,,,7,15, , ,,, ,, , ,, , , , , ,72
+,,,,,,,Whiting,,,,Whiting Village School,12, ,,,3,5,3,3,3,,,,1,5, , ,,, ,, , ,, , , , , ,35
+,,,,,,Windsor Northwest SU,Granville/Hancock Joint Contract District,,,,Village School,2, ,,,11,4,7,5,4,,,,4,6, , ,,, ,, , ,, , , , , ,43
+,,,,,,,,,,,County Total,108,85,,,297,380,381,364,387,,,,393,463, ,390,,,459,,478,460,,449,425,7,1, ,"5,527"
+,Bennington County,,,,,Battenkill Valley SU,Arlington,,,,Arlington Memorial, , ,,, , , , , ,,,, ,20, ,28,,,29,,43,38,,40,39, , , ,237
+,,,,,,,,,,,Fisher School, , ,,,22,24,22,18,20,,,,21, , , ,,, ,, , ,, , , , , ,127
+,,,,,,,Battenkill Valley SU,,,,Battenkill Valley SU,5, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,5
+,,,,,,Bennington Rutland SU,Dorset,,,,Dorset School, , ,,,11,13,12,19,15,,,,19,28, ,26,,,27,, , ,, , , , , ,170
+,,,,,,,Manchester,,,,Manchester Elementary/Middle School, , ,,,35,36,37,40,45,,,,48,60, ,55,,,74,, , ,, , , , , ,430
+,,,,,,,Sunderland,,,,Sunderland Elementary School, , ,,,6,5,7,10,8,,,,10,13, , ,,, ,, , ,, , , , , ,59
+,,,,,,Southwest Vermont SU,Bennington ID,,,,Bennington Elementary School, , ,,,37,38,58,37,22,,,,35,35, , ,,, ,, , ,, , , , , ,262
+,,,,,,,,,,,Catamount Elementary School, , ,,,29,42,43,36,51,,,,43,40, , ,,, ,, , ,, , , , , ,284
+,,,,,,,,,,,Molly Stark School, , ,,,37,49,44,43,47,,,,45,41, , ,,, ,, , ,, , , , , ,306
+,,,,,,,,,,,Monument School, , ,,,21,18,23,19,22,,,,21,20, , ,,, ,, , ,, , , , , ,144
+,,,,,,,Mt Anthony UHSD #14,,,,Mt Anthony Senior UHSD #14, , ,,, , , , , ,,,, , , , ,,, ,,286,304,,279,314, , , ,"1,183"
+,,,,,,,,,,,Mt Anthony Union Middle School, , ,,, , , , , ,,,, , , ,288,,,277,, , ,, , , , , ,565
+,,,,,,,North Bennington ID,,,,North Bennington Graded School, , ,,,16,19,25,22,18,,,,23,21, , ,,, ,, , ,, , , , , ,144
+,,,,,,,Pownal,,,,Pownal Elementary School, , ,,,31,37,37,32,35,,,,38,51, , ,,, ,, , ,, , , , , ,261
+,,,,,,,Shaftsbury,,,,Shaftsbury Elementary School, ,19,,,5,26,37,23,30,,,,26,37, , ,,, ,, , ,, , , , , ,203
+,,,,,,,Southwest Vermont SU,,,,Southwest Vermont SU,83, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,83
+,,,,,,,Woodford,,,,Woodford Hollow School, , ,,,5,5,8,6,2,,,,3,5, , ,,, ,, , ,, , , , , ,34
+,,,,,,Windham Southwest SU,Readsboro,,,,Readsboro Elementary School,5,11,,, ,4,6,6,6,,,,10,8, ,5,,,7,, , ,, , , , , ,68
+,,,,,,,Stamford,,,,Stamford Elementary School, ,3,,, ,6,9,13,6,,,,8,6, ,10,,,16,, , ,, , , , , ,77
+,,,,,,,,,,,County Total,93,33,,,255,322,368,324,327,,,,350,385, ,412,,,430,,329,342,,319,353, , , ,"4,642"
+,Caledonia County,,,,,Caledonia Central SU,Barnet,,,,Barnet Elementary School, , ,,,15,15,17,15,14,,,,15,19, ,22,,,32,, , ,, , , , , ,164
+,,,,,,,Caledonia Central SU,,,,Caledonia Central SU,74, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,74
+,,,,,,,Danville,,,,Danville School, ,20,,, ,20,23,19,30,,,,23,28, ,29,,,28,,41,27,,40,46, , , ,374
+,,,,,,,Peacham,,,,Peacham Elementary School,7,1,,, ,5,5,6,10,,,,7,10, , ,,, ,, , ,, , , , , ,51
+,,,,,,,Walden,,,,Walden School,2,5,,, ,11,13,6,17,,,,14,14, ,18,,,15,, , ,, , , , , ,115
+,,,,,,Caledonia North SU,Burke,,,,Burke Town School,9,17,,,1,22,27,21,20,,,,15,13, ,21,,,26,, , ,, , , , , ,192
+,,,,,,,Caledonia North SU,,,,Caledonia North SU,33, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,33
+,,,,,,,Lyndon,,,,Lyndon Town School, ,56,,, ,52,56,63,57,,,,47,74, ,59,,,69,, , ,, , , , , ,533
+,,,,,,,Millers Run USD #37,,,,Millers Run School USD #37,14,15,,, ,19,14,14,10,,,,21,15, ,16,,,17,, , ,, , , , , ,155
+,,,,,,,Newark,,,,Newark School, ,3,,, ,6,6,4,7,,,,4,3, ,6,,,5,, , ,, , , , , ,44
+,,,,,,,Sutton,,,,Sutton School, , ,,,9,11,8,16,11,,,,16,11, ,14,,,10,, , ,, , , , , ,106
+,,,,,,Essex Caledonia SU,Waterford,,,,Waterford Elementary School,29, ,,,16,17,23,19,11,,,,17,12, ,19,,,21,, , ,, , , , , ,184
+,,,,,,Orleans Southwest SU,Hardwick,,,,Hardwick Elementary School, , ,,,49,49,40,37,38,,,,38,44, , ,,, ,, , ,, , , , , ,295
+,,,,,,,Hazen UHSD #26 (District),,,,Hazen UHSD #26 (School), , ,,, , , , , ,,,, , , ,66,,,71,,62,56,,69,55, , , ,379
+,,,,,,,Orleans Southwest SU,,,,Orleans Southwest SU,79, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,79
+,,,,,,St Johnsbury SD,St Johnsbury,,,,St Johnsbury Schools,74, ,,,86,62,77,57,61,,,,76,79, ,74,,,69,, , ,, , , , , ,715
+,,,,,,,,,,,County Total,321,117,,,176,289,309,277,286,,,,293,322, ,344,,,363,,103,83,,109,101, , , ,"3,493"
+,Chittenden County,,,,,Burlington SD,Burlington,,,,Burlington Senior High School, , ,,, , , , , ,,,, , , , ,,, ,,343,310,,282,216, ,16, ,"1,167"
+,,,,,,,,,,,C P Smith School, , ,,,38,48,46,50,51,,,,45, , , ,,, ,, , ,, , , , , ,278
+,,,,,,,,,,,Champlain School, , ,,,58,55,56,39,42,,,,43, , , ,,, ,, , ,, , , , , ,293
+,,,,,,,,,,,Edmunds Elementary School, , ,,,42,48,54,52,47,,,,44, , , ,,, ,, , ,, , , , , ,287
+,,,,,,,,,,,Edmunds Middle School, , ,,, , , , , ,,,, ,125, ,135,,,112,, , ,, , , , , ,372
+,,,,,,,,,,,Essential Early Education Center,45, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,45
+,,,,,,,,,,,Integrated Arts Academy At HO Wheeler,34, ,,,39,31,38,35,28,,,,24, , , ,,, ,, , ,, , , , , ,229
+,,,,,,,,,,,J J Flynn School, , ,,,50,51,57,59,54,,,,61, , , ,,, ,, , ,, , , , , ,332
+,,,,,,,,,,,Lyman C Hunt Middle School, , ,,, , , , , ,,,, ,135, ,153,,,148,, , ,, , , , , ,436
+,,,,,,,,,,,Ontop, , ,,, , , , , ,,,, , , ,1,,,1,,7,5,,1, , , , ,15
+,,,,,,,,,,,Sustainability Academy At Lawrence Barnes, , ,,,29,37,17,26,20,,,,22, , , ,,, ,, , ,, , , , , ,151
+,,,,,,,Burlington SD,,,,Burlington SD,207, ,,,1, , , , ,,,, , , , ,,, ,, , ,, , , , , ,208
+,,,,,,Chittenden Central SU,Essex Community Education Center UHSD #46 (District),,,,Essex Community Education Center UHSD #46 (School), , ,,, , , , , ,,,, , , , ,,, ,,368,404,,406,353, , , ,"1,531"
+,,,,,,,Essex Junction ID,,,,Albert D Lawton School, , ,,, , , , , ,,,, ,90, ,128,,,135,, , ,, , , , , ,353
+,,,,,,,,,,,Hiawatha School,16, ,,,57,44,52,48, ,,,, , , , ,,, ,, , ,, , , , , ,217
+,,,,,,,,,,,Summit Street School,16, ,,,56,52,53,55, ,,,, , , , ,,, ,, , ,, , , , , ,232
+,,,,,,,,,,,Thomas Fleming School, , ,,, , , , ,110,,,,126, , , ,,, ,, , ,, , , , , ,236
+,,,,,,,Westford,,,,Westford Elementary School,15,17,,, ,22,26,27,27,,,,33,24, ,35,,,29,, , ,, , , , , ,255
+,,,,,,Chittenden East SU,Bolton,,,,Smilie Memorial School (Bolton),12,14,,, ,19,17,11,13,,,, , , , ,,, ,, , ,, , , , , ,86
+,,,,,,,Huntington,,,,Brewster Pierce School,17,20,,, ,36,15,21,26,,,, , , , ,,, ,, , ,, , , , , ,135
+,,,,,,,Jericho,,,,Jericho Elementary School,16,2,,,44,60,47,51,53,,,, , , , ,,, ,, , ,, , , , , ,273
+,,,,,,,Mt Mansfield USD #17 (District),,,,Browns River Middle USD #17, , ,,, , , , , ,,,,114,120, ,123,,,118,, , ,, , , , , ,475
+,,,,,,,,,,,Camels Hump Middle USD #17, , ,,, , , , , ,,,,98,111, ,106,,,103,, , ,, , , , , ,418
+,,,,,,,,,,,Mt Mansfield USD #17 (School), , ,,, , , , , ,,,, , , , ,,, ,,231,260,,251,287, , , ,"1,029"
+,,,,,,,Richmond,,,,Richmond Elementary School,26,39,,, ,47,60,52,52,,,, , , , ,,, ,, , ,, , , , , ,276
+,,,,,,,Underhill ID,,,,Underhill ID School, , ,,,17,26,13,36,28,,,, , , , ,,, ,, , ,, , , , , ,120
+,,,,,,,Underhill Town,,,,Underhill Central School, , ,,,28,25,25,35,33,,,, , , , ,,, ,, , ,, , , , , ,146
+,,,,,,Chittenden South SU,Champlain Valley UHSD #15 (District),,,,Champlain Valley UHSD #15 (School), , ,,, , , , , ,,,, , , , ,,, ,,353,347,,334,317,2, ,4,"1,357"
+,,,,,,,Charlotte,,,,Charlotte Central School,13,48,,, ,47,45,51,48,,,,51,64, ,61,,,78,, , ,, , , , , ,506
+,,,,,,,Chittenden South SU,,,,Chittenden South SU,61, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,61
+,,,,,,,Hinesburg,,,,Hinesburg Community School,26,47,,,4,52,40,56,42,,,,65,54, ,75,,,54,, , ,, , , , , ,515
+,,,,,,,Shelburne,,,,Shelburne Community School,15,76,,, ,74,74,105,83,,,,100,89, ,107,,,104,, , ,, , , , , ,827
+,,,,,,,Williston,,,,Williston Schools,42,98,,, ,125,131,118,114,,,,132,143, ,138,,,130,, , ,, , , , , ,"1,171"
+,,,,,,Colchester SD,Colchester,,,,Colchester High School, , ,,, , , , , ,,,, , , , ,,, ,,206,202,,180,189,18, , ,795
+,,,,,,,,,,,Colchester Middle School, , ,,, , , , , ,,,, ,160, ,198,,,188,, , ,, , , , , ,546
+,,,,,,,,,,,Malletts Bay School, , ,,, , , ,158,165,,,,170, , , ,,, ,, , ,, , , , , ,493
+,,,,,,,,,,,Porters Point School, ,81,,, ,88,85, , ,,,, , , , ,,, ,, , ,, , , , , ,254
+,,,,,,,,,,,Union Memorial School,19,71,,, ,89,68, , ,,,, , , , ,,, ,, , ,, , , , , ,247
+,,,,,,,Colchester SD,,,,Colchester SD,33, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,33
+,,,,,,Essex Town SD,Essex Town,,,,Essex Elementary School,33, ,,,114,132,125, , ,,,, , , , ,,, ,, , ,, , , , , ,404
+,,,,,,,,,,,Essex Middle School, , ,,, , , , , ,,,, ,167, ,133,,,181,, , ,, , , , , ,481
+,,,,,,,,,,,Founders Memorial School, , ,,, , , ,138,143,,,,146, , , ,,, ,, , ,, , , , , ,427
+,,,,,,Milton SD,Milton ID,,,,Milton Elementary School,57, ,,,124,126,127,138,157,,,,130,144, , ,,, ,, , ,, , , , , ,"1,003"
+,,,,,,,,,,,Milton Middle School, , ,,, , , , , ,,,, , , ,139,,,133,, , ,, , , , , ,272
+,,,,,,,,,,,Milton Senior High School, , ,,, , , , , ,,,, , , , ,,, ,,180,126,,131,122,3, , ,562
+,,,,,,South Burlington SD,South Burlington,,,,Chamberlin School, , ,,,49,54,48,41,42,,,,40, , , ,,, ,, , ,, , , , , ,274
+,,,,,,,,,,,Frederick H Tuttle Middle School, , ,,, , , , , ,,,, ,182, ,205,,,190,, , ,, , , , , ,577
+,,,,,,,,,,,Orchard School, , ,,,54,41,60,55,63,,,,63, , , ,,, ,, , ,, , , , , ,336
+,,,,,,,,,,,Rick Marcotte Central School, , ,,,76,65,58,73,76,,,,74, , , ,,, ,, , ,, , , , , ,422
+,,,,,,,,,,,South Burlington High School, , ,,, , , , , ,,,, , , , ,,, ,,222,255,,250,226, , , ,953
+,,,,,,,South Burlington SD,,,,South Burlington SD,99, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,99
+,,,,,,Winooski SD,Winooski ID,,,,J F Kennedy Elementary School,69, ,,,57,51,54,45,48,,,,59, , , ,,, ,, , ,, , , , , ,383
+,,,,,,,,,,,Winooski High School, , ,,, , , , , ,,,, , , , ,,, ,,67,65,,44,46,5, , ,227
+,,,,,,,,,,,Winooski Middle School, , ,,, , , , , ,,,, ,50, ,59,,,59,, , ,, , , , , ,168
+,,,,,,,,,,,County Total,871,513,,,937,"1,545","1,491","1,575","1,565",,,,"1,640","1,658", ,"1,796",,,"1,763",,"1,977","1,974",,"1,879","1,756",28,16,4,"22,988"
+,Essex County,,,,,Caledonia North SU,East Haven,,,,East Haven School, , ,,,3,3,5,4,4,,,,3,5, ,3,,,4,, , ,, , , , , ,34
+,,,,,,Essex Caledonia SU,Concord,,,,Concord School,9, ,,,15,20,18,18,17,,,,14,14, ,12,,,19,,21,27,,18,16, , , ,238
+,,,,,,,Granby,,,,Granby Central School, , ,,, , , ,2,1,,,, ,3, , ,,, ,, , ,, , , , , ,6
+,,,,,,,Guildhall,,,,Guildhall Elementary School, , ,,,4,5,6,3,4,,,,3,2, , ,,, ,, , ,, , , , , ,27
+,,,,,,,Lunenburg,,,,Lunenburg Schools,14,1,,,13,11,15,10,11,,,,13,17, ,10,,,14,, , ,, , , , , ,129
+,,,,,,Essex North SU,Canaan,,,,Canaan Schools, ,6,,, ,11,15,8,19,,,,12,22, ,25,,,19,,36,27,,26,30,1, , ,257
+,,,,,,,Essex North SU,,,,Essex North SU,27, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,27
+,,,,,,North Country SU,Brighton,,,,Brighton Elementary School,21,16,,, ,10,12,14,13,,,,12,20, ,15,,,23,, , ,, , , , , ,156
+,,,,,,,,,,,County Total,71,23,,,35,60,71,59,69,,,,57,83, ,65,,,79,,57,54,,44,46,1, , ,874
+,Franklin County,,,,,Franklin Central SU,Bellows Free Academy UHSD #48,,,,Bellows Free Academy (St Albans), , ,,, , , , , ,,,, , , , ,,, ,,331,291,,300,275, , , ,"1,197"
+,,,,,,,Fairfield,,,,Fairfield Center School, ,29,,,1,29,20,33,29,,,,38,32, ,29,,,40,, , ,, , , , , ,280
+,,,,,,,Franklin Central SU,,,,Franklin Central SU,133, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,133
+,,,,,,,St Albans City,,,,St Albans City School, , ,,,79,89,102,72,80,,,,86,88, ,88,,,86,, , ,, , , , , ,770
+,,,,,,,St Albans Town,,,,St Albans Town Education Center, , ,,,63,73,81,74,84,,,,76,68, ,67,,,76,, , ,, , , , , ,662
+,,,,,,Franklin Northeast SU,Bakersfield,,,,Bakersfield School, , ,,,17,16,13,22,21,,,,23,17, ,14,,,25,, , ,, , , , , ,168
+,,,,,,,Berkshire,,,,Berkshire Elementary School, ,18,,, ,24,17,16,27,,,,20,30, ,25,,,25,, , ,, , , , , ,202
+,,,,,,,Enosburgh,,,,Enosburg Falls Elementary School,1, ,,,33,25,40,38,21,,,,39, , , ,,, ,, , ,, , , , , ,197
+,,,,,,,,,,,Enosburg Falls Junior/Senior High School, , ,,, , , , , ,,,, ,50, ,43,,,51,,100,81,,88,75, , , ,488
+,,,,,,,Franklin Northeast SU,,,,Franklin Northeast SU,75, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,75
+,,,,,,,Montgomery,,,,Montgomery Center School, ,11,,, ,14,15,18,18,,,,13,12, ,10,,,13,, , ,, , , , , ,124
+,,,,,,,Richford,,,,Richford Elementary School, ,32,,, ,32,25,39,39,,,,35,30, , ,,, ,, , ,, , , , , ,232
+,,,,,,,,,,,Richford Junior/Senior High School, , ,,, , , , , ,,,, , , ,34,,,36,,45,47,,46,39,1, , ,248
+,,,,,,Franklin Northwest SU,Franklin,,,,Franklin Central School, ,16,,, ,25,14,18,22,,,,31,17, , ,,, ,, , ,, , , , , ,143
+,,,,,,,Franklin Northwest SU,,,,Franklin Northwest SU,97, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,97
+,,,,,,,Highgate,,,,Highgate Schools, ,43,,, ,44,52,53,61,,,,55,39, , ,,, ,, , ,, , , , , ,347
+,,,,,,,Missisquoi Valley UHSD #7 (District),,,,Missisquoi Valley UHSD #7 (School), , ,,, , , , , ,,,, , , ,170,,,176,,181,201,,181,134, , , ,"1,043"
+,,,,,,,Sheldon,,,,Sheldon Elementary School, ,26,,, ,28,35,29,27,,,,27,32, ,33,,,42,, , ,, , , , , ,279
+,,,,,,,Swanton,,,,Swanton Schools,28,80,,, ,91,77,84,76,,,,86,98, , ,,, ,, , ,, , , , , ,620
+,,,,,,Franklin West SU,Fairfax,,,,Bellows Free Academy (Fairfax),40, ,,,53,54,56,55,50,,,,58,61, ,83,,,92,, , ,, , , , , ,602
+,,,,,,,,,,,Bellows Free Academy High School (Fairfax), , ,,, , , , , ,,,, , , , ,,, ,,80,103,,94,68, , , ,345
+,,,,,,,Fletcher,,,,Fletcher Elementary School,19,13,,, ,22,9,17,13,,,,15,25, , ,,, ,, , ,, , , , , ,133
+,,,,,,,Georgia,,,,Georgia Elementary/Middle School,59,68,,, ,48,82,71,66,,,,78,74, ,70,,,84,, , ,, , , , , ,700
+,,,,,,,,,,,County Total,452,336,,,246,614,638,639,634,,,,680,673, ,666,,,746,,737,723,,709,591,1, , ,"9,085"
+,Grafton (NH) County,,,,,Rivendell Interstate School District,Rivendell Interstate School District,,,,Rivendell Academy, , ,,, , , , , ,,,, ,46, ,34,,,39,,49,53,,43,49, , , ,313
+,,,,,,,,,,,Rivendell Interstate School District,18, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,18
+,,,,,,,,,,,County Total,18, ,,, , , , , ,,,, ,46, ,34,,,39,,49,53,,43,49, , , ,331
+,Grand Isle County,,,,,Grand Isle SU,Alburgh,,,,Alburgh Community Education Center, , ,,,17,32,22,29,22,,,,25,26, ,24,,,25,, , ,, , , , , ,222
+,,,,,,,Grand Isle,,,,Grand Isle Elementary School, , ,,,26,17,26,26,18,,,,27,25, ,22,,,21,, , ,, , , , , ,208
+,,,,,,,Grand Isle SU,,,,Grand Isle SU,65, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,65
+,,,,,,,Isle Lamotte,,,,Isle La Motte Elementary School, , ,,, ,11,4,5,2,,,,5,4, , ,,, ,, , ,, , , , , ,31
+,,,,,,,North Hero,,,,North Hero Elementary School, , ,,,8,12,6,6,6,,,,11,6, ,8,,,7,, , ,, , , , , ,70
+,,,,,,,South Hero,,,,Folsom Education and Community Center, ,7,,,8,12,15,16,19,,,,23,21, ,23,,,24,, , ,, , , , , ,168
+,,,,,,,,,,,County Total,65,7,,,59,84,73,82,67,,,,91,82, ,77,,,77,, , ,, , , , , ,764
+,Lamoille County,,,,,Lamoille North SU,Cambridge,,,,Cambridge Elementary School,46,42,,, ,37,45,39,33,,,,39,39, , ,,, ,, , ,, , , , , ,320
+,,,,,,,Eden,,,,Eden Central School,20,17,,, ,17,20,16,19,,,,16,15, , ,,, ,, , ,, , , , , ,140
+,,,,,,,Hyde Park,,,,Hyde Park Elementary School,32, ,,,30,26,31,26,38,,,,23,28, , ,,, ,, , ,, , , , , ,234
+,,,,,,,Johnson,,,,Johnson Elementary School,27, ,,,24,27,32,41,26,,,,40,37, , ,,, ,, , ,, , , , , ,254
+,,,,,,,Lamoille UHSD #18 (District),,,,Lamoille UHSD #18 (School), , ,,, , , , , ,,,, , , , ,,, ,,197,146,,130,152, , , ,625
+,,,,,,,,,,,Lamoille Union Middle School #18, , ,,, , , , , ,,,, , , ,144,,,131,, , ,, , , , , ,275
+,,,,,,,Waterville,,,,Waterville Elementary School,13, ,,,7,12,12,10,14,,,,11,11, , ,,, ,, , ,, , , , , ,90
+,,,,,,Lamoille South SU,Elmore,,,,Lake Elmore School, , ,,, ,6,9,5, ,,,, , , , ,,, ,, , ,, , , , , ,20
+,,,,,,,Lamoille South SU,,,,Lamoille South SU,34, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,34
+,,,,,,,Morristown,,,,Morristown Elementary Schools, ,60,,, ,53,53,59,57,,,,76, , , ,,, ,, , ,, , , , , ,358
+,,,,,,,,,,,Peoples Academy, , ,,, , , , , ,,,, , , , ,,, ,,101,106,,101,82,7, , ,397
+,,,,,,,,,,,Peoples Academy Middle School, , ,,, , , , , ,,,, ,70, ,96,,,83,, , ,, , , , , ,249
+,,,,,,,Stowe,,,,Stowe Elementary School, ,41,,, ,42,47,45,53,,,,46, , , ,,, ,, , ,, , , , , ,274
+,,,,,,,,,,,Stowe Middle/High School, , ,,, , , , , ,,,, ,60, ,66,,,58,,66,68,,49,45, , , ,412
+,,,,,,Orleans Southwest SU,Wolcott,,,,Wolcott Elementary School, , ,,,19,23,18,20,27,,,,15,20, , ,,, ,, , ,, , , , , ,142
+,,,,,,,,,,,County Total,172,160,,,80,243,267,261,267,,,,266,280, ,306,,,272,,364,320,,280,279,7, , ,"3,824"
+,Orange County,,,,,Blue Mountain SD,Blue Mountain USD #21 (District),,,,Blue Mountain USD #21 (School),37, ,,,23,23,28,20,22,,,,30,34, ,42,,,40,,40,34,,38,28,2, , ,441
+,,,,,,Orange East SU,Bradford ID,,,,Bradford Elementary School, ,29,,, ,22,33,42,30,,,,40,34, , ,,, ,, , ,, , , , , ,230
+,,,,,,,Newbury,,,,Newbury Elementary School,17, ,,,16,20,18,24,21,,,,22,16, , ,,, ,, , ,, , , , , ,154
+,,,,,,,Orange East SU,,,,Orange East SU,44, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,44
+,,,,,,,Oxbow UHSD #30 (District),,,,Oxbow UHSD #30 (School), , ,,, , , , , ,,,, , , ,67,,,57,,101,78,,78,67, , , ,448
+,,,,,,,Thetford,,,,Thetford Elementary School, ,35,,, ,27,21,37,37,,,,42,32, , ,,, ,, , ,, , , , , ,231
+,,,,,,,Waits River Valley USD #36 (District),,,,Waits River Valley USD #36 (School), , ,,,22,24,27,25,27,,,,26,32, ,28,,,36,, , ,, , , , , ,247
+,,,,,,Orange North SU,Orange,,,,Orange Center School, , ,,,8,13,11,13,8,,,,15,8, ,8,,,13,, , ,, , , , , ,97
+,,,,,,,Washington,,,,Washington Village School,6, ,,,6,3,8,6,7,,,,5,4, ,5,,,10,, , ,, , , , , ,60
+,,,,,,,Williamstown,,,,Williamstown Elementary School,31, ,,,36,52,35,49,43,,,,48, , , ,,, ,, , ,, , , , , ,294
+,,,,,,,,,,,Williamstown Middle/High School, , ,,, , , , , ,,,, ,31, ,38,,,44,,51,47,,52,39, , , ,302
+,,,,,,Orange Southwest SU,Braintree,,,,Braintree School, ,11,,, ,13,18,10,17,,,,12,23, , ,,, ,, , ,, , , , , ,104
+,,,,,,,Brookfield,,,,Brookfield School, ,11,,, ,18,14,11,12,,,,26,16, , ,,, ,, , ,, , , , , ,108
+,,,,,,,Orange Southwest SU,,,,Orange Southwest SU,16, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,16
+,,,,,,,Randolph,,,,Randolph Elementary School, ,50,,, ,41,55,38,47,,,,52,50, , ,,, ,, , ,, , , , , ,333
+,,,,,,,Randolph UHSD #2 (District),,,,Randolph UHSD #2 (School), , ,,, , , , , ,,,, , , ,72,,,77,,92,100,,85,108, , , ,534
+,,,,,,Orange Windsor SU,Chelsea,,,,Chelsea Elementary High School, ,12,,, ,10,12,12,11,,,,9,4, ,12,,,13,,35,29,,28,18, , , ,205
+,,,,,,,Strafford,,,,Newton Elementary School, ,14,,, ,14,11,9,12,,,,10,9, ,16,,,15,, , ,, , , , , ,110
+,,,,,,,Tunbridge,,,,Tunbridge Central School, ,13,,, ,9,11,15,11,,,,22,13, ,13,,,19,, , ,, , , , , ,126
+,,,,,,Rivendell Interstate School District,Rivendell Interstate School District,,,,Samuel Morey Elementary School, ,1,,,20,17,27,20,18,,,,32, , , ,,, ,, , ,, , , , , ,135
+,,,,,,,,,,,Westshire School, , ,,,12,12,14,16,17,,,,13, , , ,,, ,, , ,, , , , , ,84
+,,,,,,,,,,,County Total,151,176,,,143,318,343,347,340,,,,404,306, ,301,,,324,,319,288,,281,260,2, , ,"4,303"
+,Orleans County,,,,,North Country SU,Charleston,,,,Charleston Elementary School,10,7,,, ,10,11,10,9,,,,15,17,1,14,,,10,, , ,, , , , , ,114
+,,,,,,,Coventry,,,,Coventry Village School, ,1,,,11,12,11,16,8,,,,17,10, ,15,,,9,, , ,, , , , , ,110
+,,,,,,,Derby,,,,Derby Elementary School, , ,,,52,47,54,78,58,,,,48,60, , ,,, ,, , ,, , , , , ,397
+,,,,,,,Holland,,,,Holland Elementary School,10,11,,, ,7,9,11,6,,,,12,8, , ,,, ,, , ,, , , , , ,74
+,,,,,,,Jay/Westfield Joint Elementary District,,,,Jay/Westfield Joint School, , ,,,9,14,5,13,9,,,,9,6, , ,,, ,, , ,, , , , , ,65
+,,,,,,,Lowell,,,,Lowell Graded School,17,13,,,1,9,15,11,9,,,,9,8, ,10,,,15,, , ,, , , , , ,117
+,,,,,,,Morgan,,,,E Taylor Hatton School, ,3,,, ,4,7,4,7,,,,6,11, , ,,, ,, , ,, , , , , ,42
+,,,,,,,Newport City,,,,Newport City Elementary Schools, , ,,,40,48,49,48,41,,,,38,52, , ,,, ,, , ,, , , , , ,316
+,,,,,,,Newport Town,,,,Newport Town School, ,10,,, ,14,14,18,14,,,,17,21, , ,,, ,, , ,, , , , , ,108
+,,,,,,,North Country Junior UHSD #22 (District),,,,North Country Junior UHSD #22 (School), , ,,, , , , , ,,,, , , ,160,,,154,, , ,, , , , , ,314
+,,,,,,,North Country Senior UHSD #22 (District),,,,North Country Senior UHSD #22 (School), , ,,, , , , , ,,,, , , , ,,, ,,290,282,,242,222, , , ,"1,036"
+,,,,,,,North Country SU,,,,North Country SU,96, ,,, , , ,1,1,,,, ,1, ,1,,,3,, , ,, , , , , ,103
+,,,,,,,Troy,,,,Troy School, ,23,,, ,16,17,26,18,,,,17,19, ,13,,,17,, , ,, , , , , ,166
+,,,,,,Orleans Central SU,Albany,,,,Albany Community School, ,10,,, ,10,11,14,12,,,,17,13, ,9,,,10,, , ,, , , , , ,106
+,,,,,,,Barton ID,,,,Barton Graded School, , ,,,22,15,13,11,18,,,,18,21, ,24,,,29,, , ,, , , , , ,171
+,,,,,,,Brownington,,,,Brownington Central School, , ,,,10,15,9,11,8,,,,7,15, , ,,, ,, , ,, , , , , ,75
+,,,,,,,Glover,,,,Glover Community School, , ,,,13,12,19,8,8,,,,15,12, ,8,,,13,, , ,, , , , , ,108
+,,,,,,,Irasburg,,,,Irasburg Village School, ,15,,, ,13,11,17,15,,,,27,18, ,15,,,15,, , ,, , , , , ,146
+,,,,,,,Lake Region UHSD #24 (District),,,,Lake Region UHSD #24 (School), , ,,, , , , , ,,,, , , , ,,, ,,101,89,,98,85, , , ,373
+,,,,,,,Orleans Central SU,,,,Orleans Central SU,91, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,91
+,,,,,,,Orleans ID,,,,Orleans Elementary School, , ,,,9,12,15,12,6,,,,19,7, ,20,,,27,, , ,, , , , , ,127
+,,,,,,Orleans Southwest SU,Craftsbury,,,,Craftsbury Schools, ,8,,, ,14,17,12,10,,,,12,14, ,18,,,19,,18,16,,11,16, , , ,185
+,,,,,,,Lakeview USD #43 (District),,,,Lakeview USD #43 (School), ,13,,, ,6,6,12,7,,,,16,13, , ,,, ,, , ,, , , , , ,73
+,,,,,,,,,,,County Total,224,114,,,167,278,293,333,264,,,,319,326,1,307,,,321,,409,387,,351,323, , , ,"4,417"
+,Rutland County,,,,,Addison Rutland SU,Benson,,,,Benson Village School,20, ,,,10,13,17,10,11,,,,16,22, ,14,,,18,, , ,, , , , , ,151
+,,,,,,,Castleton Hubbardton USD #42 (District),,,,Castleton Hubbardton USD #42 (School),23, ,,,50,35,42,47,49,,,,47,45,1,58,,,65,, , ,, , , , , ,462
+,,,,,,,Fair Haven,,,,Fair Haven Grade School,18, ,,,33,38,41,37,44,,,,37,34, ,45,,,36,, , ,, , , , , ,363
+,,,,,,,Fair Haven UHSD #16 (District),,,,Fair Haven UHSD #16 (School), , ,,, , , , , ,,,, , , , ,,, ,,118,159,,137,138, , , ,552
+,,,,,,Bennington Rutland SU,Bennington Rutland SU,,,,Bennington Rutland SU,98, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,98
+,,,,,,,Currier Memorial USD #23 (District),,,,Currier Memorial USD #23 (School), , ,,,16,19,18,20,18,,,,15,16, , ,,, ,, , ,, , , , , ,122
+,,,,,,,Union School District #47,,,,Mettawee Community School USD #47, , ,,,22,24,27,29,30,,,,33,22, , ,,, ,, , ,, , , , , ,187
+,,,,,,Rutland Central SU,Proctor,,,,Proctor Elementary School,12,27,,, ,22,21,26,23,,,,35,33, , ,,, ,, , ,, , , , , ,199
+,,,,,,,,,,,Proctor Junior/Senior High School, , ,,, , , , , ,,,, , , ,14,,,27,,20,31,,31,31, , , ,154
+,,,,,,,Rutland Town,,,,Rutland Town Elementary School,9,35,,,1,32,36,37,39,,,,42,39, ,38,,,49,, , ,, , , , , ,357
+,,,,,,,West Rutland,,,,West Rutland School,19,10,,,8,24,27,25,25,,,,23,28, ,38,,,31,,42,25,,32,30, , , ,387
+,,,,,,Rutland City SD,Rutland City,,,,Rutland High School, , ,,, , , , , ,,,, , , , ,,, ,,309,285,,283,279, , , ,"1,156"
+,,,,,,,,,,,Rutland Intermediate School, , ,,, , , ,149,179,,,,190,187, , ,,, ,, , ,, , , , , ,705
+,,,,,,,,,,,Rutland Middle School, , ,,, , , , , ,,,, , , ,178,,,203,, , ,, , , , , ,381
+,,,,,,,,,,,Rutland Northeast Primary School,19, ,,,82,90,78, , ,,,, , , , ,,, ,, , ,, , , , , ,269
+,,,,,,,,,,,Rutland Northwest Primary School,21, ,,,94,90,79, , ,,,, , , , ,,, ,, , ,, , , , , ,284
+,,,,,,Rutland Northeast SU,Barstow Joint Contract District,,,,Barstow Memorial School,30, ,,,22,30,25,40,30,,,,33,27, ,28,,,37,, , ,, , , , , ,302
+,,,,,,,Brandon,,,,Neshobe School,66, ,,,51,33,42,30,52,,,,41,63, , ,,, ,, , ,, , , , , ,378
+,,,,,,,Otter Valley UHSD #8 (District),,,,Otter Valley UHSD #8 (School), , ,,, , , , , ,,,, , , ,114,,,123,,151,123,,100,108, ,1, ,720
+,,,,,,,Pittsford,,,,Lothrop School,59, ,,,23,46,37,21,32,,,,38,27, , ,,, ,, , ,, , , , , ,283
+,,,,,,,Sudbury,,,,Sudbury Country School, ,2,,, ,3,5,3,4,,,,5,6, , ,,, ,, , ,, , , , , ,28
+,,,,,,Rutland South SU,Clarendon,,,,Clarendon Elementary School,41, ,,,29,24,30,32,28,,,,25,34, , ,,, ,, , ,, , , , , ,243
+,,,,,,,Mill River USD #40 (District),,,,Mill River USD #40 (School), , ,,, , , , , ,,,, , , ,93,,,101,,117,143,,134,127, , , ,715
+,,,,,,,Shrewsbury,,,,Shrewsbury Mountain School,14, ,,,7,9,10,10,9,,,,6,8, , ,,, ,, , ,, , , , , ,73
+,,,,,,,Wallingford,,,,Wallingford Village School, , ,,,26,16,16,25,31,,,,19,26, , ,,, ,, , ,, , , , , ,159
+,,,,,,Rutland Southwest SU,Middletown Springs,,,,Middletown Springs Elementary School,10,10,,, ,6,4,5,8,,,,7,7, , ,,, ,, , ,, , , , , ,57
+,,,,,,,Poultney,,,,Poultney Elementary School, , ,,,24,25,31,32,26,,,,30,37, , ,,, ,, , ,, , , , , ,205
+,,,,,,,,,,,Poultney High School, , ,,, , , , , ,,,, , , ,41,,,45,,51,48,,48,49, , , ,282
+,,,,,,,Rutland Southwest SU,,,,Rutland Southwest SU,32, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,32
+,,,,,,,Tinmouth,,,,Tinmouth Elementary School,10, ,,,5,4,5,5,6,,,,1,4, , ,,, ,, , ,, , , , , ,40
+,,,,,,,Wells,,,,Wells Village School, , ,,,12,11,12,8,9,,,,12,9, , ,,, ,, , ,, , , , , ,73
+,,,,,,Rutland Windsor SU,Mt Holly,,,,Mt Holly School, , ,,,18,16,21,10,9,,,,17,12, , ,,, ,, , ,, , , , , ,103
+,,,,,,Windsor Central SU,Sherburne,,,,Killington Elementary School,13, ,,,6,16,15,8,11,,,,11,10, , ,,, ,, , ,, , , , , ,90
+,,,,,,,,,,,County Total,514,84,,,539,626,639,609,673,,,,683,696,1,660,,,735,,808,814,,765,762, ,1, ,"9,609"
+,Washington County,,,,,Barre SU,Barre City,,,,Barre City Elementary/Middle School,41, ,,,90,94,97,94,98,,,,100,109, ,90,,,96,, , ,, , , , , ,909
+,,,,,,,Barre Town,,,,Barre Town Elementary School,42,1,,,93,85,87,112,98,,,,104,104, ,111,,,114,, , ,, , , , , ,951
+,,,,,,,Spaulding HSUD #41 (District),,,,Spaulding HSUD #41 (School),5, ,,, , , , , ,,,, , , , ,,, ,,271,218,,212,221,3, , ,930
+,,,,,,Montpelier SD,Montpelier,,,,Main Street School, , ,,, , , , , ,,,, ,55, ,91,,,86,, , ,, , , , , ,232
+,,,,,,,,,,,Montpelier High School, , ,,, , , , , ,,,, , , , ,,, ,,107,121,,98,112, , , ,438
+,,,,,,,,,,,Union Elementary School, , ,,,63,59,47,59,68,,,,96, , , ,,, ,, , ,, , , , , ,392
+,,,,,,,Montpelier SD,,,,Montpelier SD,31, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,31
+,,,,,,Orleans Southwest SU,Woodbury,,,,Woodbury Elementary School, ,6,,, ,11,11,10,6,,,,7,6, , ,,, ,, , ,, , , , , ,57
+,,,,,,Washington Central SU,Berlin,,,,Berlin Elementary School,30, ,,,22,31,36,26,26,,,,27,32, , ,,, ,, , ,, , , , , ,230
+,,,,,,,Calais,,,,Calais Elementary School,19,15,,, ,10,11,14,14,,,,14,22, , ,,, ,, , ,, , , , , ,119
+,,,,,,,East Montpelier,,,,East Montpelier Elementary School,25, ,,,30,28,27,31,26,,,,27,29, , ,,, ,, , ,, , , , , ,223
+,,,,,,,Middlesex,,,,Rumney School (Middlesex),19, ,,,16,21,14,17,17,,,,24,21, , ,,, ,, , ,, , , , , ,149
+,,,,,,,U32 High School UHSD #32 (District),,,,U32 High School UHSD #32 (School), , ,,, , , , , ,,,, , , ,140,,,128,,170,151,,169,129, , , ,887
+,,,,,,,Worcester,,,,Doty Memorial School,12, ,,,12,6,6,8,12,,,,13,11, , ,,, ,, , ,, , , , , ,80
+,,,,,,Washington Northeast SU,Cabot,,,,Cabot School,8,11,,, ,9,13,11,9,,,,10,11, ,13,,,16,,26,15,,21,19, , , ,192
+,,,,,,,Twinfield USD #33 (District),,,,Twinfield USD #33 (School),21,22,,, ,40,26,34,28,,,,22,43, ,32,,,38,,41,40,,34,48, , , ,469
+,,,,,,Washington South SU,Northfield,,,,Northfield Elementary School,40,54,,,1,47,41,42,50,,,,46, , , ,,, ,, , ,, , , , , ,321
+,,,,,,,,,,,Northfield Middle/High School, , ,,, , , , , ,,,, ,46, ,58,,,60,,72,61,,62,67, ,1, ,427
+,,,,,,,Roxbury,,,,Roxbury Village School,10, ,,,14,5,13,8,6,,,,5,6, , ,,, ,, , ,, , , , , ,67
+,,,,,,Washington West SU,Duxbury/Waterbury Union #45,,,,Crossett Brook Middle USD #45, , ,,, , , , , ,,,,66,82, ,78,,,86,, , ,, , , , , ,312
+,,,,,,,,,,,Thatcher Brook Primary USD #45,91,42,,,18,76,68,54,77,,,, , , , ,,, ,, , ,, , , , , ,426
+,,,,,,,Fayston,,,,Fayston Elementary School,16,15,,, ,12,12,18,15,,,,15,9, , ,,, ,, , ,, , , , , ,112
+,,,,,,,Harwood UHSD #19 (District),,,,Harwood UHSD #19 (School), , ,,, , , , , ,,,, , , , ,,, ,,171,173,,163,158, ,3,1,669
+,,,,,,,,,,,Harwood Union Middle UHSD #19, , ,,, , , , , ,,,, , , ,81,,,74,, , ,, , , , , ,155
+,,,,,,,Moretown,,,,Moretown Elementary School,26,19,,, ,21,27,16,18,,,,25,15,5, ,,, ,, , ,, , , , , ,172
+,,,,,,,Waitsfield,,,,Waitsfield Elementary School,35,26,,, ,15,22,18,23,,,,24,19, , ,,, ,, , ,, , , , , ,182
+,,,,,,,Warren,,,,Warren Elementary School,19, ,,,14,20,11,12,21,,,,20,26, , ,,, ,, , ,, , , , , ,143
+,,,,,,,,,,,County Total,490,211,,,373,590,569,584,612,,,,645,646,5,694,,,698,,858,779,,759,754,3,4,1,"9,275"
+,Windham County,,,,,Windham Central SU,Brookline,,,,Brookline Elementary School, , ,,,8,6,5,7,8,,,,4,7, , ,,, ,, , ,, , , , , ,45
+,,,,,,,Dover,,,,Dover Elementary School,10, ,,,10,8,12,13,9,,,,16,5, , ,,, ,, , ,, , , , , ,83
+,,,,,,,Jamaica,,,,Jamaica Village School, , ,,,10,14,12,18,17,,,,11,15, , ,,, ,, , ,, , , , , ,97
+,,,,,,,Leland and Gray UHSD #34 (District),,,,Leland and Gray UHSD #34 (School), , ,,, , , , , ,,,, , , ,67,,,62,,64,78,,55,67,2, , ,395
+,,,,,,,Marlboro,,,,Marlboro Elementary School,8,13,,, ,6,10,8,5,,,,8,9,3,8,,,7,, , ,, , , , , ,85
+,,,,,,,Newfane,,,,Newfane Elementary School, , ,,,12,16,13,14,27,,,,15,14, , ,,, ,, , ,, , , , , ,111
+,,,,,,,Townshend,,,,Townshend Village School, , ,,,12,17,11,13,11,,,,12,6, , ,,, ,, , ,, , , , , ,82
+,,,,,,,Wardsboro,,,,Wardsboro Central School,13, ,,,9,12,13,7,13,,,,6,2, , ,,, ,, , ,, , , , , ,75
+,,,,,,,Windham,,,,Windham Elementary School,3,5,,, , ,5,7,4,,,,2,7, , ,,, ,, , ,, , , , , ,33
+,,,,,,,Windham Central SU,,,,Windham Central SU,4, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,4
+,,,,,,Windham Northeast SU,Athens/Grafton Contract School District,,,,Grafton Elementary School, , ,,,19,8,14,17,8,,,,13,5, , ,,, ,, , ,, , , , , ,84
+,,,,,,,Bellows Falls UHSD #27 (District),,,,Bellows Falls UHSD #27 (School), , ,,, , , , , ,,,, , , , ,,, ,,112,74,,93,84, , , ,363
+,,,,,,,Rockingham,,,,Bellows Falls Middle School, , ,,, , , , , ,,,,46,60, ,78,,,97,, , ,, , , , , ,281
+,,,,,,,,,,,Rockingham Central Elementary, , ,,,39,54,37,34,43,,,, , , , ,,, ,, , ,, , , , , ,207
+,,,,,,,,,,,Saxtons River Elementary School, , ,,,21,19,19,20,22,,,,14, , , ,,, ,, , ,, , , , , ,115
+,,,,,,,Westminster,,,,Westminster Schools, , ,,,24,36,33,31,27,,,,21,33, , ,,, ,, , ,, , , , , ,205
+,,,,,,,Windham Northeast SU,,,,Windham Northeast SU,52, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,52
+,,,,,,Windham Southeast SU,Brattleboro,,,,Academy School, , ,,,53,67,46,54,38,,,,51,47,7, ,,, ,, , ,, , , , , ,363
+,,,,,,,,,,,Green Street School, , ,,,44,43,33,37,41,,,,32,33, , ,,, ,, , ,, , , , , ,263
+,,,,,,,,,,,Oak Grove School, , ,,,20,22,20,22,20,,,,19,20,12, ,,, ,, , ,, , , , , ,155
+,,,,,,,Brattleboro UHSD #6 (District),,,,Bratt Area Middle School UHSD #6, , ,,, , , , , ,,,, , , ,143,,,170,, , ,, , , , , ,313
+,,,,,,,,,,,Brattleboro UHSD #6 (School), , ,,, , , , , ,,,, , , , ,,, ,,236,284,,226,234, , ,1,981
+,,,,,,,Dummerston,,,,Dummerston Schools, ,1,,,9,16,17,21,13,,,,14,20, ,26,,,22,, , ,, , , , , ,159
+,,,,,,,Guilford,,,,Guilford Central School, ,16,,, ,20,14,18,16,,,,21,16, ,29,,,35,, , ,, , , , , ,185
+,,,,,,,Putney,,,,Putney Central School,15, ,,,12,30,15,19,19,,,,26,31, ,29,,,30,, , ,, , , , , ,226
+,,,,,,,Vernon,,,,Vernon Elementary School, ,15,,, ,29,21,32,30,,,,34,38, , ,,, ,, , ,, , , , , ,199
+,,,,,,,Windham Southeast SU,,,,Windham Southeast SU,48, ,,, ,1,4,2, ,,,,3,2, , ,,, ,, , ,, , , , , ,60
+,,,,,,Windham Southwest SU,Halifax,,,,Halifax School, , ,,,5,7,12,10,6,,,,4,4, ,7,,,4,, , ,, , , , , ,59
+,,,,,,,Whitingham,,,,Whitingham School,21,11,,,1,20,13,17,15,,,,7, , , ,,, ,, , ,, , , , , ,105
+,,,,,,,Whitingham/Wilmington Joint Contract District,,,,Twin Valley High School, , ,,, , , , , ,,,, , , , ,,, ,,65,57,,78,65, , , ,265
+,,,,,,,,,,,Twin Valley Middle School, , ,,, , , , , ,,,, ,49, ,44,,,45,, , ,, , , , , ,138
+,,,,,,,Wilmington,,,,Twin Valley Elementary School,32, ,,,25,16,19,27,29,,,,15, , , ,,, ,, , ,, , , , , ,163
+,,,,,,,Windham Southwest SU,,,,Windham Southwest SU,2, ,,,1,4,2,1,2,,,,1, , , ,,, ,, , ,, , , , , ,13
+,,,,,,Windsor Southwest SU,Flood Brook USD #20 (District),,,,Flood Brook USD #20 (School),13, ,,,31,37,33,38,28,,,,27,31, ,23,,,43,, , ,, , , , , ,304
+,,,,,,,,,,,County Total,221,61,,,365,508,433,487,451,,,,422,454,22,454,,,515,,477,493,,452,450,2, ,1,"6,268"
+,Windsor County,,,,,Hartford SD,Hartford,,,,Dothan Brook School, ,45,,, ,56,50,39,51,,,,41, , , ,,, ,, , ,, , , , , ,282
+,,,,,,,,,,,Hartford High School, , ,,, , , , , ,,,, , , , ,,, ,,203,192,,181,216, , , ,792
+,,,,,,,,,,,Hartford Memorial Middle School, , ,,, , , , , ,,,, ,132, ,118,,,136,, , ,, , , , , ,386
+,,,,,,,,,,,Ottauquechee School,11,26,,, ,37,36,30,40,,,,39, , , ,,, ,, , ,, , , , , ,219
+,,,,,,,,,,,White River School,34, ,,,30,34,22,28,19,,,,31, , , ,,, ,, , ,, , , , , ,198
+,,,,,,,Hartford SD,,,,Hartford SD,16, ,,, , , , , ,,,,2, , ,1,,,5,,1,4,,3, , , , ,32
+,,,,,,Orange Windsor SU,Orange Windsor SU,,,,Orange Windsor SU,13, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,13
+,,,,,,,Royalton,,,,South Royalton Elementary/High School,15, ,,,18,21,28,18,30,,,,31,28, ,29,,,34,,46,55,,43,44, , , ,440
+,,,,,,,Sharon,,,,Sharon Elementary School,13,12,,, ,20,19,10,20,,,,8,23, , ,,, ,, , ,, , , , , ,125
+,,,,,,Rutland Windsor SU,Black River USD #39 (District),,,,Black River USD #39 (School), , ,,, , , , , ,,,, , , ,43,,,29,,39,40,,36,49, , , ,236
+,,,,,,,Ludlow,,,,Ludlow Elementary School, ,11,,, ,15,18,16,24,,,,20,16, , ,,, ,, , ,, , , , , ,120
+,,,,,,,Plymouth,,,,Plymouth Elementary School, , ,,,6,3,2,3,3,,,,2,4, , ,,, ,, , ,, , , , , ,23
+,,,,,,,Rutland Windsor SU,,,,Rutland Windsor SU,34, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,34
+,,,,,,Sau 70,Norwich,,,,Marion W Cross School, ,31,,, ,36,41,49,47,,,,43,53, , ,,, ,, , ,, , , , , ,300
+,,,,,,Springfield SD,Springfield,,,,Elm Hill School, , ,,,18,19,22,20,21,,,,19, ,3, ,,, ,, , ,, , , , , ,122
+,,,,,,,,,,,Park Street School, , ,,,37,54,40,55,57,,,,42, ,4, ,,, ,, , ,, , , , , ,289
+,,,,,,,,,,,Riverside Middle School, , ,,, , , , , ,,,, ,95,4,98,,,124,, , ,, , ,1, , ,322
+,,,,,,,,,,,Springfield High School, , ,,, , , , , ,,,, , , , ,,, ,,147,135,,156,106, , , ,544
+,,,,,,,,,,,Union Street School, , ,,,42,17,37,19,21,,,,34, , , ,,, ,, , ,, , , , , ,170
+,,,,,,,Springfield SD,,,,Springfield SD,14, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,14
+,,,,,,Windsor Central SU,Barnard,,,,Barnard Central School, ,1,,,10,9,9,8,5,,,,12,7, , ,,, ,, , ,, , , , , ,61
+,,,,,,,Bridgewater,,,,Bridgewater Village School, ,4,,, ,15,12,7,12,,,,12,9, , ,,, ,, , ,, , , , , ,71
+,,,,,,,Pomfret,,,,Pomfret School, ,11,,, ,14,16,12,14,,,,14,13, , ,,, ,, , ,, , , , , ,94
+,,,,,,,Reading,,,,Reading Elementary School, , ,,,6,6,7,3,10,,,,9,9, , ,,, ,, , ,, , , , , ,50
+,,,,,,,Windsor Central SU,,,,Windsor Central SU,11, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,11
+,,,,,,,Woodstock,,,,Woodstock Elementary School, , ,,,22,23,33,33,29,,,,25,26, , ,,, ,, , ,, , , , , ,191
+,,,,,,,Woodstock UHSD #4,,,,Woodstock Senior UHSD #4, , ,,, , , , , ,,,, , , , ,,, ,,105,104,,117,99, , , ,425
+,,,,,,,,,,,Woodstock Union Middle School, , ,,, , , , , ,,,, , , ,95,,,113,, , ,, , , , , ,208
+,,,,,,Windsor Northwest SU,Bethel,,,,Bethel Elementary School, , ,,,21,24,15,26,19,,,,19,24, , ,,, ,, , ,, , , , , ,148
+,,,,,,,,,,,Whitcomb Junior/Senior High School, , ,,, , , , , ,,,, , , ,20,,,24,,24,23,,30,35,1, , ,157
+,,,,,,,Rochester,,,,Rochester School, , ,,,10,9,8,12,13,,,,7,19, ,28,,,29,,24,18,,28,26, , , ,231
+,,,,,,,Stockbridge,,,,Stockbridge Central School,9,6,,, ,12,7,11,8,,,,8,11, , ,,, ,, , ,, , , , , ,72
+,,,,,,,Windsor Northwest SU,,,,Windsor Northwest SU,40, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,40
+,,,,,,Windsor Southeast SU,Hartland,,,,Hartland Elementary School,1,30,,, ,32,29,38,40,,,,52,34, ,40,,,34,, , ,, , , , , ,330
+,,,,,,,Weathersfield,,,,Weathersfield Elementary School, , ,,,21,29,21,20, ,,,, , , , ,,, ,, , ,, , , , , ,91
+,,,,,,,,,,,Weathersfield Middle School, , ,,, , , , ,15,,,,18,29, ,40,,,25,, , ,, , , , , ,127
+,,,,,,,West Windsor,,,,Albert Bridge School (West Windsor), , ,,,3,11,6,7,14,,,,10,8, , ,,, ,, , ,, , , , , ,59
+,,,,,,,Windsor,,,,Windsor High School, , ,,, , , , , ,,,, , , ,40,,,51,,83,70,,70,65, , , ,379
+,,,,,,,,,,,Windsor State Street School, , ,,,29,42,29,41,39,,,,43,47, , ,,, ,, , ,, , , , , ,270
+,,,,,,,Windsor Southeast SU,,,,Windsor Southeast SU,30, ,,, , , , , ,,,, , , , ,,, ,, , ,, , , , , ,30
+,,,,,,Windsor Southwest SU,Cavendish,,,,Cavendish Town Elementary School,9, ,,,16,16,12,11,14,,,,13,12, , ,,, ,, , ,, , , , , ,103
+,,,,,,,Chester Andover USD #29 (District),,,,Chester Andover USD #29 (School),30, ,,,34,39,36,28,43,,,,33,50, , ,,, ,, , ,, , , , , ,293
+,,,,,,,Green Mountain UHSD #35 (District),,,,Green Mountain UHSD #35 (School), , ,,, , , , , ,,,, , , ,60,,,72,,76,69,,90,62, , , ,429
+,,,,,,,,,,,County Total,280,177,,,323,593,555,544,608,,,,587,649,11,612,,,675,,748,710,,754,702,2, , ,"8,530"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"Note: The enrollment for independent schools including Burr & Burton Academy, Lyndon Institute, St. Johnsbury Academy, and Thetford Academy do not appear in this report.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+base
+knitr
+magrittr
+dplyr
+tidyr
+reshape2
+ggplot2
+shiny
