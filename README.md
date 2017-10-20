@@ -33,7 +33,7 @@ The plots in this project are based on the VTAoE data.
 Analyses
 ========
 
-In order to make this analysis open and replicable, the code used to produce the analysis in this public GitHub repository. At the moment, I am using R code to work with the data. The source .
+In order to make this analysis open and replicable, the code used to produce the analysis is in this public GitHub repository. At the moment, I am using R code to work with the data.
 
 Processing the original reports
 -------------------------------
