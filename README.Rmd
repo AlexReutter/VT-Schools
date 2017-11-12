@@ -5,7 +5,7 @@ date: "`r format(Sys.Date())`"
 output: github_document
 ---  
     
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -59,7 +59,26 @@ Unfortunately, the VTAOE reports are not in good condition for performing furthe
 
 ## State-level analysis
 
-It is clear that, across Vermont, total K-12 enrollment is decreasing.  The plot below shows that the rate of decline differs from county to county.  There is a separate line to represent each county, which shows the enrollment in that county, relative to the maximum enrollment observed over the last 13 years.  Essex and Grafton counties have experienced the most severe declines, while Lamoille and Chittenden county have seen the least declines.
+It is clear that, in Vermont as a whole, total K-12 enrollment is decreasing, and over the last 14 years, the decline is near the [20% claimed by Sec. Holcombe](http://www.burlingtonfreepress.com/story/news/local/vermont/2017/10/19/vermont-education-budget-gap-may-have-burlington-tightening-its-belt/745578001/).
+
+```{r echo=FALSE}
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+library(shiny)
+
+enrollment %>%
+  filter(Grade != 'PKEEE') %>%
+  group_by(year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) -> temp
+
+sp<-ggplot(temp, aes(x=year, y=enrollmentRatio)) + geom_line()
+sp
+```
+
+
+The plot below shows that the rate of decline differs from county to county.  There is a separate line to represent each county, which shows the enrollment in that county, relative to the maximum enrollment observed over the last 13 years.  Essex and Grafton counties have experienced the most severe declines, while Lamoille and Chittenden county have seen the least declines.
 
 ```{r echo=FALSE}
 library(magrittr)
@@ -77,13 +96,13 @@ sp<-ggplot(temp, aes(x=year, y=enrollmentRatio, color=County)) + geom_line()
 sp
 ```
 
-I am displaying a ratio rather than the total enrollment because this makes the year-to-year changes easier to compare across counties.
+This chart displays a ratio rather than the total enrollment because this makes the year-to-year changes easier to compare across counties.
 
 ## Chittenden county-level analysis
 
-Let’s look more closely at the supervisory unions and school districts within Chittenden county.  This is the same style of plot as shown for comparing the county-to-county enrollment, but here there is a separate line to represent each supervisory union or school district.   
+Let’s look more closely at the supervisory unions and school districts within Chittenden county.  This is the same style of plot as shown for comparing the county-to-county enrollment, but here there is a separate line to represent each supervisory union or school district.
 
-What this plot shows is that, within Chittenden county, most districts appear to be experiencing a decline in K-12 enrollment; however, Burlington has held steady.
+What this plot shows is that, within Chittenden county, most districts appear to have experienced a decline in K-12 enrollment; however, Burlington has held steady.
 
 ```{r echo=FALSE}
 library(magrittr)
@@ -103,4 +122,66 @@ sp
 ```
 
 
+## Focus on Burlington
+
+The following table shows the year-by-year total enrollment in Burlington School District, not including the Pre-K students.
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  filter(Grade != 'PKEEE') %>%
+  group_by(year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>% kable()
+
+```
+
+This chart breaks it down by school.
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  filter(Grade != 'PKEEE') %>%
+  group_by(School,year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment)  %>% 
+  ggplot(aes(x=year, y=EnrollmentSum, color=School)) + geom_line()
+
+```
+
+
+The following table shows the year-by-year total enrollment in Burlington School District, *including* the Pre-K children.
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  group_by(year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>% kable()
+
+```
+
+This chart breaks it down by school.
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  group_by(School,year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment)  %>% 
+  ggplot(aes(x=year, y=EnrollmentSum, color=School)) + geom_line()
+
+```
+
+That is the Champlain School whose enrollment suddenly jumped in the 2012-2013 school year, due to the addition of Pre-K students. 
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  filter(School == "Champlain School") %>% 
+  group_by(year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>% kable()
+
+```
 
