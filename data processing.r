@@ -3,6 +3,8 @@ library(magrittr)
 library(dplyr)
 library(tidyr)
 library(reshape2)
+library(ggplot2)
+library(shiny)
 
 # Create an empty dataframe
 # For each year, read the data

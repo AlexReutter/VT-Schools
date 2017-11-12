@@ -65,38 +65,25 @@ Unfortunately, the VTAOE reports are not in good condition for performing furthe
 It is clear that, in Vermont as a whole, total K-12 enrollment is decreasing, and over the last 14 years, the decline is near the [20% claimed by Sec. Holcombe](http://www.burlingtonfreepress.com/story/news/local/vermont/2017/10/19/vermont-education-budget-gap-may-have-burlington-tightening-its-belt/745578001/).
 
 ```{r echo=FALSE}
-library(magrittr)
-library(dplyr)
-library(ggplot2)
-library(shiny)
-
 enrollment %>%
   filter(Grade != 'PKEEE') %>%
   group_by(year) %>% 
   summarise(EnrollmentSum=sum(Enrollment)) %>% 
-  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) -> temp
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>%
+  ggplot(aes(x=year, y=enrollmentRatio)) + geom_line()
 
-sp<-ggplot(temp, aes(x=year, y=enrollmentRatio)) + geom_line()
-sp
 ```
 
 
 The plot below shows that the rate of decline differs from county to county.  There is a separate line to represent each county, which shows the enrollment in that county, relative to the maximum enrollment observed over the last 13 years.  Essex and Grafton counties have experienced the most severe declines, while Lamoille and Chittenden county have seen the least declines.
 
 ```{r echo=FALSE}
-library(magrittr)
-library(dplyr)
-library(ggplot2)
-library(shiny)
-
 enrollment %>%
   filter(Grade != 'PKEEE') %>%
   group_by(County, year) %>% 
   summarise(EnrollmentSum=sum(Enrollment)) %>% 
-  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) -> temp
-
-sp<-ggplot(temp, aes(x=year, y=enrollmentRatio, color=County)) + geom_line()
-sp
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>% 
+  ggplot(aes(x=year, y=enrollmentRatio, color=County)) + geom_line()
 ```
 
 This chart displays a ratio rather than the total enrollment because this makes the year-to-year changes easier to compare across counties.
@@ -108,20 +95,14 @@ Let’s look more closely at the supervisory unions and school districts within 
 What this plot shows is that, within Chittenden county, most districts appear to have experienced a decline in K-12 enrollment; however, Burlington has held steady.
 
 ```{r echo=FALSE}
-library(magrittr)
-library(dplyr)
-library(ggplot2)
-library(shiny)
-
 enrollment %>%
   filter(County == "Chittenden County") %>% 
   filter(Grade != 'PKEEE') %>%
   group_by(SupervisoryUnion, year) %>% 
   summarise(EnrollmentSum=sum(Enrollment)) %>% 
-  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) -> temp
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment) %>% 
+  ggplot(aes(x=year, y=enrollmentRatio, color=SupervisoryUnion)) + geom_line()
 
-sp<-ggplot(temp, aes(x=year, y=enrollmentRatio, color=SupervisoryUnion)) + geom_line()
-sp
 ```
 
 
