@@ -14,8 +14,6 @@ Alex Reutter
     -   [Chittenden county-level analysis](#chittenden-county-level-analysis)
     -   [Focus on Burlington](#focus-on-burlington)
 
-    ## Warning: package 'knitr' was built under R version 3.3.3
-
 The purpose of this project is to help shed some light on questions surrounding enrollment in schools in Vermont, especially the Burlington district. It is a reference from which easier-to-consume conclusions and recommendations can be drawn.
 
 Background
