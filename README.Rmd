@@ -2,10 +2,13 @@
 title: "Burlington, VT, School Enrollment"  
 author: "Alex Reutter"  
 date: "`r format(Sys.Date())`"
-output: github_document
+output: 
+  github_document:
+    toc: true # table of content true
+    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
 ---  
     
-```{r setup, include=FALSE, warning=FALSE}
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 

@@ -3,7 +3,16 @@ Burlington, VT, School Enrollment
 Alex Reutter
 2017-11-12
 
-    ## Warning: package 'knitr' was built under R version 3.3.3
+-   [Background](#background)
+-   [Summary](#summary)
+-   [Data sources](#data-sources)
+    -   [Vermont Agency of Education](#vermont-agency-of-education)
+    -   [Burlington School District Annual Reports](#burlington-school-district-annual-reports)
+-   [Analyses](#analyses)
+    -   [Processing the original reports](#processing-the-original-reports)
+    -   [State-level analysis](#state-level-analysis)
+    -   [Chittenden county-level analysis](#chittenden-county-level-analysis)
+    -   [Focus on Burlington](#focus-on-burlington)
 
 The purpose of this project is to help shed some light on questions surrounding enrollment in schools in Vermont, especially the Burlington district. It is a reference from which easier-to-consume conclusions and recommendations can be drawn.
 
