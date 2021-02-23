@@ -1,0 +1,2162 @@
+Fiscal Year,SUID,SUName,ORGID,OrgName,Enrollment,Concat,K12FTE,TotStaffFTE,VCFlag
+2011-2012,SU001,Addison Northeast SU,PS023,Beeman Elementary School,103,PS0232012,8.8,20.7,0
+2011-2012,SU001,Addison Northeast SU,PS045,Bristol Elementary School,280,PS0452012,26.7,65.6,0
+2011-2012,SU001,Addison Northeast SU,PS162,Lincoln Community School,116,PS1622012,10,25.3,0
+2011-2012,SU001,Addison Northeast SU,PS189,Monkton Central School,161,PS1892012,12.8,31.1,0
+2011-2012,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,773,PS1952012,79.6,144.1,0
+2011-2012,SU001,Addison Northeast SU,PS246,Robinson School,163,PS2462012,15.4,31.7,0
+2011-2012,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012012,5.6,38.8,0
+2011-2012,SU002,Addison Northwest SU,PS002,Addison Central School,92,PS0022012,9.8,21.4,0
+2011-2012,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,208,PS1082012,16.7,34.75,0
+2011-2012,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,261,PS3112012,22,47.4,0
+2011-2012,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,571,PS3122012,50,88,0
+2011-2012,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022012,7.2,19.8,0
+2011-2012,SU003,Addison Central SU,PS043,Bridport Central School,68,PS0432012,10.04,20.41,0
+2011-2012,SU003,Addison Central SU,PS076,Bingham Memorial School,83,PS0762012,9.07,18.46,0
+2011-2012,SU003,Addison Central SU,PS179,Middlebury Id#4,399,PS1792012,36.5,91.45,0
+2011-2012,SU003,Addison Central SU,PS180,Middlebury Union High School,645,PS1802012,51.7,98.85,0
+2011-2012,SU003,Addison Central SU,PS244,Ripton Elementary School,42,PS2442012,4.96,11.86,0
+2011-2012,SU003,Addison Central SU,PS259,Salisbury Community School,79,PS2592012,9.42,18.86,0
+2011-2012,SU003,Addison Central SU,PS268,Shoreham Elementary School,75,PS2682012,10.32,19.52,0
+2011-2012,SU003,Addison Central SU,PS336,Weybridge Elementary School,53,PS3362012,5.9,14.8,0
+2011-2012,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,286,PS3662012,29.9,55.95,0
+2011-2012,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032012,8.42,45.05,0
+2011-2012,SU004,Addison Rutland SU,PS031,Benson Village School,110,PS0312012,10,26.8,0
+2011-2012,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,352,PS0612012,34.63,85.63,0
+2011-2012,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,331,PS1032012,31.8,69.58,0
+2011-2012,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,421,PS1042012,43.9,94.29,0
+2011-2012,SU004,Addison Rutland SU,PS218,Orwell Village School,129,PS2182012,11,22.96,0
+2011-2012,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042012,10.4,33.84,0
+2011-2012,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,268,PS0292012,17.7,28.7,0
+2011-2012,SU005,Southwest Vermont SU,PS188,Molly Stark School,381,PS1882012,24.5,40.5,0
+2011-2012,SU005,Southwest Vermont SU,PS192,Monument Elementary School,145,PS1922012,8.4,17.8,0
+2011-2012,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,993,PS1962012,70,119,0
+2011-2012,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,604,PS1972012,43.2,73.2,0
+2011-2012,SU005,Southwest Vermont SU,PS213,North Bennington Graded School,121,PS2132012,10.1,15.7,0
+2011-2012,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,264,PS2312012,17.8,29.8,0
+2011-2012,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,214,PS2622012,14.8,21.8,0
+2011-2012,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,27,PS3542012,2.8,4.5,0
+2011-2012,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052012,96.8,281.92,0
+2011-2012,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,99,PS0792012,10.69,28.56,0
+2011-2012,SU006,Bennington Rutland SU,PS085,Dorset School ,163,PS0852012,18.2,41.08,0
+2011-2012,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,414,PS1752012,40.94,83.74,0
+2011-2012,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,64,PS2932012,6.73,13.1,0
+2011-2012,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,164,PS3922012,18.8,42.1,0
+2011-2012,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062012,0,20.6,0
+2011-2012,SU007,Colchester SD,PS072,Colchester High School,717,PS0722012,57.16,120.06,0
+2011-2012,SU007,Colchester SD,PS073,Colchester Middle School,515,PS0732012,39.6,92.2,0
+2011-2012,SU007,Colchester SD,PS174,Malletts Bay School,436,PS1742012,29.1,74.9,0
+2011-2012,SU007,Colchester SD,PS227,Porters Point School,243,PS2272012,18.05,48.05,0
+2011-2012,SU007,Colchester SD,PS309,Union Memorial School,220,PS3092012,16.85,43.95,0
+2011-2012,SU007,Colchester SD,SU007,Colchester SD,0,SU0072012,3.9,42.7,0
+2011-2012,SU008,Caledonia North SU,PS051,Burke Town School,183,PS0512012,19.5,40,0
+2011-2012,SU008,Caledonia North SU,PS090,East Haven School,11,PS0902012,2.55,3.6,0
+2011-2012,SU008,Caledonia North SU,PS170,Lyndon Town School,453,PS1702012,48.3,96.55,0
+2011-2012,SU008,Caledonia North SU,PS184,Millers Run School US #37,118,PS1842012,11.95,24.55,0
+2011-2012,SU008,Caledonia North SU,PS201,Newark School,47,PS2012012,5.3,9.4,0
+2011-2012,SU008,Caledonia North SU,PS294,Sutton Village School,100,PS2942012,9.8,19,0
+2011-2012,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082012,14.8,41.4,0
+2011-2012,SU009,Caledonia Central SU,PS018,Barnet Elementary School,183,PS0182012,18.4,36.55,0
+2011-2012,SU009,Caledonia Central SU,PS082,Danville School,337,PS0822012,36.55,69.15,0
+2011-2012,SU009,Caledonia Central SU,PS223,Peacham Elementary School,37,PS2232012,4,10,0
+2011-2012,SU009,Caledonia Central SU,PS316,Walden School,91,PS3162012,9.1,17.7,0
+2011-2012,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092012,1.6,15.1,0
+2011-2012,SU010,Milton SD,PS140,Milton Elementary School,832,PS1402012,74.75,159.05,0
+2011-2012,SU010,Milton SD,PS185,Milton Middle School,257,PS1852012,19.25,23.25,0
+2011-2012,SU010,Milton SD,PS186,Milton High School,537,PS1862012,48.8,85.9,0
+2011-2012,SU010,Milton SD,SU010,Milton SD,0,SU0102012,0,14.75,0
+2011-2012,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,604,PS4002012,56,137.57,0
+2011-2012,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112012,0,0,0
+2011-2012,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,122,PS0412012,7.33,13.22,0
+2011-2012,SU012,Chittenden East SU,PS050,Browns River Middle School,402,PS0502012,31.4,48.83,0
+2011-2012,SU012,Chittenden East SU,PS058,Camels Hump Middle School,373,PS0582012,27.6,43.28,0
+2011-2012,SU012,Chittenden East SU,PS152,Jericho Elementary School,219,PS1522012,18,34.04,0
+2011-2012,SU012,Chittenden East SU,PS199,Mt Mansfield US #17,947,PS1992012,58.8,102.93,0
+2011-2012,SU012,Chittenden East SU,PS243,Richmond Elementary School,263,PS2432012,18.2,32.44,0
+2011-2012,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),63,PS2702012,4.3,8.76,0
+2011-2012,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,160,PS3062012,9.2,17.69,0
+2011-2012,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,110,PS3072012,7.6,13.13,0
+2011-2012,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122012,49.48,199.9,0
+2011-2012,SU013,Chittenden Central SU,PS009,Albert D Lawton School,339,PS0092012,30.8,55.4,0
+2011-2012,SU013,Chittenden Central SU,PS141,Hiawatha School,226,PS1412012,19,43.9,0
+2011-2012,SU013,Chittenden Central SU,PS292,Summit Street School,229,PS2922012,17.9,40.8,0
+2011-2012,SU013,Chittenden Central SU,PS299,Thomas Fleming School,216,PS2992012,16.5,40.9,0
+2011-2012,SU013,Chittenden Central SU,PS333,Westford Elementary School,198,PS3332012,17.6,33.9,0
+2011-2012,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1305,PS3882012,148.1,351.6,0
+2011-2012,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132012,0,35.8,0
+2011-2012,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1324,PS0662012,97.32,196.1,0
+2011-2012,SU014,Chittenden South SU,PS068,Charlotte Central School,431,PS0682012,37.19,81.04,0
+2011-2012,SU014,Chittenden South SU,PS143,Hinesburg Community School,451,PS1432012,40.15,84.58,0
+2011-2012,SU014,Chittenden South SU,PS264,Shelburne Community School,737,PS2642012,54.46,128.66,0
+2011-2012,SU014,Chittenden South SU,PS398,Williston Schools,1050,PS3982012,86.7,208,0
+2011-2012,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142012,14.85,123.99,0
+2011-2012,SU015,Burlington SD,PS052,Burlington Senior High School,1040,PS0522012,103.34,189.31,0
+2011-2012,SU015,Burlington SD,PS065,Champlain Elementary School,334,PS0652012,25.93,53.66,0
+2011-2012,SU015,Burlington SD,PS080,C P Smith School,257,PS0802012,23,54.9,0
+2011-2012,SU015,Burlington SD,PS094,Edmunds Elementary School,355,PS0942012,29.1,54.04,0
+2011-2012,SU015,Burlington SD,PS095,Edmunds Middle School,387,PS0952012,39,84.2,0
+2011-2012,SU015,Burlington SD,PS155,J J Flynn School,328,PS1552012,25.35,55.69,0
+2011-2012,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes ,180,PS1592012,20,39,0
+2011-2012,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,381,PS1692012,40,71.6,0
+2011-2012,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler ,265,PS3372012,30.95,56.6,0
+2011-2012,SU015,Burlington SD,SU015,Burlington SD,0,SU0152012,18.7,148.04,0
+2011-2012,SU016,South Burlington SD,PS064,Chamberlin School,252,PS0642012,26.1,50.53,0
+2011-2012,SU016,South Burlington SD,PS216,Orchard School,376,PS2162012,29.8,54,0
+2011-2012,SU016,South Burlington SD,PS271,Rick Marcotte Central School,342,PS2712012,27.8,56.05,0
+2011-2012,SU016,South Burlington SD,PS272,So Burlington High School,889,PS2722012,71.69,120.19,0
+2011-2012,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,544,PS2732012,46.3,82.25,0
+2011-2012,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162012,2.4,127.14,0
+2011-2012,SU017,Winooski SD,PS154,J F Kennedy Elem School,362,PS1542012,34.5,76.95,0
+2011-2012,SU017,Winooski SD,PS351,Winooski High School,253,PS3512012,25.65,50.34,0
+2011-2012,SU017,Winooski SD,PS401,Winooski Middle School,155,PS4012012,16.35,35.9,0
+2011-2012,SU017,Winooski SD,SU017,Winooski SD,0,SU0172012,0,4,0
+2011-2012,SU018,Essex Caledonia SU,PS074,Concord Graded/High School,177,PS0742012,22.75,41,0
+2011-2012,SU018,Essex Caledonia SU,PS127,Guildhall Elementary School,22,PS1272012,2.2,5.78,0
+2011-2012,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,99,PS1682012,10.95,27.52,0
+2011-2012,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,155,PS3242012,14.45,36.17,0
+2011-2012,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182012,1,12.1,0
+2011-2012,SU019,Essex North SU,PS059,Canaan Schools,191,PS0592012,21.6,30.35,0
+2011-2012,SU019,Essex North SU,SU019,Essex North SU,0,SU0192012,2.25,17.25,0
+2011-2012,SU020,Franklin Northeast SU,PS015,Bakersfield School,148,PS0152012,13.4,30.7,0
+2011-2012,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,172,PS0322012,13.8,33.49,0
+2011-2012,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,204,PS0962012,20.6,46.67,0
+2011-2012,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,430,PS0982012,50.1,106.9,0
+2011-2012,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,110,PS1902012,10.45,22.5,0
+2011-2012,SU020,Franklin Northeast SU,PS241,Richford Elementary School,218,PS2412012,16,36.7,0
+2011-2012,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,240,PS2422012,22.5,48.25,0
+2011-2012,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202012,10.2,30.99,0
+2011-2012,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,122,PS1152012,8.35,26.45,0
+2011-2012,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,307,PS1422012,29.1,64.81,0
+2011-2012,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,923,PS1872012,97,186.18,0
+2011-2012,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,236,PS2662012,22.7,56.53,0
+2011-2012,SU021,Franklin Northwest SU,PS295,Swanton Schools,556,PS2952012,55,123.59,0
+2011-2012,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212012,12.84,44.39,0
+2011-2012,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),539,PS0272012,45,105,0
+2011-2012,SU022,Franklin West SU,PS110,Fletcher Elementary School,104,PS1102012,11.2,21.5,0
+2011-2012,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,565,PS1172012,62,108.36,0
+2011-2012,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),338,PS4052012,29.6,71.92,0
+2011-2012,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222012,3.23,19,0
+2011-2012,SU023,Franklin Central SU,PS105,Fairfield Center School,211,PS1052012,24.5,44.5,0
+2011-2012,SU023,Franklin Central SU,PS288,St Albans City School,697,PS2882012,78.16,139.6,0
+2011-2012,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,713,PS2892012,58.6,119.63,0
+2011-2012,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),1068,PS4062012,114.31,204.59,0
+2011-2012,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232012,2,36.87,0
+2011-2012,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,181,PS0102012,20.95,44.21,0
+2011-2012,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,112,PS1122012,13.3,25.75,0
+2011-2012,SU024,Grand Isle SU,PS122,Grand Isle  School,203,PS1222012,19.7,41.2,0
+2011-2012,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,24,PS1482012,4.35,8.63,0
+2011-2012,SU024,Grand Isle SU,PS209,North Hero School,49,PS2092012,5.7,10.83,0
+2011-2012,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242012,2,12,0
+2011-2012,SU025,Lamoille North SU,PS057,Cambridge Elementary School,316,PS0572012,28,76.5,0
+2011-2012,SU025,Lamoille North SU,PS093,Eden Central School,106,PS0932012,12.4,53.1,0
+2011-2012,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,220,PS1452012,21.8,63.8,0
+2011-2012,SU025,Lamoille North SU,PS153,Johnson Elementary School,203,PS1532012,21.4,59.6,0
+2011-2012,SU025,Lamoille North SU,PS158,Lamoille UHS #18,563,PS1582012,67.8,136.5,0
+2011-2012,SU025,Lamoille North SU,PS325,Waterville Elementary School,77,PS3252012,8.7,24,0
+2011-2012,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,273,PS4042012,27.3,51.8,0
+2011-2012,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252012,0,28.5,0
+2011-2012,SU026,Lamoille South SU,PS156,Elmore School,22,PS1562012,1,2.18,0
+2011-2012,SU026,Lamoille South SU,PS194,Morristown Elem Schools,299,PS1942012,24.1,55.26,0
+2011-2012,SU026,Lamoille South SU,PS224,Peoples Academy,299,PS2242012,23.31,46.27,0
+2011-2012,SU026,Lamoille South SU,PS286,Stowe Elementary School,275,PS2862012,20.25,42.8,0
+2011-2012,SU026,Lamoille South SU,PS287,Stowe Middle/High School,419,PS2872012,34.05,66.9,0
+2011-2012,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,275,PS3942012,22.6,37.98,0
+2011-2012,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262012,2.8,25.52,0
+2011-2012,SU027,Orange East SU,PS037,Bradford Elementary School,194,PS0372012,22.8,47.56,0
+2011-2012,SU027,Orange East SU,PS202,Newbury Elementary School,119,PS2022012,14.67,32.78,0
+2011-2012,SU027,Orange East SU,PS220,Oxbow UHS #30,425,PS2202012,50,98.25,0
+2011-2012,SU027,Orange East SU,PS298,Thetford Elementary School,194,PS2982012,20.2,52.6,0
+2011-2012,SU027,Orange East SU,PS310,Waits River Valley US #36,208,PS3102012,20,44.77,0
+2011-2012,SU027,Orange East SU,SU027,Orange East SU,0,SU0272012,0.65,12.2,0
+2011-2012,SU028,Orange Southwest SU,PS038,Braintree School,79,PS0382012,7.4,15.9,0
+2011-2012,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,78,PS0472012,8.3,18.7,0
+2011-2012,SU028,Orange Southwest SU,PS237,Randolph UHS #2,452,PS2372012,55.5,86.35,0
+2011-2012,SU028,Orange Southwest SU,PS359,Randolph Elementary School,300,PS3592012,25.2,50.75,0
+2011-2012,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282012,4.5,48.45,0
+2011-2012,SU029,Orange North SU,PS215,Orange Center School,93,PS2152012,8.5,21.08,0
+2011-2012,SU029,Orange North SU,PS322,Washington Village School,77,PS3222012,8,18.4,0
+2011-2012,SU029,Orange North SU,PS343,Williamstown Elem School,215,PS3432012,17.8,44.65,0
+2011-2012,SU029,Orange North SU,PS344,Williamstown Middle/High School,307,PS3442012,24.6,50.5,0
+2011-2012,SU029,Orange North SU,SU029,Orange North SU,0,SU0292012,0,10,0
+2011-2012,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,159,PS0692012,20.9,42.1,0
+2011-2012,SU030,Orange Windsor SU,PS206,Newton School,130,PS2062012,13.03,25.43,0
+2011-2012,SU030,Orange Windsor SU,PS263,Sharon Elementary School,102,PS2632012,10.1,27.9,0
+2011-2012,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,344,PS2742012,37.4,71.2,0
+2011-2012,SU030,Orange Windsor SU,PS303,Tunbridge Central School,113,PS3032012,11.7,24.7,0
+2011-2012,SU030,Orange Windsor SU,SU030,Orange Windsor SU,0,SU0302012,1.7,17.95,0
+2011-2012,SU031,North Country SU,PS044,Brighton Elementary School,87,PS0442012,11.27,23.97,0
+2011-2012,SU031,North Country SU,PS067,Charleston Elem School,96,PS0672012,11.8,26.4,0
+2011-2012,SU031,North Country SU,PS077,Coventry Village School,99,PS0772012,11.5,19.3,0
+2011-2012,SU031,North Country SU,PS084,Derby Elementary School,325,PS0842012,34.86,87.01,0
+2011-2012,SU031,North Country SU,PS102,E Taylor Hatton School,31,PS1022012,6.2,12.37,0
+2011-2012,SU031,North Country SU,PS144,Holland Elementary School,65,PS1442012,7.1,15.9,0
+2011-2012,SU031,North Country SU,PS166,Lowell Graded School,103,PS1662012,10.65,24.65,0
+2011-2012,SU031,North Country SU,PS204,Newport City Elem Schools,301,PS2042012,32,78,0
+2011-2012,SU031,North Country SU,PS205,Newport Town School,96,PS2052012,11.6,29,0
+2011-2012,SU031,North Country SU,PS208,North Country UHS #22A,890,PS2082012,85.5,177.25,0
+2011-2012,SU031,North Country SU,PS302,Troy Elementary School,158,PS3022012,16.4,38.8,0
+2011-2012,SU031,North Country SU,PS364,North Country Union Jr High #22B,286,PS3642012,33,67.4,0
+2011-2012,SU031,North Country SU,PS374,Jay/Westfield Joint School,84,PS3742012,9.2,19.56,0
+2011-2012,SU031,North Country SU,SU031,North Country SU,0,SU0312012,10.24,63.04,0
+2011-2012,SU032,Washington Central SU,PS033,Berlin Elementary School,184,PS0332012,19.1,40.2,0
+2011-2012,SU032,Washington Central SU,PS056,Calais Elementary School,108,PS0562012,11.18,25.94,0
+2011-2012,SU032,Washington Central SU,PS091,East Montpelier Elem School,219,PS0912012,19.5,40.56,0
+2011-2012,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),154,PS1812012,14.1,30.08,0
+2011-2012,SU032,Washington Central SU,PS305,U32 UHS #32,799,PS3052012,73.1,151.57,0
+2011-2012,SU032,Washington Central SU,PS357,Doty Memorial School,70,PS3572012,7.4,16.86,0
+2011-2012,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322012,2,22.93,0
+2011-2012,SU033,Rutland South SU,PS071,Clarendon Elementary School,185,PS0712012,20.8,40.4,0
+2011-2012,SU033,Rutland South SU,PS183,Mill River US #40,563,PS1832012,57.92,109.91,0
+2011-2012,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,46,PS2692012,7.6,14.52,0
+2011-2012,SU033,Rutland South SU,PS317,Wallingford Village School,131,PS3172012,15.4,29.8,0
+2011-2012,SU033,Rutland South SU,SU033,Rutland South SU,0,SU0332012,1.7,21.26,0
+2011-2012,SU034,Orleans Central SU,PS007,Albany Community School,73,PS0072012,10,21.2,0
+2011-2012,SU034,Orleans Central SU,PS022,Barton Graded School,177,PS0222012,14.31,32.67,0
+2011-2012,SU034,Orleans Central SU,PS049,Brownington Central School,94,PS0492012,9.8,17.04,0
+2011-2012,SU034,Orleans Central SU,PS118,Glover Community School,127,PS1182012,9.7,23.4,0
+2011-2012,SU034,Orleans Central SU,PS147,Irasburg Village School,129,PS1472012,10,23.21,0
+2011-2012,SU034,Orleans Central SU,PS157,Lake Region UHS #24,372,PS1572012,32,64.5,0
+2011-2012,SU034,Orleans Central SU,PS217,Orleans Elementary School,116,PS2172012,10,23.6,0
+2011-2012,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342012,15.4,39.6,0
+2011-2012,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,157,PS0782012,18.1,37.9,0
+2011-2012,SU035,Orleans Southwest SU,PS126,Lakeview US #43,76,PS1262012,7.2,18.2,0
+2011-2012,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,264,PS1312012,25.4,52.9,0
+2011-2012,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,363,PS1392012,35,71,0
+2011-2012,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,119,PS3522012,9.9,28.3,0
+2011-2012,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,36,PS3532012,3.9,11.3,0
+2011-2012,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352012,9.3,28.3,0
+2011-2012,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,207,PS0212012,20.93,33.4,0
+2011-2012,SU036,Rutland Northeast SU,PS160,Leicester Central School,48,PS1602012,4.9,8.51,0
+2011-2012,SU036,Rutland Northeast SU,PS165,Lothrop School,220,PS1652012,20,34.87,0
+2011-2012,SU036,Rutland Northeast SU,PS200,Neshobe School,331,PS2002012,25.41,46.21,0
+2011-2012,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,576,PS2192012,44.55,76.52,0
+2011-2012,SU036,Rutland Northeast SU,PS290,Sudbury Country School,23,PS2902012,3.2,4.4,0
+2011-2012,SU036,Rutland Northeast SU,PS340,Whiting Village School,30,PS3402012,3.2,4.92,0
+2011-2012,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362012,33.1,156.02,0
+2011-2012,SU037,Rutland Central SU,PS232,Proctor Elementary School,161,PS2322012,13.1,28.97,0
+2011-2012,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,159,PS2332012,17,29.04,0
+2011-2012,SU037,Rutland Central SU,PS258,Rutland Town Elem School,334,PS2582012,30.75,56.68,0
+2011-2012,SU037,Rutland Central SU,PS331,West Rutland School,341,PS3312012,35.65,65.65,0
+2011-2012,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372012,3.1,22.79,0
+2011-2012,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,59,PS1822012,6.5,13.48,0
+2011-2012,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,176,PS2292012,17.4,36.4,0
+2011-2012,SU038,Rutland Southwest SU,PS230,Poultney High School,233,PS2302012,25.27,52.77,0
+2011-2012,SU038,Rutland Southwest SU,PS300,Tinmouth Elementary School,44,PS3002012,6.04,11.19,0
+2011-2012,SU038,Rutland Southwest SU,PS328,Wells Village School,72,PS3282012,9,19.6,0
+2011-2012,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382012,3.43,20.66,0
+2011-2012,SU039,Rutland Windsor SU,PS035,Black River US #39,185,PS0352012,21.75,39.49,0
+2011-2012,SU039,Rutland Windsor SU,PS167,Ludlow Elementary School,98,PS1672012,12.35,24.71,0
+2011-2012,SU039,Rutland Windsor SU,PS198,Mt Holly School,85,PS1982012,10.32,17.59,0
+2011-2012,SU039,Rutland Windsor SU,SU039,Rutland Windsor SU,0,SU0392012,1,10.7,0
+2011-2012,SU040,Rutland City SD,PS253,Rutland High School,962,PS2532012,97.6,159.55,0
+2011-2012,SU040,Rutland City SD,PS255,Northeast Primary School,229,PS2552012,24,45,0
+2011-2012,SU040,Rutland City SD,PS256,Northwest Primary School,233,PS2562012,26.5,49.5,0
+2011-2012,SU040,Rutland City SD,PS365,Rutland Middle School,306,PS3652012,30.9,53.65,0
+2011-2012,SU040,Rutland City SD,PS382,Rutland Intermediate School,604,PS3822012,55.1,101.35,0
+2011-2012,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402012,14.8,112.9,0
+2011-2012,SU041,Washington Northeast SU,PS055,Cabot School,216,PS0552012,19.95,47.63,0
+2011-2012,SU041,Washington Northeast SU,PS304,Twinfield US #33,401,PS3042012,41.1,84.3,0
+2011-2012,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412012,0,8.5,0
+2011-2012,SU042,Washington West SU,PS107,Fayston Elementary School,96,PS1072012,9.6,20.8,0
+2011-2012,SU042,Washington West SU,PS138,Harwood UHS #19,571,PS1382012,52.3,97.7,0
+2011-2012,SU042,Washington West SU,PS193,Moretown Elementary School,100,PS1932012,10.2,23.4,0
+2011-2012,SU042,Washington West SU,PS315,Waitsfield Elem School,132,PS3152012,15.2,26.7,0
+2011-2012,SU042,Washington West SU,PS320,Warren Elementary School,151,PS3202012,13.7,33,0
+2011-2012,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,337,PS3902012,28.5,58.9,0
+2011-2012,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,287,PS3912012,26.5,54.9,0
+2011-2012,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,153,PS3932012,15.7,25.9,0
+2011-2012,SU042,Washington West SU,SU042,Washington West SU,0,SU0422012,0,11.6,0
+2011-2012,SU043,Washington South SU,PS210,Northfield Elementary School,286,PS2102012,23.8,49.1,0
+2011-2012,SU043,Washington South SU,PS211,Northfield Middle/High School,347,PS2112012,32.3,61.1,0
+2011-2012,SU043,Washington South SU,PS250,Roxbury Village School,36,PS2502012,6,9.5,0
+2011-2012,SU043,Washington South SU,SU043,Washington South SU,0,SU0432012,0,8.1,0
+2011-2012,SU045,Montpelier SD,PS173,Main Street Middle School,176,PS1732012,18.85,43.55,0
+2011-2012,SU045,Montpelier SD,PS191,Montpelier High School,314,PS1912012,35.95,70.05,0
+2011-2012,SU045,Montpelier SD,PS308,Union Elementary School,422,PS3082012,37.6,72.73,0
+2011-2012,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452012,1,15.28,0
+2011-2012,SU046,Windham Central SU,PS086,Dover Elementary School,78,PS0862012,6,10.5,0
+2011-2012,SU046,Windham Central SU,PS149,Jamaica Village School,56,PS1492012,5,12.5,0
+2011-2012,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,371,PS1612012,32.35,60.12,0
+2011-2012,SU046,Windham Central SU,PS177,Marlboro Elementary School,82,PS1772012,10,19.61,0
+2011-2012,SU046,Windham Central SU,PS301,Townshend Village School,81,PS3012012,8.2,14.25,0
+2011-2012,SU046,Windham Central SU,PS319,Wardsboro Central School,57,PS3192012,5.15,10.15,0
+2011-2012,SU046,Windham Central SU,PS347,Windham Elementary School,13,PS3472012,2,2.8,0
+2011-2012,SU046,Windham Central SU,PS408,Newbrook Elementary School,126,PS4082012,8.4,21.07,0
+2011-2012,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462012,12.7,49.16,0
+2011-2012,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,249,PS0242012,24.2,50.6,0
+2011-2012,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,344,PS0252012,39.67,79.67,0
+2011-2012,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,84,PS1202012,8.8,19.3,0
+2011-2012,SU047,Windham Northeast SU,PS249,Central Elementary School,196,PS2492012,16.45,24.45,0
+2011-2012,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,110,PS2602012,12.9,26.1,0
+2011-2012,SU047,Windham Northeast SU,PS334,Westminster Schools,188,PS3342012,21.5,49.5,0
+2011-2012,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472012,4.6,37.56,0
+2011-2012,SU048,Windham Southeast SU,PS001,Academy School,356,PS0012012,38,75.9,0
+2011-2012,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,887,PS0402012,84.5,188.5,0
+2011-2012,SU048,Windham Southeast SU,PS087,Dummerston Schools,178,PS0872012,16.7,32,0
+2011-2012,SU048,Windham Southeast SU,PS128,Guilford Central School,135,PS1282012,17.3,34.1,0
+2011-2012,SU048,Windham Southeast SU,PS234,Putney Central School,179,PS2342012,20.7,39.5,0
+2011-2012,SU048,Windham Southeast SU,PS313,Vernon Elementary School,154,PS3132012,14.6,32.7,0
+2011-2012,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,260,PS3672012,34,55.9,0
+2011-2012,SU048,Windham Southeast SU,PS383,Oak Grove School,131,PS3832012,15.1,30.5,0
+2011-2012,SU048,Windham Southeast SU,PS385,Green Street School,241,PS3852012,23.6,45.3,0
+2011-2012,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482012,18.4,61.6,0
+2011-2012,SU049,Windham Southwest SU,PS083,Deerfield Valley Elem School,0,PS0832012,17.7,28.1,0
+2011-2012,SU049,Windham Southwest SU,PS129,Halifax School,54,PS1292012,7.3,11.6,0
+2011-2012,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,66,PS2402012,6.5,13.6,0
+2011-2012,SU049,Windham Southwest SU,PS284,Stamford Elementary School,72,PS2842012,5.9,12.6,0
+2011-2012,SU049,Windham Southwest SU,PS341,Whitingham Elementary School,85,PS3412012,8.7,18.64,0
+2011-2012,SU049,Windham Southwest SU,PS346,Twin Valley High School,150,PS3462012,19.1,43.9,0
+2011-2012,SU049,Windham Southwest SU,PS403,Twin Valley Middle School,116,PS4032012,13.5,25.56,0
+2011-2012,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492012,2.6,27.11,0
+2011-2012,SU050,Windsor Northwest SU,PS034,Bethel Elementary School,137,PS0342012,11.1,20.22,0
+2011-2012,SU050,Windsor Northwest SU,PS247,Rochester School,151,PS2472012,17.55,32.8,0
+2011-2012,SU050,Windsor Northwest SU,PS285,Stockbridge Central School,45,PS2852012,6.17,12.82,0
+2011-2012,SU050,Windsor Northwest SU,PS338,Whitcomb Jr/Sr High School,129,PS3382012,12.5,20.62,0
+2011-2012,SU050,Windsor Northwest SU,SU050,Windsor Northwest SU,0,SU0502012,12.56,47.16,0
+2011-2012,SU051,Windsor Central SU,PS017,Barnard Academy,63,PS0172012,5.5,12.27,0
+2011-2012,SU051,Windsor Central SU,PS042,Bridgewater Village School,40,PS0422012,6.47,13.09,0
+2011-2012,SU051,Windsor Central SU,PS226,Pomfret School,64,PS2262012,6.83,14.09,0
+2011-2012,SU051,Windsor Central SU,PS239,Reading Elementary School,33,PS2392012,4.2,9.67,0
+2011-2012,SU051,Windsor Central SU,PS267,Killington Elementary School,74,PS2672012,9.08,18.61,0
+2011-2012,SU051,Windsor Central SU,PS355,Woodstock Elementary School,177,PS3552012,19.15,33.87,0
+2011-2012,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,349,PS3562012,41.9,96.52,0
+2011-2012,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,180,PS3682012,15.8,24,0
+2011-2012,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512012,3.1,17.81,0
+2011-2012,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),68,PS0082012,6,13,0
+2011-2012,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,302,PS1372012,30,55.55,0
+2011-2012,SU052,Windsor Southeast SU,PS348,Windsor High School,231,PS3482012,25.2,43.8,0
+2011-2012,SU052,Windsor Southeast SU,PS349,Windsor State Street School,310,PS3492012,33.28,55.43,0
+2011-2012,SU052,Windsor Southeast SU,PS407,Weathersfield School,212,PS4072012,18.8,49,0
+2011-2012,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522012,3,25,0
+2011-2012,SU053,Windsor Southwest SU,PS063,Cavendish Town Elem School,103,PS0632012,9.9,21.95,0
+2011-2012,SU053,Windsor Southwest SU,PS070,Chester Andover US #29,249,PS0702012,21.6,45.48,0
+2011-2012,SU053,Windsor Southwest SU,PS111,Flood Brook US #20,256,PS1112012,26,57,0
+2011-2012,SU053,Windsor Southwest SU,PS124,Green Mountain UHS #35,353,PS1242012,29.1,61.22,0
+2011-2012,SU053,Windsor Southwest SU,SU053,Windsor Southwest SU,0,SU0532012,2,21.05,0
+2011-2012,SU054,Hartford SD,PS134,Hartford High School,600,PS1342012,73.62,129.79,0
+2011-2012,SU054,Hartford SD,PS135,Hartford Mem Middle School,354,PS1352012,34.07,49.87,0
+2011-2012,SU054,Hartford SD,PS339,White River School,206,PS3392012,20.4,40.42,0
+2011-2012,SU054,Hartford SD,PS378,Dothan Brook School,247,PS3782012,27.4,48.86,0
+2011-2012,SU054,Hartford SD,PS380,Ottauquechee School,186,PS3802012,19.5,35.49,0
+2011-2012,SU054,Hartford SD,SU054,Hartford SD,0,SU0542012,16.2,80.78,0
+2011-2012,SU055,Sau 70 ,PS176,Marion W Cross School,302,PS1762012,26.2,53.8,0
+2011-2012,SU056,Springfield SD,PS245,Riverside Middle School,304,PS2452012,29.5,59.2,0
+2011-2012,SU056,Springfield SD,PS277,Elm Hill School,290,PS2772012,24.5,71.5,0
+2011-2012,SU056,Springfield SD,PS278,Springfield High School,459,PS2782012,38.7,80.3,0
+2011-2012,SU056,Springfield SD,PS280,Union Street School,281,PS2802012,26.5,68.5,0
+2011-2012,SU056,Springfield SD,SU056,Springfield SD,0,SU0562012,14,67,0
+2011-2012,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,410,PS0362012,40.65,86.56,0
+2011-2012,SU059,Essex Town SD,PS099,Essex Elementary School,384,PS0992012,30.4,71.14,0
+2011-2012,SU059,Essex Town SD,PS101,Essex Middle School,415,PS1012012,33.57,67.2,0
+2011-2012,SU059,Essex Town SD,PS113,Founders Memorial School,413,PS1132012,30.18,65.79,0
+2011-2012,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592012,1.7,21.93,0
+2011-2012,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,177,PS0112012,17.1,31.13,0
+2011-2012,SU060,Battenkill Valley SU,PS109,Fisher School,144,PS1092012,19.2,38.96,0
+2011-2012,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602012,0,4,0
+2011-2012,SU061,Barre SU,PS020,Barre Town Elementary School,787,PS0202012,67,138,0
+2011-2012,SU061,Barre SU,PS276,Spaulding UHS #41,741,PS2762012,112,179,0
+2011-2012,SU061,Barre SU,PS381,Barre City Elem/Middle School,784,PS3812012,87,176.5,0
+2011-2012,SU061,Barre SU,SU061,Barre SU,0,SU0612012,2,22.4,0
+2011-2012,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,227,PI0042012,23.35,45.51,0
+2011-2012,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,151,PS1062012,15.1,32.97,0
+2011-2012,SU064,Rivendell Interstate SD,PS399,Westshire School,87,PS3992012,9.3,21.43,0
+2011-2012,SU064,Rivendell Interstate SD,U146,Rivendell Interstate School District,0,U1462012,0,10.96,0
+2011-2012,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012012,18.83,36.63,0
+2011-2012,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092012,18,33.5,0
+2011-2012,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162012,18.25,29.75,0
+2012-2013,SU001,Addison Northeast SU,PS023,Beeman Elementary School,101,PS0232013,9.3,20.4,0
+2012-2013,SU001,Addison Northeast SU,PS045,Bristol Elementary School,270,PS0452013,29.9,65.9,0
+2012-2013,SU001,Addison Northeast SU,PS162,Lincoln Community School,125,PS1622013,10.4,22.1,0
+2012-2013,SU001,Addison Northeast SU,PS189,Monkton Central School,159,PS1892013,13.3,29.2,0
+2012-2013,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,756,PS1952013,78.98,137.91,0
+2012-2013,SU001,Addison Northeast SU,PS246,Robinson School,163,PS2462013,15.3,31.3,0
+2012-2013,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012013,4.3,44,0
+2012-2013,SU002,Addison Northwest SU,PS002,Addison Central School,79,PS0022013,8.8,19.95,0
+2012-2013,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,201,PS1082013,18.7,37.35,0
+2012-2013,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,277,PS3112013,22,47.4,0
+2012-2013,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,549,PS3122013,51,91,0
+2012-2013,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022013,8,21.6,0
+2012-2013,SU003,Addison Central SU,PS043,Bridport Central School,67,PS0432013,12.73,23.8,0
+2012-2013,SU003,Addison Central SU,PS076,Bingham Memorial School,79,PS0762013,9.47,17.66,0
+2012-2013,SU003,Addison Central SU,PS179,Middlebury Id#4,404,PS1792013,35.3,89.25,0
+2012-2013,SU003,Addison Central SU,PS180,Middlebury Union High School,598,PS1802013,51.1,98.35,0
+2012-2013,SU003,Addison Central SU,PS244,Ripton Elementary School,37,PS2442013,5.06,12.56,0
+2012-2013,SU003,Addison Central SU,PS259,Salisbury Community School,90,PS2592013,9.62,18.51,0
+2012-2013,SU003,Addison Central SU,PS268,Shoreham Elementary School,74,PS2682013,10.12,17.52,0
+2012-2013,SU003,Addison Central SU,PS336,Weybridge Elementary School,40,PS3362013,5.11,11.91,0
+2012-2013,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,314,PS3662013,30.9,57.35,0
+2012-2013,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032013,8.45,46.3,0
+2012-2013,SU004,Addison Rutland SU,PS031,Benson Village School,96,PS0312013,10.46,26.28,0
+2012-2013,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,348,PS0612013,33.4,85.11,0
+2012-2013,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,322,PS1032013,32.5,68.92,0
+2012-2013,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,432,PS1042013,43.6,92.98,0
+2012-2013,SU004,Addison Rutland SU,PS218,Orwell Village School,123,PS2182013,11.1,24.48,0
+2012-2013,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042013,9,30.88,0
+2012-2013,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,256,PS0292013,16.7,25.03,0
+2012-2013,SU005,Southwest Vermont SU,PS188,Molly Stark School,387,PS1882013,25.5,41.84,0
+2012-2013,SU005,Southwest Vermont SU,PS192,Monument Elementary School,138,PS1922013,8.6,17.13,0
+2012-2013,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,1001,PS1962013,69,115.54,0
+2012-2013,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,572,PS1972013,43.5,75.36,0
+2012-2013,SU005,Southwest Vermont SU,PS213,North Bennington Graded School,119,PS2132013,9.7,14.9,0
+2012-2013,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,263,PS2312013,18.8,32.3,0
+2012-2013,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,235,PS2622013,15.8,22.8,0
+2012-2013,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,26,PS3542013,3.3,5,0
+2012-2013,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052013,94.1,279.44,0
+2012-2013,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,95,PS0792013,10.5,27.5,0
+2012-2013,SU006,Bennington Rutland SU,PS085,Dorset School,173,PS0852013,19.7,39.8,0
+2012-2013,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,393,PS1752013,41.2,83.9,0
+2012-2013,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,62,PS2932013,7.7,13.6,0
+2012-2013,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,165,PS3922013,18.2,43.5,0
+2012-2013,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062013,1.8,24.4,0
+2012-2013,SU007,Colchester SD,PS072,Colchester High School,699,PS0722013,57.8,123.8,0
+2012-2013,SU007,Colchester SD,PS073,Colchester Middle School,510,PS0732013,39.6,91.3,0
+2012-2013,SU007,Colchester SD,PS174,Malletts Bay School,415,PS1742013,29.5,78.16,0
+2012-2013,SU007,Colchester SD,PS227,Porters Point School,247,PS2272013,17.85,44.86,0
+2012-2013,SU007,Colchester SD,PS309,Union Memorial School,242,PS3092013,17.1,45.71,0
+2012-2013,SU007,Colchester SD,SU007,Colchester SD,0,SU0072013,3.9,46.4,0
+2012-2013,SU008,Caledonia North SU,PS051,Burke Town School,181,PS0512013,20.3,40.7,0
+2012-2013,SU008,Caledonia North SU,PS170,Lyndon Town School,434,PS1702013,48.8,95.3,0
+2012-2013,SU008,Caledonia North SU,PS184,Millers Run School US #37,114,PS1842013,11.9,25.5,0
+2012-2013,SU008,Caledonia North SU,PS201,Newark School,66,PS2012013,4.6,9.2,0
+2012-2013,SU008,Caledonia North SU,PS294,Sutton Village School,104,PS2942013,9.3,18.7,0
+2012-2013,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082013,14.8,40.8,0
+2012-2013,SU009,Caledonia Central SU,PS018,Barnet Elementary School,186,PS0182013,20.53,39.53,0
+2012-2013,SU009,Caledonia Central SU,PS082,Danville School,330,PS0822013,36.5,70.3,0
+2012-2013,SU009,Caledonia Central SU,PS223,Peacham Elementary School,39,PS2232013,4.8,9.4,0
+2012-2013,SU009,Caledonia Central SU,PS316,Walden School,96,PS3162013,10.45,19.75,0
+2012-2013,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092013,2.6,18.3,0
+2012-2013,SU010,Milton SD,PS140,Milton Elementary School,682,PS1402013,70.43,154.4,0
+2012-2013,SU010,Milton SD,PS185,Milton Middle School,376,PS1852013,24.73,33.58,0
+2012-2013,SU010,Milton SD,PS186,Milton High School,518,PS1862013,45.66,83.07,0
+2012-2013,SU010,Milton SD,SU010,Milton SD,0,SU0102013,0,14.55,0
+2012-2013,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,604,PS4002013,56.1,138.75,0
+2012-2013,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112013,0,0,0
+2012-2013,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,132,PS0412013,8.2,16.01,0
+2012-2013,SU012,Chittenden East SU,PS050,Browns River Middle School,415,PS0502013,30.1,49.15,0
+2012-2013,SU012,Chittenden East SU,PS058,Camels Hump Middle School,373,PS0582013,28.05,43.42,0
+2012-2013,SU012,Chittenden East SU,PS152,Jericho Elementary School,229,PS1522013,17.8,33.68,0
+2012-2013,SU012,Chittenden East SU,PS199,Mt Mansfield US #17,889,PS1992013,54.8,97.95,0
+2012-2013,SU012,Chittenden East SU,PS243,Richmond Elementary School,263,PS2432013,18.2,33.72,0
+2012-2013,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),57,PS2702013,4.3,8.95,0
+2012-2013,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,155,PS3062013,9.4,16.94,0
+2012-2013,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,110,PS3072013,8.1,13.79,0
+2012-2013,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122013,52.34,206.12,0
+2012-2013,SU013,Chittenden Central SU,PS009,Albert D Lawton School,345,PS0092013,31,62.9,0
+2012-2013,SU013,Chittenden Central SU,PS141,Hiawatha School,228,PS1412013,19.9,41.9,0
+2012-2013,SU013,Chittenden Central SU,PS292,Summit Street School,219,PS2922013,18.8,47,0
+2012-2013,SU013,Chittenden Central SU,PS299,Thomas Fleming School,209,PS2992013,16.4,39.9,0
+2012-2013,SU013,Chittenden Central SU,PS333,Westford Elementary School,186,PS3332013,16,35.9,0
+2012-2013,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1305,PS3882013,152.4,330.3,0
+2012-2013,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132013,0,54.8,0
+2012-2013,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1281,PS0662013,94.76,193.54,0
+2012-2013,SU014,Chittenden South SU,PS068,Charlotte Central School,420,PS0682013,37.54,80.09,0
+2012-2013,SU014,Chittenden South SU,PS143,Hinesburg Community School,459,PS1432013,40.85,82.97,0
+2012-2013,SU014,Chittenden South SU,PS264,Shelburne Community School,747,PS2642013,56.26,138.58,0
+2012-2013,SU014,Chittenden South SU,PS398,Williston Schools,1038,PS3982013,85.3,202.94,0
+2012-2013,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142013,10.95,120.69,0
+2012-2013,SU015,Burlington SD,PS052,Burlington Senior High School,1067,PS0522013,106.5,190.9,0
+2012-2013,SU015,Burlington SD,PS065,Champlain Elementary School,329,PS0652013,25.6,56.7,0
+2012-2013,SU015,Burlington SD,PS080,C P Smith School,290,PS0802013,24.2,55.1,0
+2012-2013,SU015,Burlington SD,PS094,Edmunds Elementary School,369,PS0942013,28.2,57,0
+2012-2013,SU015,Burlington SD,PS095,Edmunds Middle School,378,PS0952013,38.7,78,0
+2012-2013,SU015,Burlington SD,PS155,J J Flynn School,316,PS1552013,26.1,59.1,0
+2012-2013,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes,188,PS1592013,20.2,44.2,0
+2012-2013,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,379,PS1692013,37.7,79.1,0
+2012-2013,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler,272,PS3372013,25,55,0
+2012-2013,SU015,Burlington SD,SU015,Burlington SD,0,SU0152013,14.9,163.8,0
+2012-2013,SU016,South Burlington SD,PS064,Chamberlin School,246,PS0642013,26.5,47.66,0
+2012-2013,SU016,South Burlington SD,PS216,Orchard School,368,PS2162013,31.2,54.22,0
+2012-2013,SU016,South Burlington SD,PS271,Rick Marcotte Central School,334,PS2712013,29,57.45,0
+2012-2013,SU016,South Burlington SD,PS272,So Burlington High School,866,PS2722013,74.05,122.9,0
+2012-2013,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,537,PS2732013,46.2,83.95,0
+2012-2013,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162013,2.5,126.65,0
+2012-2013,SU017,Winooski SD,PS154,J F Kennedy Elem School,375,PS1542013,40.25,84,0
+2012-2013,SU017,Winooski SD,PS351,Winooski High School,204,PS3512013,25.97,51.93,0
+2012-2013,SU017,Winooski SD,PS401,Winooski Middle School,154,PS4012013,14.32,31.63,0
+2012-2013,SU017,Winooski SD,SU017,Winooski SD,0,SU0172013,0,5.35,0
+2012-2013,SU018,Essex Caledonia SU,PS074,Concord Graded/High School,187,PS0742013,20.25,40.5,0
+2012-2013,SU018,Essex Caledonia SU,PS127,Guildhall Elementary School,19,PS1272013,3.2,5.45,0
+2012-2013,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,95,PS1682013,9.5,24,0
+2012-2013,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,152,PS3242013,11.6,33.15,0
+2012-2013,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182013,0,12.7,0
+2012-2013,SU019,Essex North SU,PS059,Canaan Schools,189,PS0592013,21.6,31,0
+2012-2013,SU019,Essex North SU,SU019,Essex North SU,0,SU0192013,2.25,17.15,0
+2012-2013,SU020,Franklin Northeast SU,PS015,Bakersfield School,142,PS0152013,13.4,30.89,0
+2012-2013,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,185,PS0322013,13.8,33.69,0
+2012-2013,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,211,PS0962013,20.6,47,0
+2012-2013,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,413,PS0982013,50.64,108.74,0
+2012-2013,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,114,PS1902013,9.85,21.9,0
+2012-2013,SU020,Franklin Northeast SU,PS241,Richford Elementary School,219,PS2412013,16.5,37.87,0
+2012-2013,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,232,PS2422013,22.3,48.55,0
+2012-2013,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202013,10.7,30.43,0
+2012-2013,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,124,PS1152013,8.75,27.78,0
+2012-2013,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,305,PS1422013,28.9,70.25,0
+2012-2013,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,900,PS1872013,94.23,187.34,0
+2012-2013,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,248,PS2662013,22.7,51.78,0
+2012-2013,SU021,Franklin Northwest SU,PS295,Swanton Schools,538,PS2952013,55.5,131.64,0
+2012-2013,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212013,11.95,43.98,0
+2012-2013,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),531,PS0272013,45.29,98.16,0
+2012-2013,SU022,Franklin West SU,PS110,Fletcher Elementary School,128,PS1102013,11.7,24.7,0
+2012-2013,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,538,PS1172013,54,102.76,0
+2012-2013,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),327,PS4052013,27.34,53.59,0
+2012-2013,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222013,4.23,17.73,0
+2012-2013,SU023,Franklin Central SU,PS105,Fairfield Center School,218,PS1052013,24,45,0
+2012-2013,SU023,Franklin Central SU,PS288,St Albans City School,695,PS2882013,75.85,140.73,0
+2012-2013,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,712,PS2892013,58,119.07,0
+2012-2013,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),1047,PS4062013,113.86,198.56,0
+2012-2013,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232013,2,34,0
+2012-2013,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,183,PS0102013,19.2,43.05,0
+2012-2013,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,111,PS1122013,13.3,26.38,0
+2012-2013,SU024,Grand Isle SU,PS122,Grand Isle  School,201,PS1222013,19.7,43.1,0
+2012-2013,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,18,PS1482013,4.8,8.88,0
+2012-2013,SU024,Grand Isle SU,PS209,North Hero School,45,PS2092013,6.1,13.27,0
+2012-2013,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242013,1.6,13.3,0
+2012-2013,SU025,Lamoille North SU,PS057,Cambridge Elementary School,323,PS0572013,31,68.77,0
+2012-2013,SU025,Lamoille North SU,PS093,Eden Central School,113,PS0932013,12.5,45.1,0
+2012-2013,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,217,PS1452013,23.7,55.4,0
+2012-2013,SU025,Lamoille North SU,PS153,Johnson Elementary School,214,PS1532013,22,50.61,0
+2012-2013,SU025,Lamoille North SU,PS158,Lamoille UHS #18,575,PS1582013,68.7,135.6,0
+2012-2013,SU025,Lamoille North SU,PS325,Waterville Elementary School,78,PS3252013,8.3,21.3,0
+2012-2013,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,256,PS4042013,28.6,47.23,0
+2012-2013,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252013,0,19.64,0
+2012-2013,SU026,Lamoille South SU,PS156,Elmore School,18,PS1562013,1,3.23,0
+2012-2013,SU026,Lamoille South SU,PS194,Morristown Elem Schools,282,PS1942013,24.1,54.56,0
+2012-2013,SU026,Lamoille South SU,PS224,Peoples Academy,271,PS2242013,25.27,49.52,0
+2012-2013,SU026,Lamoille South SU,PS286,Stowe Elementary School,297,PS2862013,23.25,45.11,0
+2012-2013,SU026,Lamoille South SU,PS287,Stowe Middle/High School,399,PS2872013,35.35,71.78,0
+2012-2013,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,282,PS3942013,23,41.6,0
+2012-2013,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262013,2.5,25.17,0
+2012-2013,SU027,Orange East SU,PS037,Bradford Elementary School,202,PS0372013,20.6,46.51,0
+2012-2013,SU027,Orange East SU,PS202,Newbury Elementary School,125,PS2022013,13.8,35.04,0
+2012-2013,SU027,Orange East SU,PS220,Oxbow UHS #30,418,PS2202013,54,103.04,0
+2012-2013,SU027,Orange East SU,PS298,Thetford Elementary School,203,PS2982013,20.9,50.3,0
+2012-2013,SU027,Orange East SU,PS310,Waits River Valley US #36,199,PS3102013,27,57.43,0
+2012-2013,SU027,Orange East SU,SU027,Orange East SU,0,SU0272013,5.15,12.15,0
+2012-2013,SU028,Orange Southwest SU,PS038,Braintree School,72,PS0382013,7.8,16.25,0
+2012-2013,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,76,PS0472013,7.9,16.9,0
+2012-2013,SU028,Orange Southwest SU,PS237,Randolph UHS #2,429,PS2372013,57.05,85.4,0
+2012-2013,SU028,Orange Southwest SU,PS359,Randolph Elementary School,299,PS3592013,25.35,52.15,0
+2012-2013,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282013,4.5,49.5,0
+2012-2013,SU029,Orange North SU,PS215,Orange Center School,93,PS2152013,10.5,22.7,0
+2012-2013,SU029,Orange North SU,PS322,Washington Village School,82,PS3222013,8.4,18.3,0
+2012-2013,SU029,Orange North SU,PS343,Williamstown Elem School,213,PS3432013,16.1,37.6,0
+2012-2013,SU029,Orange North SU,PS344,Williamstown Middle/High School,312,PS3442013,23.5,50,0
+2012-2013,SU029,Orange North SU,SU029,Orange North SU,0,SU0292013,0,9,0
+2012-2013,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,181,PS0692013,17.9,29.6,0
+2012-2013,SU030,Orange Windsor SU,PS206,Newton School,125,PS2062013,10.7,16.7,0
+2012-2013,SU030,Orange Windsor SU,PS263,Sharon Elementary School,115,PS2632013,8.6,16.89,0
+2012-2013,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,340,PS2742013,31.1,52.5,0
+2012-2013,SU030,Orange Windsor SU,PS303,Tunbridge Central School,117,PS3032013,9.2,17.03,0
+2012-2013,SU030,Orange Windsor SU,SU030,Orange Windsor SU,0,SU0302013,11.7,63.55,0
+2012-2013,SU031,North Country SU,PS044,Brighton Elementary School,76,PS0442013,12.52,26.82,0
+2012-2013,SU031,North Country SU,PS067,Charleston Elem School,97,PS0672013,11.21,25.3,0
+2012-2013,SU031,North Country SU,PS077,Coventry Village School,108,PS0772013,12.91,22.71,0
+2012-2013,SU031,North Country SU,PS084,Derby Elementary School,362,PS0842013,35,87.99,0
+2012-2013,SU031,North Country SU,PS144,Holland Elementary School,61,PS1442013,7.3,16.9,0
+2012-2013,SU031,North Country SU,PS166,Lowell Graded School,106,PS1662013,10.06,24.56,0
+2012-2013,SU031,North Country SU,PS204,Newport City Elem Schools,320,PS2042013,32,76.37,0
+2012-2013,SU031,North Country SU,PS205,Newport Town School,93,PS2052013,11.71,30.41,0
+2012-2013,SU031,North Country SU,PS208,North Country UHS #22A,850,PS2082013,96.6,186.15,0
+2012-2013,SU031,North Country SU,PS302,Troy Elementary School,158,PS3022013,17,38.9,0
+2012-2013,SU031,North Country SU,PS364,North Country Union Jr High #22B,272,PS3642013,33,66.85,0
+2012-2013,SU031,North Country SU,PS374,Jay/Westfield Joint School,86,PS3742013,9.8,18.2,0
+2012-2013,SU031,North Country SU,SU031,North Country SU,0,SU0312013,6.1,67.6,0
+2012-2013,SU032,Washington Central SU,PS033,Berlin Elementary School,178,PS0332013,18.9,40.43,0
+2012-2013,SU032,Washington Central SU,PS056,Calais Elementary School,114,PS0562013,11.3,25.7,0
+2012-2013,SU032,Washington Central SU,PS091,East Montpelier Elem School,208,PS0912013,19.9,38.33,0
+2012-2013,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),163,PS1812013,15.15,30.96,0
+2012-2013,SU032,Washington Central SU,PS305,U32 UHS #32,787,PS3052013,70.6,146.87,0
+2012-2013,SU032,Washington Central SU,PS357,Doty Memorial School,60,PS3572013,7.95,16.65,0
+2012-2013,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322013,2,22.8,0
+2012-2013,SU033,Rutland South SU,PS071,Clarendon Elementary School,163,PS0712013,19.8,40.79,0
+2012-2013,SU033,Rutland South SU,PS183,Mill River US #40,535,PS1832013,58,107.27,0
+2012-2013,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,52,PS2692013,7.4,14.62,0
+2012-2013,SU033,Rutland South SU,PS317,Wallingford Village School,124,PS3172013,11.2,22.6,0
+2012-2013,SU033,Rutland South SU,SU033,Rutland South SU,0,SU0332013,2.2,19.91,0
+2012-2013,SU034,Orleans Central SU,PS007,Albany Community School,86,PS0072013,8.5,21.5,0
+2012-2013,SU034,Orleans Central SU,PS022,Barton Graded School,166,PS0222013,14.3,33.3,0
+2012-2013,SU034,Orleans Central SU,PS049,Brownington Central School,104,PS0492013,10.4,18.4,0
+2012-2013,SU034,Orleans Central SU,PS118,Glover Community School,122,PS1182013,10,22.7,0
+2012-2013,SU034,Orleans Central SU,PS147,Irasburg Village School,125,PS1472013,10.86,23.23,0
+2012-2013,SU034,Orleans Central SU,PS157,Lake Region UHS #24,359,PS1572013,30.87,64.03,0
+2012-2013,SU034,Orleans Central SU,PS217,Orleans Elementary School,103,PS2172013,10.4,21.63,0
+2012-2013,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342013,18.09,42.39,0
+2012-2013,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,152,PS0782013,17.65,35.55,0
+2012-2013,SU035,Orleans Southwest SU,PS126,Lakeview US #43,67,PS1262013,7,15.7,0
+2012-2013,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,238,PS1312013,25.4,50.6,0
+2012-2013,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,366,PS1392013,31.3,55.9,0
+2012-2013,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,128,PS3522013,11.8,32.83,0
+2012-2013,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,43,PS3532013,4.6,10.6,0
+2012-2013,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352013,16.8,37.32,0
+2012-2013,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,215,PS0212013,20.78,31.95,0
+2012-2013,SU036,Rutland Northeast SU,PS160,Leicester Central School,59,PS1602013,5.2,9.16,0
+2012-2013,SU036,Rutland Northeast SU,PS165,Lothrop School,216,PS1652013,19.7,33.23,0
+2012-2013,SU036,Rutland Northeast SU,PS200,Neshobe School,326,PS2002013,25.77,46.45,0
+2012-2013,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,572,PS2192013,44.05,73.87,0
+2012-2013,SU036,Rutland Northeast SU,PS290,Sudbury Country School,29,PS2902013,3.4,5,0
+2012-2013,SU036,Rutland Northeast SU,PS340,Whiting Village School,37,PS3402013,3.3,5.01,0
+2012-2013,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362013,31.15,154.52,0
+2012-2013,SU037,Rutland Central SU,PS232,Proctor Elementary School,159,PS2322013,15.6,32.2,0
+2012-2013,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,152,PS2332013,16.6,30.4,0
+2012-2013,SU037,Rutland Central SU,PS258,Rutland Town Elem School,340,PS2582013,32.9,62.34,0
+2012-2013,SU037,Rutland Central SU,PS331,West Rutland School,325,PS3312013,35.06,67.59,0
+2012-2013,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372013,2.15,19.8,0
+2012-2013,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,60,PS1822013,6.7,13.6,0
+2012-2013,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,179,PS2292013,17.9,37.9,0
+2012-2013,SU038,Rutland Southwest SU,PS230,Poultney High School,236,PS2302013,25.27,49.77,0
+2012-2013,SU038,Rutland Southwest SU,PS300,Tinmouth Elementary School,48,PS3002013,6.24,12.15,0
+2012-2013,SU038,Rutland Southwest SU,PS328,Wells Village School,75,PS3282013,9.3,20.97,0
+2012-2013,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382013,2.98,21.87,0
+2012-2013,SU039,Rutland Windsor SU,PS035,Black River US #39,176,PS0352013,21.35,40.05,0
+2012-2013,SU039,Rutland Windsor SU,PS167,Ludlow Elementary School,112,PS1672013,13.84,27.67,0
+2012-2013,SU039,Rutland Windsor SU,PS198,Mt Holly School,81,PS1982013,10.62,17.51,0
+2012-2013,SU039,Rutland Windsor SU,SU039,Rutland Windsor SU,0,SU0392013,1,9.99,0
+2012-2013,SU040,Rutland City SD,PS253,Rutland High School,907,PS2532013,96.32,165.37,0
+2012-2013,SU040,Rutland City SD,PS255,Northeast Primary School,222,PS2552013,24.25,44.92,0
+2012-2013,SU040,Rutland City SD,PS256,Northwest Primary School,236,PS2562013,26.5,48.5,0
+2012-2013,SU040,Rutland City SD,PS365,Rutland Middle School,305,PS3652013,30.31,54.06,0
+2012-2013,SU040,Rutland City SD,PS382,Rutland Intermediate School,617,PS3822013,56.7,110.95,0
+2012-2013,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402013,12.9,101.78,0
+2012-2013,SU041,Washington Northeast SU,PS055,Cabot School,174,PS0552013,23.55,42.95,0
+2012-2013,SU041,Washington Northeast SU,PS304,Twinfield US #33,395,PS3042013,41.52,81.76,0
+2012-2013,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412013,0,8.25,0
+2012-2013,SU042,Washington West SU,PS107,Fayston Elementary School,92,PS1072013,10.4,22.6,0
+2012-2013,SU042,Washington West SU,PS138,Harwood UHS #19,574,PS1382013,56.4,103.9,0
+2012-2013,SU042,Washington West SU,PS193,Moretown Elementary School,96,PS1932013,10.7,23.4,0
+2012-2013,SU042,Washington West SU,PS315,Waitsfield Elem School,128,PS3152013,14.3,26.7,0
+2012-2013,SU042,Washington West SU,PS320,Warren Elementary School,157,PS3202013,15.3,33.3,0
+2012-2013,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,358,PS3902013,30.5,61.3,0
+2012-2013,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,283,PS3912013,27,56.4,0
+2012-2013,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,148,PS3932013,15.9,25,0
+2012-2013,SU042,Washington West SU,SU042,Washington West SU,0,SU0422013,0,12.6,0
+2012-2013,SU043,Washington South SU,PS210,Northfield Elementary School,272,PS2102013,25.8,52.6,0
+2012-2013,SU043,Washington South SU,PS211,Northfield Middle/High School,329,PS2112013,33.4,65,0
+2012-2013,SU043,Washington South SU,PS250,Roxbury Village School,25,PS2502013,5.1,9.57,0
+2012-2013,SU043,Washington South SU,SU043,Washington South SU,0,SU0432013,0,11.1,0
+2012-2013,SU045,Montpelier SD,PS173,Main Street Middle School,196,PS1732013,21.3,47.5,0
+2012-2013,SU045,Montpelier SD,PS191,Montpelier High School,310,PS1912013,33.3,67.9,0
+2012-2013,SU045,Montpelier SD,PS308,Union Elementary School,437,PS3082013,36.9,75.6,0
+2012-2013,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452013,1,15.2,0
+2012-2013,SU046,Windham Central SU,PS086,Dover Elementary School,86,PS0862013,6,11.65,0
+2012-2013,SU046,Windham Central SU,PS149,Jamaica Village School,68,PS1492013,5,14.5,0
+2012-2013,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,346,PS1612013,32.08,53.38,0
+2012-2013,SU046,Windham Central SU,PS177,Marlboro Elementary School,86,PS1772013,8.05,17.73,0
+2012-2013,SU046,Windham Central SU,PS301,Townshend Village School,74,PS3012013,7,15.4,0
+2012-2013,SU046,Windham Central SU,PS319,Wardsboro Central School,57,PS3192013,5.15,10.15,0
+2012-2013,SU046,Windham Central SU,PS347,Windham Elementary School,14,PS3472013,2,3.7,0
+2012-2013,SU046,Windham Central SU,PS408,Newbrook Elementary School,141,PS4082013,9.4,20.07,0
+2012-2013,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462013,14.16,63.59,0
+2012-2013,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,251,PS0242013,22.4,47.27,0
+2012-2013,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,345,PS0252013,40.27,78.77,0
+2012-2013,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,83,PS1202013,8.8,16.9,0
+2012-2013,SU047,Windham Northeast SU,PS249,Central Elementary School,175,PS2492013,19.7,43.48,0
+2012-2013,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,107,PS2602013,11.8,25.6,0
+2012-2013,SU047,Windham Northeast SU,PS334,Westminster Schools,200,PS3342013,22.5,42.76,0
+2012-2013,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472013,5.33,59.39,0
+2012-2013,SU048,Windham Southeast SU,PS001,Academy School,377,PS0012013,40,78.4,0
+2012-2013,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,841,PS0402013,82.8,182.9,0
+2012-2013,SU048,Windham Southeast SU,PS087,Dummerston Schools,162,PS0872013,16.8,31,0
+2012-2013,SU048,Windham Southeast SU,PS128,Guilford Central School,136,PS1282013,16.7,34.3,0
+2012-2013,SU048,Windham Southeast SU,PS234,Putney Central School,163,PS2342013,20.8,38.6,0
+2012-2013,SU048,Windham Southeast SU,PS313,Vernon Elementary School,153,PS3132013,15.6,34.5,0
+2012-2013,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,253,PS3672013,32,53.9,0
+2012-2013,SU048,Windham Southeast SU,PS383,Oak Grove School,122,PS3832013,15.1,29.7,0
+2012-2013,SU048,Windham Southeast SU,PS385,Green Street School,249,PS3852013,23.2,47.1,0
+2012-2013,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482013,19.5,64.1,0
+2012-2013,SU049,Windham Southwest SU,PS083,Deerfield Valley Elem School,0,PS0832013,15.6,26.4,0
+2012-2013,SU049,Windham Southwest SU,PS129,Halifax School,51,PS1292013,6.77,12.53,0
+2012-2013,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,51,PS2402013,6.5,13.75,0
+2012-2013,SU049,Windham Southwest SU,PS284,Stamford Elementary School,62,PS2842013,8,13.35,0
+2012-2013,SU049,Windham Southwest SU,PS341,Whitingham Elementary School,82,PS3412013,11.8,22.3,0
+2012-2013,SU049,Windham Southwest SU,PS346,Twin Valley High School,153,PS3462013,20.7,40.5,0
+2012-2013,SU049,Windham Southwest SU,PS403,Twin Valley Middle School,117,PS4032013,11.5,23.2,0
+2012-2013,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492013,3.4,23.7,0
+2012-2013,SU050,Windsor Northwest SU,PS034,Bethel Elementary School,139,PS0342013,11.1,21.95,0
+2012-2013,SU050,Windsor Northwest SU,PS247,Rochester School,140,PS2472013,17.3,32.52,0
+2012-2013,SU050,Windsor Northwest SU,PS285,Stockbridge Central School,49,PS2852013,5.84,10.61,0
+2012-2013,SU050,Windsor Northwest SU,PS338,Whitcomb Jr/Sr High School,124,PS3382013,12.75,22.72,0
+2012-2013,SU050,Windsor Northwest SU,SU050,Windsor Northwest SU,0,SU0502013,12.03,46.77,0
+2012-2013,SU051,Windsor Central SU,PS017,Barnard Academy,61,PS0172013,6.4,12.82,0
+2012-2013,SU051,Windsor Central SU,PS042,Bridgewater Village School,43,PS0422013,6,11.44,0
+2012-2013,SU051,Windsor Central SU,PS226,Pomfret School,58,PS2262013,6.53,14.81,0
+2012-2013,SU051,Windsor Central SU,PS239,Reading Elementary School,37,PS2392013,4.96,10.89,0
+2012-2013,SU051,Windsor Central SU,PS267,Killington Elementary School,81,PS2672013,8.09,17.67,0
+2012-2013,SU051,Windsor Central SU,PS355,Woodstock Elementary School,177,PS3552013,17.9,31.14,0
+2012-2013,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,379,PS3562013,41.4,94.68,0
+2012-2013,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,144,PS3682013,14.8,23.6,0
+2012-2013,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512013,2.57,17.23,0
+2012-2013,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),77,PS0082013,6,14,0
+2012-2013,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,299,PS1372013,28.7,57.9,0
+2012-2013,SU052,Windsor Southeast SU,PS348,Windsor High School,273,PS3482013,33.53,54.06,0
+2012-2013,SU052,Windsor Southeast SU,PS349,Windsor State Street School,236,PS3492013,20.45,40.27,0
+2012-2013,SU052,Windsor Southeast SU,PS407,Weathersfield School,231,PS4072013,21,45.2,0
+2012-2013,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522013,3,25.1,0
+2012-2013,SU053,Windsor Southwest SU,PS063,Cavendish Town Elem School,97,PS0632013,7.9,21.9,0
+2012-2013,SU053,Windsor Southwest SU,PS070,Chester Andover US #29,226,PS0702013,20.48,45.66,0
+2012-2013,SU053,Windsor Southwest SU,PS111,Flood Brook US #20,252,PS1112013,26,58.84,0
+2012-2013,SU053,Windsor Southwest SU,PS124,Green Mountain UHS #35,322,PS1242013,28.92,63.56,0
+2012-2013,SU053,Windsor Southwest SU,SU053,Windsor Southwest SU,0,SU0532013,5.2,26.55,0
+2012-2013,SU054,Hartford SD,PS134,Hartford High School,569,PS1342013,61.97,109.51,0
+2012-2013,SU054,Hartford SD,PS135,Hartford Mem Middle School,331,PS1352013,33.8,52.14,0
+2012-2013,SU054,Hartford SD,PS339,White River School,191,PS3392013,14.92,23.82,0
+2012-2013,SU054,Hartford SD,PS378,Dothan Brook School,242,PS3782013,19.9,29,0
+2012-2013,SU054,Hartford SD,PS380,Ottauquechee School,218,PS3802013,15.2,22.81,0
+2012-2013,SU054,Hartford SD,SU054,Hartford SD,0,SU0542013,33.22,110.05,0
+2012-2013,SU055,Sau 70 ,PS176,Marion W Cross School,310,PS1762013,27.5,57.45,0
+2012-2013,SU056,Springfield SD,PS245,Riverside Middle School,275,PS2452013,29.9,54.3,0
+2012-2013,SU056,Springfield SD,PS277,Elm Hill School,295,PS2772013,24.7,64,0
+2012-2013,SU056,Springfield SD,PS278,Springfield High School,465,PS2782013,37.35,80.85,0
+2012-2013,SU056,Springfield SD,PS280,Union Street School,286,PS2802013,26.3,60.8,0
+2012-2013,SU056,Springfield SD,SU056,Springfield SD,0,SU0562013,13,62,0
+2012-2013,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,400,PS0362013,41.5,87.86,0
+2012-2013,SU059,Essex Town SD,PS099,Essex Elementary School,396,PS0992013,31.6,72.3,0
+2012-2013,SU059,Essex Town SD,PS101,Essex Middle School,440,PS1012013,34.7,73.7,0
+2012-2013,SU059,Essex Town SD,PS113,Founders Memorial School,385,PS1132013,29.2,66.2,0
+2012-2013,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592013,1.7,24.5,0
+2012-2013,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,199,PS0112013,25,49.5,0
+2012-2013,SU060,Battenkill Valley SU,PS109,Fisher School,163,PS1092013,18.1,34.5,0
+2012-2013,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602013,0,10.7,0
+2012-2013,SU061,Barre SU,PS020,Barre Town Elementary School,804,PS0202013,75.5,145.5,0
+2012-2013,SU061,Barre SU,PS276,Spaulding UHS #41,728,PS2762013,115,181.2,0
+2012-2013,SU061,Barre SU,PS381,Barre City Elem/Middle School,823,PS3812013,90.5,177.2,0
+2012-2013,SU061,Barre SU,SU061,Barre SU,0,SU0612013,3,25,0
+2012-2013,SU064,Rivendell Interstate SD,U146,Rivendell Interstate School District,0,U1462013,0,10.52,0
+2012-2013,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,217,PI0042013,23.42,45.09,0
+2012-2013,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,138,PS1062013,12.93,29.85,0
+2012-2013,SU064,Rivendell Interstate SD,PS399,Westshire School,85,PS3992013,9.86,21.77,0
+2012-2013,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012013,18,35.8,0
+2012-2013,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092013,18.5,34,0
+2012-2013,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162013,17,29.35,0
+2013-2014,SU001,Addison Northeast SU,PS023,Beeman Elementary School,95,PS0232014,8.9,16.9,0
+2013-2014,SU001,Addison Northeast SU,PS045,Bristol Elementary School,260,PS0452014,27.5,61,0
+2013-2014,SU001,Addison Northeast SU,PS162,Lincoln Community School,125,PS1622014,10.5,19.8,0
+2013-2014,SU001,Addison Northeast SU,PS189,Monkton Central School,149,PS1892014,11.9,25.4,0
+2013-2014,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,753,PS1952014,73.5,130.3,0
+2013-2014,SU001,Addison Northeast SU,PS246,Robinson School,155,PS2462014,13.8,27.6,0
+2013-2014,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012014,4.6,43.3,0
+2013-2014,SU002,Addison Northwest SU,PS002,Addison Central School,68,PS0022014,8.2,17.5,0
+2013-2014,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,192,PS1082014,18.9,36.65,0
+2013-2014,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,256,PS3112014,21,46,0
+2013-2014,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,511,PS3122014,50.4,84.9,0
+2013-2014,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022014,8,22.65,0
+2013-2014,SU003,Addison Central SU,PS043,Bridport Central School,73,PS0432014,9.59,20.65,0
+2013-2014,SU003,Addison Central SU,PS076,Bingham Memorial School,87,PS0762014,9.47,18.33,0
+2013-2014,SU003,Addison Central SU,PS179,Middlebury Id#4,409,PS1792014,34.9,89.35,0
+2013-2014,SU003,Addison Central SU,PS180,Middlebury Union High School,586,PS1802014,51.1,96.35,0
+2013-2014,SU003,Addison Central SU,PS244,Ripton Elementary School,38,PS2442014,5.46,12.46,0
+2013-2014,SU003,Addison Central SU,PS259,Salisbury Community School,90,PS2592014,9.62,18.93,0
+2013-2014,SU003,Addison Central SU,PS268,Shoreham Elementary School,68,PS2682014,10.12,18.12,0
+2013-2014,SU003,Addison Central SU,PS336,Weybridge Elementary School,50,PS3362014,5.34,12.54,0
+2013-2014,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,299,PS3662014,31.9,63.35,0
+2013-2014,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032014,8.85,46.84,0
+2013-2014,SU004,Addison Rutland SU,PS031,Benson Village School,85,PS0312014,10.7,24.7,0
+2013-2014,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,368,PS0612014,34.4,85.1,0
+2013-2014,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,320,PS1032014,32.3,71.7,0
+2013-2014,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,434,PS1042014,43.6,94,0
+2013-2014,SU004,Addison Rutland SU,PS218,Orwell Village School,111,PS2182014,11.1,24.9,0
+2013-2014,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042014,7,25.2,0
+2013-2014,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,247,PS0292014,17.7,30.48,0
+2013-2014,SU005,Southwest Vermont SU,PS188,Molly Stark School,388,PS1882014,24.5,41.29,0
+2013-2014,SU005,Southwest Vermont SU,PS192,Monument Elementary School,138,PS1922014,9.4,17.73,0
+2013-2014,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,986,PS1962014,68,113.9,0
+2013-2014,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,570,PS1972014,39,70.5,0
+2013-2014,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,246,PS2312014,18.8,32.3,0
+2013-2014,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,241,PS2622014,15.8,23.4,0
+2013-2014,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,17,PS3542014,2.8,4.5,0
+2013-2014,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052014,92.21,276.35,0
+2013-2014,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,91,PS0792014,9.1,25.98,0
+2013-2014,SU006,Bennington Rutland SU,PS085,Dorset School,179,PS0852014,18.97,41.87,0
+2013-2014,SU006,Bennington Rutland SU,PS111,Flood Brook USD #301,0,PS1112014,26.14,60.68,0
+2013-2014,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,384,PS1752014,40.06,86.91,0
+2013-2014,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,65,PS2932014,7.3,13.1,0
+2013-2014,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,156,PS3922014,18.2,42.8,0
+2013-2014,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062014,9.94,36.34,0
+2013-2014,SU007,Colchester SD,PS072,Colchester High School,713,PS0722014,58.3,120.6,0
+2013-2014,SU007,Colchester SD,PS073,Colchester Middle School,446,PS0732014,37,86.6,0
+2013-2014,SU007,Colchester SD,PS174,Malletts Bay School,462,PS1742014,30.9,81.48,0
+2013-2014,SU007,Colchester SD,PS227,Porters Point School,262,PS2272014,18.35,52.01,0
+2013-2014,SU007,Colchester SD,PS309,Union Memorial School,246,PS3092014,17.65,49.41,0
+2013-2014,SU007,Colchester SD,SU007,Colchester SD,0,SU0072014,3.9,48,0
+2013-2014,SU008,Caledonia North SU,PS051,Burke Town School,179,PS0512014,17.05,26.05,0
+2013-2014,SU008,Caledonia North SU,PS170,Lyndon Town School,445,PS1702014,44.5,57.3,0
+2013-2014,SU008,Caledonia North SU,PS184,Millers Run School US #37,113,PS1842014,10.55,18.25,0
+2013-2014,SU008,Caledonia North SU,PS201,Newark School,55,PS2012014,5.92,9.82,0
+2013-2014,SU008,Caledonia North SU,PS294,Sutton Village School,100,PS2942014,8.71,15.11,0
+2013-2014,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082014,32.65,85.15,0
+2013-2014,SU009,Caledonia Central SU,PS018,Barnet Elementary School,190,PS0182014,22.2,39.45,0
+2013-2014,SU009,Caledonia Central SU,PS082,Danville School,328,PS0822014,38.08,69.83,0
+2013-2014,SU009,Caledonia Central SU,PS223,Peacham Elementary School,41,PS2232014,5,10.2,0
+2013-2014,SU009,Caledonia Central SU,PS316,Walden School,89,PS3162014,10.7,18.2,0
+2013-2014,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092014,4.41,14.7,0
+2013-2014,SU010,Milton SD,PS140,Milton Elementary School,681,PS1402014,62.31,141.68,0
+2013-2014,SU010,Milton SD,PS185,Milton Middle School,351,PS1852014,25.37,33.92,0
+2013-2014,SU010,Milton SD,PS186,Milton High School,524,PS1862014,41.83,81.65,0
+2013-2014,SU010,Milton SD,SU010,Milton SD,0,SU0102014,0,16.8,0
+2013-2014,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,629,PS4002014,56.1,137.26,0
+2013-2014,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112014,0,0,0
+2013-2014,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,132,PS0412014,8.3,14.21,0
+2013-2014,SU012,Chittenden East SU,PS050,Browns River Middle School,414,PS0502014,31.9,46.31,0
+2013-2014,SU012,Chittenden East SU,PS058,Camels Hump Middle School,379,PS0582014,27.95,42.45,0
+2013-2014,SU012,Chittenden East SU,PS152,Jericho Elementary School,253,PS1522014,17.8,28.53,0
+2013-2014,SU012,Chittenden East SU,PS199,Mt Mansfield US #17,849,PS1992014,54.88,87.13,0
+2013-2014,SU012,Chittenden East SU,PS243,Richmond Elementary School,253,PS2432014,18.2,28.33,0
+2013-2014,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),52,PS2702014,4,8.11,0
+2013-2014,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,147,PS3062014,9,14.76,0
+2013-2014,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,96,PS3072014,8.1,12.73,0
+2013-2014,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122014,53,248.82,0
+2013-2014,SU013,Chittenden Central SU,PS009,Albert D Lawton School,355,PS0092014,31.3,59.5,0
+2013-2014,SU013,Chittenden Central SU,PS141,Hiawatha School,234,PS1412014,19.5,40.3,0
+2013-2014,SU013,Chittenden Central SU,PS292,Summit Street School,227,PS2922014,19.4,44.9,0
+2013-2014,SU013,Chittenden Central SU,PS299,Thomas Fleming School,230,PS2992014,17.5,39.7,0
+2013-2014,SU013,Chittenden Central SU,PS333,Westford Elementary School,179,PS3332014,15.2,32,0
+2013-2014,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1286,PS3882014,154.8,358.5,0
+2013-2014,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132014,0,37.2,0
+2013-2014,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1245,PS0662014,95.93,201.65,0
+2013-2014,SU014,Chittenden South SU,PS068,Charlotte Central School,415,PS0682014,36.24,82.3,0
+2013-2014,SU014,Chittenden South SU,PS143,Hinesburg Community School,496,PS1432014,45.15,84.78,0
+2013-2014,SU014,Chittenden South SU,PS264,Shelburne Community School,737,PS2642014,58.46,134.78,0
+2013-2014,SU014,Chittenden South SU,PS398,Williston Schools,1024,PS3982014,90.85,203.17,0
+2013-2014,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142014,11,148.16,0
+2013-2014,SU015,Burlington SD,PS052,Burlington Senior High School,1055,PS0522014,119.17,186.29,0
+2013-2014,SU015,Burlington SD,PS065,Champlain Elementary School,325,PS0652014,25.7,48.1,0
+2013-2014,SU015,Burlington SD,PS080,C P Smith School,273,PS0802014,22.5,47.4,0
+2013-2014,SU015,Burlington SD,PS094,Edmunds Elementary School,362,PS0942014,30.9,54.9,0
+2013-2014,SU015,Burlington SD,PS095,Edmunds Middle School,390,PS0952014,40.1,65.5,0
+2013-2014,SU015,Burlington SD,PS155,J J Flynn School,361,PS1552014,28.5,54.5,0
+2013-2014,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes,200,PS1592014,19.7,39.7,0
+2013-2014,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,377,PS1692014,38.77,70.17,0
+2013-2014,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler,268,PS3372014,27.5,48.5,0
+2013-2014,SU015,Burlington SD,SU015,Burlington SD,0,SU0152014,25.25,135.52,0
+2013-2014,SU016,South Burlington SD,PS064,Chamberlin School,238,PS0642014,23.63,48.52,0
+2013-2014,SU016,South Burlington SD,PS216,Orchard School,355,PS2162014,29.12,56.69,0
+2013-2014,SU016,South Burlington SD,PS271,Rick Marcotte Central School,366,PS2712014,28.8,63.77,0
+2013-2014,SU016,South Burlington SD,PS272,So Burlington High School,850,PS2722014,71.23,125.08,0
+2013-2014,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,556,PS2732014,46.88,82.82,0
+2013-2014,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162014,2.8,114.36,0
+2013-2014,SU017,Winooski SD,PS154,J F Kennedy Elem School,344,PS1542014,38.59,85.27,0
+2013-2014,SU017,Winooski SD,PS351,Winooski High School,203,PS3512014,25.45,52,0
+2013-2014,SU017,Winooski SD,PS401,Winooski Middle School,153,PS4012014,18.9,37.22,0
+2013-2014,SU017,Winooski SD,SU017,Winooski SD,0,SU0172014,0,5.85,0
+2013-2014,SU018,Essex Caledonia SU,PS074,Concord Graded/High School,204,PS0742014,23.25,46.25,0
+2013-2014,SU018,Essex Caledonia SU,PS127,Guildhall Elementary School,19,PS1272014,3.3,6.3,0
+2013-2014,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,85,PS1682014,11.85,27.25,0
+2013-2014,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,136,PS3242014,12.1,30.15,0
+2013-2014,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182014,0,13.5,0
+2013-2014,SU019,Essex North SU,PS059,Canaan Schools,172,PS0592014,20.2,30,0
+2013-2014,SU019,Essex North SU,SU019,Essex North SU,0,SU0192014,2.5,18.62,0
+2013-2014,SU020,Franklin Northeast SU,PS015,Bakersfield School,142,PS0152014,13.4,30.91,0
+2013-2014,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,178,PS0322014,14.2,34.64,0
+2013-2014,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,213,PS0962014,22.1,47.2,0
+2013-2014,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,417,PS0982014,50.04,108.66,0
+2013-2014,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,112,PS1902014,10.05,23.5,0
+2013-2014,SU020,Franklin Northeast SU,PS241,Richford Elementary School,207,PS2412014,17.3,40,0
+2013-2014,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,225,PS2422014,21.2,45.2,0
+2013-2014,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202014,10,28.67,0
+2013-2014,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,129,PS1152014,9.25,26.38,0
+2013-2014,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,291,PS1422014,29.4,66.57,0
+2013-2014,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,851,PS1872014,90.98,182.53,0
+2013-2014,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,252,PS2662014,23.1,54.15,0
+2013-2014,SU021,Franklin Northwest SU,PS295,Swanton Schools,524,PS2952014,56.5,131.09,0
+2013-2014,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212014,11.45,42.73,0
+2013-2014,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),539,PS0272014,45.29,106.42,0
+2013-2014,SU022,Franklin West SU,PS110,Fletcher Elementary School,129,PS1102014,11.85,22.89,0
+2013-2014,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,551,PS1172014,54.1,107.41,0
+2013-2014,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),329,PS4052014,27.34,49.72,0
+2013-2014,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222014,4.34,24.18,0
+2013-2014,SU023,Franklin Central SU,PS105,Fairfield Center School,206,PS1052014,22.7,43.7,0
+2013-2014,SU023,Franklin Central SU,PS288,St Albans City School,702,PS2882014,78.1,145.12,0
+2013-2014,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,706,PS2892014,62,137.11,0
+2013-2014,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),1028,PS4062014,118.43,202.43,0
+2013-2014,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232014,1,32.54,0
+2013-2014,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,187,PS0102014,20.6,44.38,0
+2013-2014,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,114,PS1122014,13.5,26.31,0
+2013-2014,SU024,Grand Isle SU,PS122,Grand Isle  School,185,PS1222014,20.2,46,0
+2013-2014,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,24,PS1482014,4.37,8.09,0
+2013-2014,SU024,Grand Isle SU,PS209,North Hero School,43,PS2092014,6,11.57,0
+2013-2014,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242014,0.8,12.5,0
+2013-2014,SU025,Lamoille North SU,PS057,Cambridge Elementary School,341,PS0572014,31.6,74.7,0
+2013-2014,SU025,Lamoille North SU,PS093,Eden Central School,110,PS0932014,13,45.3,0
+2013-2014,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,219,PS1452014,23.1,59.45,0
+2013-2014,SU025,Lamoille North SU,PS153,Johnson Elementary School,222,PS1532014,22,52.1,0
+2013-2014,SU025,Lamoille North SU,PS158,Lamoille UHS #18,552,PS1582014,68.1,139,0
+2013-2014,SU025,Lamoille North SU,PS325,Waterville Elementary School,81,PS3252014,8,20.2,0
+2013-2014,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,245,PS4042014,27.8,43.6,0
+2013-2014,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252014,0,20.7,0
+2013-2014,SU026,Lamoille South SU,PS156,Elmore School,20,PS1562014,1,3.23,0
+2013-2014,SU026,Lamoille South SU,PS194,Morristown Elem Schools,278,PS1942014,23.1,53.11,0
+2013-2014,SU026,Lamoille South SU,PS224,Peoples Academy,248,PS2242014,25.27,50.03,0
+2013-2014,SU026,Lamoille South SU,PS286,Stowe Elementary School,324,PS2862014,24.95,50.03,0
+2013-2014,SU026,Lamoille South SU,PS287,Stowe Middle/High School,407,PS2872014,35.95,71.02,0
+2013-2014,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,281,PS3942014,25,48.1,0
+2013-2014,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262014,2.8,25.83,0
+2013-2014,SU027,Orange East SU,PS037,Bradford Elementary School,210,PS0372014,21.6,53.54,0
+2013-2014,SU027,Orange East SU,PS202,Newbury Elementary School,124,PS2022014,14.6,37.6,0
+2013-2014,SU027,Orange East SU,PS220,Oxbow UHS #30,390,PS2202014,48,97.23,0
+2013-2014,SU027,Orange East SU,PS298,Thetford Elementary School,202,PS2982014,21.9,50.4,0
+2013-2014,SU027,Orange East SU,PS310,Waits River Valley US #36,221,PS3102014,26,54.43,0
+2013-2014,SU027,Orange East SU,SU027,Orange East SU,0,SU0272014,0,10.55,0
+2013-2014,SU028,Orange Southwest SU,PS038,Braintree School,85,PS0382014,7.8,14.25,0
+2013-2014,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,57,PS0472014,6.9,11.45,0
+2013-2014,SU028,Orange Southwest SU,PS237,Randolph UHS #2,444,PS2372014,57.4,83.25,0
+2013-2014,SU028,Orange Southwest SU,PS359,Randolph Elementary School,323,PS3592014,25.25,45.2,0
+2013-2014,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282014,5.5,57.25,0
+2013-2014,SU029,Orange North SU,PS215,Orange Center School,103,PS2152014,10.1,23.85,0
+2013-2014,SU029,Orange North SU,PS322,Washington Village School,85,PS3222014,8.55,19.3,0
+2013-2014,SU029,Orange North SU,PS343,Williamstown Elem School,206,PS3432014,18.6,46.4,0
+2013-2014,SU029,Orange North SU,PS344,Williamstown Middle/High School,314,PS3442014,23.8,46.9,0
+2013-2014,SU029,Orange North SU,SU029,Orange North SU,0,SU0292014,0,10,0
+2013-2014,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,192,PS0692014,20.37,32.07,0
+2013-2014,SU030,Orange Windsor SU,PS206,Newton School,116,PS2062014,11.82,17.93,0
+2013-2014,SU030,Orange Windsor SU,PS263,Sharon Elementary School,113,PS2632014,9.1,18.05,0
+2013-2014,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,347,PS2742014,29.1,52.12,0
+2013-2014,SU030,Orange Windsor SU,PS303,Tunbridge Central School,121,PS3032014,15.6,22.48,0
+2013-2014,SU030,Orange Windsor SU,SU030,Orange Windsor SU,0,SU0302014,11.2,60.4,0
+2013-2014,SU031,North Country SU,PS044,Brighton Elementary School,75,PS0442014,13.03,27.48,0
+2013-2014,SU031,North Country SU,PS067,Charleston Elem School,114,PS0672014,12.72,28.12,0
+2013-2014,SU031,North Country SU,PS077,Coventry Village School,101,PS0772014,13.7,22.5,0
+2013-2014,SU031,North Country SU,PS084,Derby Elementary School,349,PS0842014,37,79.55,0
+2013-2014,SU031,North Country SU,PS144,Holland Elementary School,59,PS1442014,6.8,15.6,0
+2013-2014,SU031,North Country SU,PS166,Lowell Graded School,106,PS1662014,11.56,22.07,0
+2013-2014,SU031,North Country SU,PS204,Newport City Elem Schools,317,PS2042014,34,79.37,0
+2013-2014,SU031,North Country SU,PS205,Newport Town School,93,PS2052014,12.71,27.91,0
+2013-2014,SU031,North Country SU,PS208,North Country UHS #22A,836,PS2082014,94.29,181.48,0
+2013-2014,SU031,North Country SU,PS302,Troy Elementary School,178,PS3022014,17,40.6,0
+2013-2014,SU031,North Country SU,PS364,North Country Union Jr High #22B,257,PS3642014,33,61.8,0
+2013-2014,SU031,North Country SU,PS374,Jay/Westfield Joint School,81,PS3742014,9.8,18,0
+2013-2014,SU031,North Country SU,SU031,North Country SU,0,SU0312014,6,63.07,0
+2013-2014,SU032,Washington Central SU,PS033,Berlin Elementary School,191,PS0332014,17.9,38.8,0
+2013-2014,SU032,Washington Central SU,PS056,Calais Elementary School,113,PS0562014,11.5,24.87,0
+2013-2014,SU032,Washington Central SU,PS091,East Montpelier Elem School,197,PS0912014,19.5,36.93,0
+2013-2014,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),153,PS1812014,13.6,29.43,0
+2013-2014,SU032,Washington Central SU,PS305,U32 UHS #32,781,PS3052014,71.83,151.25,0
+2013-2014,SU032,Washington Central SU,PS357,Doty Memorial School,61,PS3572014,7.95,16.85,0
+2013-2014,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322014,3,21.5,0
+2013-2014,SU033,Rutland South SU,PS071,Clarendon Elementary School,175,PS0712014,19.1,40.1,0
+2013-2014,SU033,Rutland South SU,PS183,Mill River US #40,522,PS1832014,57.75,111.18,0
+2013-2014,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,58,PS2692014,9.2,14.71,0
+2013-2014,SU033,Rutland South SU,PS317,Wallingford Village School,116,PS3172014,11.35,24.75,0
+2013-2014,SU033,Rutland South SU,SU033,Rutland South SU,0,SU0332014,2,22.91,0
+2013-2014,SU034,Orleans Central SU,PS007,Albany Community School,81,PS0072014,8.1,15.1,0
+2013-2014,SU034,Orleans Central SU,PS022,Barton Graded School,161,PS0222014,14.3,25.2,0
+2013-2014,SU034,Orleans Central SU,PS049,Brownington Central School,108,PS0492014,10.4,15.53,0
+2013-2014,SU034,Orleans Central SU,PS118,Glover Community School,122,PS1182014,10,18.6,0
+2013-2014,SU034,Orleans Central SU,PS147,Irasburg Village School,134,PS1472014,11.05,18.82,0
+2013-2014,SU034,Orleans Central SU,PS157,Lake Region UHS #24,345,PS1572014,30.37,52.87,0
+2013-2014,SU034,Orleans Central SU,PS217,Orleans Elementary School,103,PS2172014,10.4,16.63,0
+2013-2014,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342014,19.4,89.03,0
+2013-2014,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,161,PS0782014,15.52,27.02,0
+2013-2014,SU035,Orleans Southwest SU,PS126,Lakeview US #43,74,PS1262014,6.2,13,0
+2013-2014,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,238,PS1312014,19.8,37.9,0
+2013-2014,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,367,PS1392014,29.3,52.1,0
+2013-2014,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,132,PS3522014,11,20.8,0
+2013-2014,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,49,PS3532014,3.4,10,0
+2013-2014,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352014,18.7,76.3,0
+2013-2014,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,200,PS0212014,19.13,30.28,0
+2013-2014,SU036,Rutland Northeast SU,PS160,Leicester Central School,63,PS1602014,5.2,9.36,0
+2013-2014,SU036,Rutland Northeast SU,PS165,Lothrop School,197,PS1652014,19.9,34.92,0
+2013-2014,SU036,Rutland Northeast SU,PS200,Neshobe School,336,PS2002014,24.91,44.59,0
+2013-2014,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,541,PS2192014,42.55,66.52,0
+2013-2014,SU036,Rutland Northeast SU,PS290,Sudbury Country School,28,PS2902014,3.4,5.54,0
+2013-2014,SU036,Rutland Northeast SU,PS340,Whiting Village School,33,PS3402014,3.8,6.08,0
+2013-2014,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362014,34.55,160.55,0
+2013-2014,SU037,Rutland Central SU,PS232,Proctor Elementary School,151,PS2322014,16.1,34.1,0
+2013-2014,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,135,PS2332014,16.6,29.6,0
+2013-2014,SU037,Rutland Central SU,PS258,Rutland Town Elem School,347,PS2582014,32.6,58,0
+2013-2014,SU037,Rutland Central SU,PS331,West Rutland School,326,PS3312014,36.2,68.2,0
+2013-2014,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372014,3,24.01,0
+2013-2014,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,62,PS1822014,6.7,13.3,0
+2013-2014,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,176,PS2292014,18,37,0
+2013-2014,SU038,Rutland Southwest SU,PS230,Poultney High School,223,PS2302014,26,50.5,0
+2013-2014,SU038,Rutland Southwest SU,PS300,Tinmouth Elementary School,45,PS3002014,6.24,10.84,0
+2013-2014,SU038,Rutland Southwest SU,PS328,Wells Village School,70,PS3282014,9.4,20.7,0
+2013-2014,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382014,2.9,22.69,0
+2013-2014,SU040,Rutland City SD,PS253,Rutland High School,866,PS2532014,96.29,165.34,0
+2013-2014,SU040,Rutland City SD,PS255,Northeast Primary School,211,PS2552014,22.25,41.42,0
+2013-2014,SU040,Rutland City SD,PS256,Northwest Primary School,223,PS2562014,24.75,46.25,0
+2013-2014,SU040,Rutland City SD,PS365,Rutland Middle School,302,PS3652014,29.87,53.62,0
+2013-2014,SU040,Rutland City SD,PS382,Rutland Intermediate School,617,PS3822014,58,107.25,0
+2013-2014,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402014,11.9,103.28,0
+2013-2014,SU041,Washington Northeast SU,PS055,Cabot School,171,PS0552014,21.4,40.01,0
+2013-2014,SU041,Washington Northeast SU,PS304,Twinfield US #33,379,PS3042014,43.6,81.26,0
+2013-2014,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412014,0,8.93,0
+2013-2014,SU042,Washington West SU,PS107,Fayston Elementary School,101,PS1072014,11,21.95,0
+2013-2014,SU042,Washington West SU,PS138,Harwood UHS #19,541,PS1382014,55.88,101.74,0
+2013-2014,SU042,Washington West SU,PS193,Moretown Elementary School,91,PS1932014,10.2,23.2,0
+2013-2014,SU042,Washington West SU,PS315,Waitsfield Elem School,141,PS3152014,14.3,26.92,0
+2013-2014,SU042,Washington West SU,PS320,Warren Elementary School,152,PS3202014,14.7,30.08,0
+2013-2014,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,355,PS3902014,33.7,67.41,0
+2013-2014,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,264,PS3912014,28.62,59.52,0
+2013-2014,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,135,PS3932014,15.39,24.23,0
+2013-2014,SU042,Washington West SU,SU042,Washington West SU,0,SU0422014,0,14.08,0
+2013-2014,SU043,Washington South SU,PS210,Northfield Elementary School,255,PS2102014,26.3,50.72,0
+2013-2014,SU043,Washington South SU,PS211,Northfield Middle/High School,308,PS2112014,32.3,64.57,0
+2013-2014,SU043,Washington South SU,PS250,Roxbury Village School,30,PS2502014,5,10.27,0
+2013-2014,SU043,Washington South SU,SU043,Washington South SU,0,SU0432014,0,11.6,0
+2013-2014,SU045,Montpelier SD,PS173,Main Street Middle School,192,PS1732014,21.04,47.69,0
+2013-2014,SU045,Montpelier SD,PS191,Montpelier High School,283,PS1912014,32.1,67.05,0
+2013-2014,SU045,Montpelier SD,PS308,Union Elementary School,455,PS3082014,38.27,73.47,0
+2013-2014,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452014,1,14.17,0
+2013-2014,SU046,Windham Central SU,PS086,Dover Elementary School,78,PS0862014,6.8,14.55,0
+2013-2014,SU046,Windham Central SU,PS149,Jamaica Village School,57,PS1492014,4.5,12.5,0
+2013-2014,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,362,PS1612014,32.79,58.52,0
+2013-2014,SU046,Windham Central SU,PS177,Marlboro Elementary School,87,PS1772014,8.92,21.45,0
+2013-2014,SU046,Windham Central SU,PS301,Townshend Village School,66,PS3012014,5.58,15.95,0
+2013-2014,SU046,Windham Central SU,PS319,Wardsboro Central School,52,PS3192014,4.81,10.62,0
+2013-2014,SU046,Windham Central SU,PS347,Windham Elementary School,15,PS3472014,1.99,4.3,0
+2013-2014,SU046,Windham Central SU,PS408,Newbrook Elementary School,125,PS4082014,8.4,16.78,0
+2013-2014,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462014,13,56.78,0
+2013-2014,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,238,PS0242014,23.9,47.92,0
+2013-2014,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,341,PS0252014,37.01,72.51,0
+2013-2014,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,84,PS1202014,9.3,16.98,0
+2013-2014,SU047,Windham Northeast SU,PS249,Central Elementary School,182,PS2492014,18.2,41.58,0
+2013-2014,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,111,PS2602014,10.8,23.45,0
+2013-2014,SU047,Windham Northeast SU,PS334,Westminster Schools,179,PS3342014,21.5,40.99,0
+2013-2014,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472014,4.2,54.52,0
+2013-2014,SU048,Windham Southeast SU,PS001,Academy School,400,PS0012014,38.5,74.9,0
+2013-2014,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,821,PS0402014,90.9,181.2,0
+2013-2014,SU048,Windham Southeast SU,PS087,Dummerston Schools,151,PS0872014,16.8,31,0
+2013-2014,SU048,Windham Southeast SU,PS128,Guilford Central School,112,PS1282014,12.8,31.4,0
+2013-2014,SU048,Windham Southeast SU,PS234,Putney Central School,162,PS2342014,20,37.8,0
+2013-2014,SU048,Windham Southeast SU,PS313,Vernon Elementary School,155,PS3132014,16.6,35.5,0
+2013-2014,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,255,PS3672014,31.9,54.8,0
+2013-2014,SU048,Windham Southeast SU,PS383,Oak Grove School,118,PS3832014,13.7,27.9,0
+2013-2014,SU048,Windham Southeast SU,PS385,Green Street School,248,PS3852014,26,48.8,0
+2013-2014,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482014,17.7,62.9,0
+2013-2014,SU049,Windham Southwest SU,PS083,Twin Valley Elem School,0,PS0832014,20.9,43.25,0
+2013-2014,SU049,Windham Southwest SU,PS129,Halifax School,56,PS1292014,6.64,12.4,0
+2013-2014,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,52,PS2402014,6.72,12.52,0
+2013-2014,SU049,Windham Southwest SU,PS284,Stamford Elementary School,64,PS2842014,7.94,13.89,0
+2013-2014,SU049,Windham Southwest SU,PS346,Twin Valley High School,155,PS3462014,20.15,38,0
+2013-2014,SU049,Windham Southwest SU,PS403,Twin Valley Middle School,102,PS4032014,11.7,28.9,0
+2013-2014,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492014,3.1,21.5,0
+2013-2014,SU050,Windsor Northwest SU,PS034,Bethel Elementary School,150,PS0342014,11.1,20.72,0
+2013-2014,SU050,Windsor Northwest SU,PS247,Rochester School,141,PS2472014,16.6,31.98,0
+2013-2014,SU050,Windsor Northwest SU,PS285,Stockbridge Central School,50,PS2852014,5.29,10.04,0
+2013-2014,SU050,Windsor Northwest SU,PS338,Whitcomb Jr/Sr High School,129,PS3382014,12.75,23.42,0
+2013-2014,SU050,Windsor Northwest SU,SU050,Windsor Northwest SU,0,SU0502014,10.83,42.79,0
+2013-2014,SU051,Windsor Central SU,PS017,Barnard Academy,52,PS0172014,6.8,11.99,0
+2013-2014,SU051,Windsor Central SU,PS042,Bridgewater Village School,36,PS0422014,5.96,11.19,0
+2013-2014,SU051,Windsor Central SU,PS226,Pomfret School,63,PS2262014,7.07,15.19,0
+2013-2014,SU051,Windsor Central SU,PS239,Reading Elementary School,53,PS2392014,5.5,11.4,0
+2013-2014,SU051,Windsor Central SU,PS267,Killington Elementary School,76,PS2672014,8.5,17.95,0
+2013-2014,SU051,Windsor Central SU,PS355,Woodstock Elementary School,171,PS3552014,17.5,31.03,0
+2013-2014,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,376,PS3562014,39,87.21,0
+2013-2014,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,136,PS3682014,14.9,22.7,0
+2013-2014,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512014,2.39,15.92,0
+2013-2014,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),84,PS0082014,6,12.8,0
+2013-2014,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,291,PS1372014,25,46,0
+2013-2014,SU052,Windsor Southeast SU,PS348,Windsor High School,277,PS3482014,20.7,31.78,0
+2013-2014,SU052,Windsor Southeast SU,PS349,Windsor State Street School,259,PS3492014,16.4,26.78,0
+2013-2014,SU052,Windsor Southeast SU,PS407,Weathersfield School,234,PS4072014,17.6,37.45,0
+2013-2014,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522014,13.4,65.4,0
+2013-2014,SU054,Hartford SD,PS134,Hartford High School,558,PS1342014,65.26,105.64,0
+2013-2014,SU054,Hartford SD,PS135,Hartford Mem Middle School,320,PS1352014,34.1,56.23,0
+2013-2014,SU054,Hartford SD,PS339,White River School,190,PS3392014,20.14,38.49,0
+2013-2014,SU054,Hartford SD,PS378,Dothan Brook School,238,PS3782014,22.9,44.77,0
+2013-2014,SU054,Hartford SD,PS380,Ottauquechee School,222,PS3802014,20.1,36.32,0
+2013-2014,SU054,Hartford SD,SU054,Hartford SD,0,SU0542014,22.2,87.6,0
+2013-2014,SU055,Sau 70 ,PS176,Marion W Cross School,325,PS1762014,27.1,56.5,0
+2013-2014,SU056,Springfield SD,PS245,Riverside Middle School,289,PS2452014,29,55.1,0
+2013-2014,SU056,Springfield SD,PS277,Elm Hill School,274,PS2772014,25.5,59.3,0
+2013-2014,SU056,Springfield SD,PS278,Springfield High School,454,PS2782014,35.5,72.4,0
+2013-2014,SU056,Springfield SD,PS280,Union Street School,263,PS2802014,25.5,67.2,0
+2013-2014,SU056,Springfield SD,SU056,Springfield SD,0,SU0562014,12.8,66.5,0
+2013-2014,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,386,PS0362014,37.9,81.55,0
+2013-2014,SU059,Essex Town SD,PS099,Essex Elementary School,386,PS0992014,32.6,71.41,0
+2013-2014,SU059,Essex Town SD,PS101,Essex Middle School,412,PS1012014,34.2,68.88,0
+2013-2014,SU059,Essex Town SD,PS113,Founders Memorial School,407,PS1132014,29.18,66.54,0
+2013-2014,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592014,2.7,25.13,0
+2013-2014,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,213,PS0112014,23.2,45.16,0
+2013-2014,SU060,Battenkill Valley SU,PS109,Fisher School,172,PS1092014,18,46.2,0
+2013-2014,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602014,0,6,0
+2013-2014,SU061,Barre SU,PS020,Barre Town Elementary School,773,PS0202014,74,144,0
+2013-2014,SU061,Barre SU,PS276,Spaulding UHS #41,729,PS2762014,92.5,166.5,0
+2013-2014,SU061,Barre SU,PS381,Barre City Elem/Middle School,789,PS3812014,92.85,194.1,0
+2013-2014,SU061,Barre SU,SU061,Barre SU,0,SU0612014,5,28,0
+2013-2014,SU063,Two Rivers SU,PS035,Black River US #39,182,PS0352014,21.95,41.97,0
+2013-2014,SU063,Two Rivers SU,PS063,Cavendish Town Elem School,93,PS0632014,7.98,21.66,0
+2013-2014,SU063,Two Rivers SU,PS070,Chester Andover US #29,214,PS0702014,20.1,47.63,0
+2013-2014,SU063,Two Rivers SU,PS124,Green Mountain UHS #35,346,PS1242014,29.73,67.12,0
+2013-2014,SU063,Two Rivers SU,PS167,Ludlow Elementary School,113,PS1672014,13.59,29.04,0
+2013-2014,SU063,Two Rivers SU,PS198,Mt Holly School,73,PS1982014,11.58,18.79,0
+2013-2014,SU063,Two Rivers SU,SU063,Two Rivers SU,0,SU0632014,1.8,28.1,0
+2013-2014,SU064,Rivendell Interstate SD,U146,Rivendell Interstate School District,0,U1462014,0,10.32,0
+2013-2014,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,207,PI0042014,23.64,44.45,0
+2013-2014,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,162,PS1062014,14.61,32.51,0
+2013-2014,SU064,Rivendell Interstate SD,PS399,Westshire School,70,PS3992014,8.69,21.04,0
+2013-2014,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012014,17,34.8,0
+2013-2014,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092014,18.5,33,0
+2013-2014,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162014,18,26.25,0
+2014-2015,SU001,Addison Northeast SU,PS023,Beeman Elementary School,90,PS0232015,8.9,15.91,0
+2014-2015,SU001,Addison Northeast SU,PS045,Bristol Elementary School,268,PS0452015,24.6,57.88,0
+2014-2015,SU001,Addison Northeast SU,PS162,Lincoln Community School,119,PS1622015,10.4,20.27,0
+2014-2015,SU001,Addison Northeast SU,PS189,Monkton Central School,157,PS1892015,12.9,26.34,0
+2014-2015,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,706,PS1952015,72.88,123.29,0
+2014-2015,SU001,Addison Northeast SU,PS246,Robinson School,169,PS2462015,14.6,27.96,0
+2014-2015,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012015,9.1,60.07,0
+2014-2015,SU002,Addison Northwest SU,PS002,Addison Central School,79,PS0022015,5.44,11.24,0
+2014-2015,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,179,PS1082015,16.4,26.8,0
+2014-2015,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,264,PS3112015,19,32.4,0
+2014-2015,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,484,PS3122015,37.9,61.5,0
+2014-2015,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022015,27,81.25,0
+2014-2015,SU003,Addison Central SU,PS043,Bridport Central School,74,PS0432015,7.13,16.03,0
+2014-2015,SU003,Addison Central SU,PS076,Bingham Memorial School,77,PS0762015,8.57,16.83,0
+2014-2015,SU003,Addison Central SU,PS179,Middlebury Id#4,404,PS1792015,29.2,83.7,0
+2014-2015,SU003,Addison Central SU,PS180,Middlebury Union High School,627,PS1802015,46.9,87.84,0
+2014-2015,SU003,Addison Central SU,PS244,Ripton Elementary School,43,PS2442015,4.9,11.8,0
+2014-2015,SU003,Addison Central SU,PS259,Salisbury Community School,82,PS2592015,9.34,17.98,0
+2014-2015,SU003,Addison Central SU,PS268,Shoreham Elementary School,72,PS2682015,9.12,18.12,0
+2014-2015,SU003,Addison Central SU,PS336,Weybridge Elementary School,54,PS3362015,5.1,12.2,0
+2014-2015,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,259,PS3662015,27.4,56.31,0
+2014-2015,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032015,31.1,74.19,0
+2014-2015,SU004,Addison Rutland SU,PS031,Benson Village School,82,PS0312015,10.16,23.22,0
+2014-2015,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,343,PS0612015,35.4,86.06,0
+2014-2015,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,322,PS1032015,32.7,70.24,0
+2014-2015,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,437,PS1042015,44,87.67,0
+2014-2015,SU004,Addison Rutland SU,PS218,Orwell Village School,110,PS2182015,12.1,20.7,0
+2014-2015,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042015,6.14,22.68,0
+2014-2015,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,271,PS0292015,17.7,32.48,0
+2014-2015,SU005,Southwest Vermont SU,PS188,Molly Stark School,378,PS1882015,24.5,42.29,0
+2014-2015,SU005,Southwest Vermont SU,PS192,Monument Elementary School,132,PS1922015,9.4,18.13,0
+2014-2015,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,948,PS1962015,67.33,114.43,0
+2014-2015,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,608,PS1972015,39,71.5,0
+2014-2015,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,247,PS2312015,19,32.63,0
+2014-2015,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,242,PS2622015,15.8,24.4,0
+2014-2015,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,24,PS3542015,2.7,4.9,0
+2014-2015,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052015,94.58,284.12,0
+2014-2015,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,92,PS0792015,10.5,23.12,0
+2014-2015,SU006,Bennington Rutland SU,PS085,Dorset School,200,PS0852015,19,40.25,0
+2014-2015,SU006,Bennington Rutland SU,PS111,Flood Brook USD #301,0,PS1112015,29,62.21,0
+2014-2015,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,350,PS1752015,39.37,85.29,0
+2014-2015,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,76,PS2932015,6.6,12,0
+2014-2015,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,172,PS3922015,18.2,42.4,0
+2014-2015,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062015,6.58,42.48,0
+2014-2015,SU007,Colchester SD,PS072,Colchester High School,722,PS0722015,58.5,118.5,0
+2014-2015,SU007,Colchester SD,PS073,Colchester Middle School,443,PS0732015,37.1,82.03,0
+2014-2015,SU007,Colchester SD,PS174,Malletts Bay School,456,PS1742015,30.7,74.24,0
+2014-2015,SU007,Colchester SD,PS227,Porters Point School,244,PS2272015,18.1,51.68,0
+2014-2015,SU007,Colchester SD,PS309,Union Memorial School,243,PS3092015,17.65,47.08,0
+2014-2015,SU007,Colchester SD,SU007,Colchester SD,0,SU0072015,3.9,50.47,0
+2014-2015,SU008,Caledonia North SU,PS051,Burke Town School,187,PS0512015,17.1,24.3,0
+2014-2015,SU008,Caledonia North SU,PS170,Lyndon Town School,419,PS1702015,44.9,59.95,0
+2014-2015,SU008,Caledonia North SU,PS184,Millers Run School US #37,101,PS1842015,9.7,17.1,0
+2014-2015,SU008,Caledonia North SU,PS201,Newark School,59,PS2012015,6.8,9.3,0
+2014-2015,SU008,Caledonia North SU,PS294,Sutton Village School,105,PS2942015,9.6,15.8,0
+2014-2015,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082015,39,85.4,0
+2014-2015,SU009,Caledonia Central SU,PS018,Barnet Elementary School,191,PS0182015,21.4,39.5,0
+2014-2015,SU009,Caledonia Central SU,PS082,Danville School,323,PS0822015,36.1,73,0
+2014-2015,SU009,Caledonia Central SU,PS223,Peacham Elementary School,42,PS2232015,5.1,9.2,0
+2014-2015,SU009,Caledonia Central SU,PS316,Walden School,82,PS3162015,9.95,16.25,0
+2014-2015,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092015,2,16.48,0
+2014-2015,SU010,Milton SD,PS140,Milton Elementary School,682,PS1402015,60.5,144.75,0
+2014-2015,SU010,Milton SD,PS185,Milton Middle School,343,PS1852015,25.5,38.3,0
+2014-2015,SU010,Milton SD,PS186,Milton High School,499,PS1862015,44,82.75,0
+2014-2015,SU010,Milton SD,SU010,Milton SD,0,SU0102015,0,17.54,0
+2014-2015,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,623,PS4002015,59.1,138.7,0
+2014-2015,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112015,0,0,0
+2014-2015,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,115,PS0412015,8.3,14.34,0
+2014-2015,SU012,Chittenden East SU,PS050,Browns River Middle School,418,PS0502015,30.2,44.61,0
+2014-2015,SU012,Chittenden East SU,PS058,Camels Hump Middle School,369,PS0582015,27.7,42.4,0
+2014-2015,SU012,Chittenden East SU,PS152,Jericho Elementary School,242,PS1522015,18,28.55,0
+2014-2015,SU012,Chittenden East SU,PS199,Mt Mansfield US #17,814,PS1992015,53.3,84.55,0
+2014-2015,SU012,Chittenden East SU,PS243,Richmond Elementary School,243,PS2432015,19.2,29.7,0
+2014-2015,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),53,PS2702015,4,8.01,0
+2014-2015,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,118,PS3062015,8,13.76,0
+2014-2015,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,98,PS3072015,6.2,10.01,0
+2014-2015,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122015,53.93,225.94,0
+2014-2015,SU013,Chittenden Central SU,PS009,Albert D Lawton School,341,PS0092015,31.8,55.7,0
+2014-2015,SU013,Chittenden Central SU,PS141,Hiawatha School,227,PS1412015,19.5,44.2,0
+2014-2015,SU013,Chittenden Central SU,PS292,Summit Street School,221,PS2922015,19,44.3,0
+2014-2015,SU013,Chittenden Central SU,PS299,Thomas Fleming School,249,PS2992015,17.3,41.6,0
+2014-2015,SU013,Chittenden Central SU,PS333,Westford Elementary School,169,PS3332015,14.8,31.6,0
+2014-2015,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1243,PS3882015,145.7,352.3,0
+2014-2015,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132015,0,37.5,0
+2014-2015,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1279,PS0662015,91,190.3,0
+2014-2015,SU014,Chittenden South SU,PS068,Charlotte Central School,392,PS0682015,30,73.4,0
+2014-2015,SU014,Chittenden South SU,PS143,Hinesburg Community School,498,PS1432015,34,75,0
+2014-2015,SU014,Chittenden South SU,PS264,Shelburne Community School,731,PS2642015,53,127.5,0
+2014-2015,SU014,Chittenden South SU,PS398,Williston Schools,1020,PS3982015,75.3,171.16,0
+2014-2015,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142015,64.5,220.26,0
+2014-2015,SU015,Burlington SD,PS052,Burlington Senior High School,1033,PS0522015,108.32,166.77,0
+2014-2015,SU015,Burlington SD,PS065,Champlain Elementary School,315,PS0652015,25.36,48.52,0
+2014-2015,SU015,Burlington SD,PS080,C P Smith School,277,PS0802015,21.25,45.15,0
+2014-2015,SU015,Burlington SD,PS094,Edmunds Elementary School,335,PS0942015,26.55,50.39,0
+2014-2015,SU015,Burlington SD,PS095,Edmunds Middle School,407,PS0952015,37.2,61.95,0
+2014-2015,SU015,Burlington SD,PS155,J J Flynn School,349,PS1552015,27.05,54.05,0
+2014-2015,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes,166,PS1592015,17.4,38.3,0
+2014-2015,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,400,PS1692015,35.12,62,0
+2014-2015,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler,267,PS3372015,24.5,43.5,0
+2014-2015,SU015,Burlington SD,SU015,Burlington SD,0,SU0152015,18.77,196.27,0
+2014-2015,SU016,South Burlington SD,PS064,Chamberlin School,223,PS0642015,23.43,48.39,0
+2014-2015,SU016,South Burlington SD,PS216,Orchard School,359,PS2162015,31.42,58.23,0
+2014-2015,SU016,South Burlington SD,PS271,Rick Marcotte Central School,361,PS2712015,28.8,63.64,0
+2014-2015,SU016,South Burlington SD,PS272,So Burlington High School,901,PS2722015,71.44,122.27,0
+2014-2015,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,495,PS2732015,46.38,82.07,0
+2014-2015,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162015,2.8,115.51,0
+2014-2015,SU017,Winooski SD,PS154,J F Kennedy Elem School,350,PS1542015,40.44,86.65,0
+2014-2015,SU017,Winooski SD,PS351,Winooski High School,214,PS3512015,26.5,51.46,0
+2014-2015,SU017,Winooski SD,PS401,Winooski Middle School,155,PS4012015,19.5,34.05,0
+2014-2015,SU017,Winooski SD,SU017,Winooski SD,0,SU0172015,0,7.63,0
+2014-2015,SU018,Essex Caledonia SU,PS074,Concord Graded/High School,195,PS0742015,20.2,44.25,0
+2014-2015,SU018,Essex Caledonia SU,PS127,Guildhall Elementary School,20,PS1272015,2.4,4.4,0
+2014-2015,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,102,PS1682015,10.65,26.45,0
+2014-2015,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,135,PS3242015,10.8,29.61,0
+2014-2015,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182015,6,21.2,0
+2014-2015,SU019,Essex North SU,PS059,Canaan Schools,175,PS0592015,20.5,30.25,0
+2014-2015,SU019,Essex North SU,SU019,Essex North SU,0,SU0192015,2.5,17.95,0
+2014-2015,SU020,Franklin Northeast SU,PS015,Bakersfield School,134,PS0152015,13.6,28.22,0
+2014-2015,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,196,PS0322015,14.8,34.6,0
+2014-2015,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,193,PS0962015,22.7,47.8,0
+2014-2015,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,444,PS0982015,50.44,109.56,0
+2014-2015,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,118,PS1902015,9.7,25.17,0
+2014-2015,SU020,Franklin Northeast SU,PS241,Richford Elementary School,210,PS2412015,17.9,40.9,0
+2014-2015,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,215,PS2422015,22.21,44.01,0
+2014-2015,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202015,10.5,27.37,0
+2014-2015,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,124,PS1152015,9.15,26.68,0
+2014-2015,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,291,PS1422015,28.8,65.78,0
+2014-2015,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,814,PS1872015,87.08,176.53,0
+2014-2015,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,275,PS2662015,25,53.69,0
+2014-2015,SU021,Franklin Northwest SU,PS295,Swanton Schools,485,PS2952015,55.2,124.6,0
+2014-2015,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212015,5.25,35.83,0
+2014-2015,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),547,PS0272015,42.03,97.23,0
+2014-2015,SU022,Franklin West SU,PS110,Fletcher Elementary School,118,PS1102015,11.55,24.06,0
+2014-2015,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,548,PS1172015,47.8,99.17,0
+2014-2015,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),334,PS4052015,25.27,45.57,0
+2014-2015,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222015,16.23,37.23,0
+2014-2015,SU023,Franklin Central SU,PS105,Fairfield Center School,208,PS1052015,20.7,38.7,0
+2014-2015,SU023,Franklin Central SU,PS288,St Albans City School,694,PS2882015,74.1,146.6,0
+2014-2015,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,703,PS2892015,63,133.5,0
+2014-2015,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),987,PS4062015,112.4,197.02,0
+2014-2015,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232015,1,30.08,0
+2014-2015,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,186,PS0102015,20.4,44.7,0
+2014-2015,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,119,PS1122015,14.36,27.89,0
+2014-2015,SU024,Grand Isle SU,PS122,Grand Isle  School,184,PS1222015,19.2,41.4,0
+2014-2015,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,20,PS1482015,4.37,8.18,0
+2014-2015,SU024,Grand Isle SU,PS209,North Hero School,48,PS2092015,6.05,11.11,0
+2014-2015,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242015,1.2,12.4,0
+2014-2015,SU025,Lamoille North SU,PS057,Cambridge Elementary School,330,PS0572015,33.3,76.3,0
+2014-2015,SU025,Lamoille North SU,PS093,Eden Central School,106,PS0932015,12.5,47.5,0
+2014-2015,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,214,PS1452015,24.5,61.43,0
+2014-2015,SU025,Lamoille North SU,PS153,Johnson Elementary School,228,PS1532015,23,54.4,0
+2014-2015,SU025,Lamoille North SU,PS158,Lamoille UHS #18,545,PS1582015,65.6,136,0
+2014-2015,SU025,Lamoille North SU,PS325,Waterville Elementary School,76,PS3252015,8,20.2,0
+2014-2015,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,239,PS4042015,27.6,47.68,0
+2014-2015,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252015,0,23.8,0
+2014-2015,SU026,Lamoille South SU,PS156,Elmore School,20,PS1562015,1,3.23,0
+2014-2015,SU026,Lamoille South SU,PS194,Morristown Elem Schools,292,PS1942015,25.6,55.58,0
+2014-2015,SU026,Lamoille South SU,PS224,Peoples Academy,240,PS2242015,22.27,45.79,0
+2014-2015,SU026,Lamoille South SU,PS286,Stowe Elementary School,320,PS2862015,25.45,51.13,0
+2014-2015,SU026,Lamoille South SU,PS287,Stowe Middle/High School,405,PS2872015,35.95,70.57,0
+2014-2015,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,259,PS3942015,24.4,47.56,0
+2014-2015,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262015,0,23.13,0
+2014-2015,SU027,Orange East SU,PS037,Bradford Elementary School,227,PS0372015,24.2,52.74,0
+2014-2015,SU027,Orange East SU,PS202,Newbury Elementary School,130,PS2022015,13.8,38.6,0
+2014-2015,SU027,Orange East SU,PS220,Oxbow UHS #30,368,PS2202015,50,95.36,0
+2014-2015,SU027,Orange East SU,PS298,Thetford Elementary School,197,PS2982015,20.9,48.28,0
+2014-2015,SU027,Orange East SU,PS310,Waits River Valley US #36,223,PS3102015,27,55,0
+2014-2015,SU027,Orange East SU,SU027,Orange East SU,0,SU0272015,0.67,14.83,0
+2014-2015,SU028,Orange Southwest SU,PS038,Braintree School,75,PS0382015,6.8,8.3,0
+2014-2015,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,59,PS0472015,6.4,7.65,0
+2014-2015,SU028,Orange Southwest SU,PS237,Randolph UHS #2,445,PS2372015,52.4,76.05,0
+2014-2015,SU028,Orange Southwest SU,PS359,Randolph Elementary School,289,PS3592015,23.2,30.7,0
+2014-2015,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282015,17,88.7,0
+2014-2015,SU029,Orange North SU,PS215,Orange Center School,102,PS2152015,9.1,20.9,0
+2014-2015,SU029,Orange North SU,PS322,Washington Village School,80,PS3222015,7.3,17.7,0
+2014-2015,SU029,Orange North SU,PS343,Williamstown Elem School,196,PS3432015,16,33,0
+2014-2015,SU029,Orange North SU,PS344,Williamstown Middle/High School,321,PS3442015,20.5,43.5,0
+2014-2015,SU029,Orange North SU,SU029,Orange North SU,0,SU0292015,9,23.4,0
+2014-2015,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,177,PS0692015,18.5,29.5,0
+2014-2015,SU030,Orange Windsor SU,PS206,Newton School,116,PS2062015,12.03,18.01,0
+2014-2015,SU030,Orange Windsor SU,PS263,Sharon Elementary School,120,PS2632015,10.6,21.56,0
+2014-2015,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,335,PS2742015,28.13,43.48,0
+2014-2015,SU030,Orange Windsor SU,PS303,Tunbridge Central School,103,PS3032015,12.2,19.2,0
+2014-2015,SU030,Orange Windsor SU,SU030,Orange Windsor SU,0,SU0302015,10,57.92,0
+2014-2015,SU031,North Country SU,PS044,Brighton Elementary School,78,PS0442015,12.23,27.63,0
+2014-2015,SU031,North Country SU,PS067,Charleston Elem School,107,PS0672015,12.79,25.59,0
+2014-2015,SU031,North Country SU,PS077,Coventry Village School,102,PS0772015,12.59,22.04,0
+2014-2015,SU031,North Country SU,PS084,Derby Elementary School,350,PS0842015,34,84.96,0
+2014-2015,SU031,North Country SU,PS144,Holland Elementary School,45,PS1442015,6.6,15.78,0
+2014-2015,SU031,North Country SU,PS166,Lowell Graded School,101,PS1662015,11.56,25.44,0
+2014-2015,SU031,North Country SU,PS204,Newport City Elem Schools,305,PS2042015,34,77.63,0
+2014-2015,SU031,North Country SU,PS205,Newport Town School,89,PS2052015,11.7,28.54,0
+2014-2015,SU031,North Country SU,PS208,North Country UHS #22A,796,PS2082015,94,187.38,0
+2014-2015,SU031,North Country SU,PS302,Troy Elementary School,165,PS3022015,16.4,38,0
+2014-2015,SU031,North Country SU,PS364,North Country Union Jr High #22B,270,PS3642015,33.5,67.4,0
+2014-2015,SU031,North Country SU,PS374,Jay/Westfield Joint School,82,PS3742015,10.2,20.98,0
+2014-2015,SU031,North Country SU,SU031,North Country SU,0,SU0312015,5.5,55.78,0
+2014-2015,SU032,Washington Central SU,PS033,Berlin Elementary School,168,PS0332015,17,36.4,0
+2014-2015,SU032,Washington Central SU,PS056,Calais Elementary School,117,PS0562015,11.1,25.47,0
+2014-2015,SU032,Washington Central SU,PS091,East Montpelier Elem School,175,PS0912015,17.4,35.34,0
+2014-2015,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),156,PS1812015,13.9,31.61,0
+2014-2015,SU032,Washington Central SU,PS305,U32 UHS #32,775,PS3052015,71.9,148.32,0
+2014-2015,SU032,Washington Central SU,PS357,Doty Memorial School,63,PS3572015,8.1,17.02,0
+2014-2015,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322015,3,23.8,0
+2014-2015,SU033,Rutland South SU,PS071,Clarendon Elementary School,155,PS0712015,17.6,29.6,0
+2014-2015,SU033,Rutland South SU,PS183,Mill River US #40,492,PS1832015,43.49,72.12,0
+2014-2015,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,62,PS2692015,6.65,11.46,0
+2014-2015,SU033,Rutland South SU,PS300,Tinmouth Elementary School,33,PS3002015,4.57,8.29,0
+2014-2015,SU033,Rutland South SU,PS317,Wallingford Village School,122,PS3172015,9.6,19.8,0
+2014-2015,SU033,Rutland South SU,SU033,Rutland South SU,0,SU0332015,16.9,79.61,0
+2014-2015,SU034,Orleans Central SU,PS007,Albany Community School,82,PS0072015,8.5,15.72,0
+2014-2015,SU034,Orleans Central SU,PS022,Barton Graded School,161,PS0222015,15,26.5,0
+2014-2015,SU034,Orleans Central SU,PS049,Brownington Central School,101,PS0492015,10.6,15.58,0
+2014-2015,SU034,Orleans Central SU,PS118,Glover Community School,122,PS1182015,10.2,19.3,0
+2014-2015,SU034,Orleans Central SU,PS147,Irasburg Village School,124,PS1472015,11.18,18.82,0
+2014-2015,SU034,Orleans Central SU,PS157,Lake Region UHS #24,352,PS1572015,29.83,51.74,0
+2014-2015,SU034,Orleans Central SU,PS217,Orleans Elementary School,105,PS2172015,10.4,18.22,0
+2014-2015,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342015,22.46,87.27,0
+2014-2015,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,168,PS0782015,16.9,28.7,0
+2014-2015,SU035,Orleans Southwest SU,PS126,Lakeview US #43,75,PS1262015,6,13,0
+2014-2015,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,236,PS1312015,21,32.4,0
+2014-2015,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,347,PS1392015,29.7,53.7,0
+2014-2015,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,126,PS3522015,10.1,18.5,0
+2014-2015,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,44,PS3532015,4.6,11.1,0
+2014-2015,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352015,21.5,95.5,0
+2014-2015,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,191,PS0212015,18.97,30.18,0
+2014-2015,SU036,Rutland Northeast SU,PS160,Leicester Central School,59,PS1602015,5.2,9.13,0
+2014-2015,SU036,Rutland Northeast SU,PS165,Lothrop School,197,PS1652015,20.9,34.31,0
+2014-2015,SU036,Rutland Northeast SU,PS200,Neshobe School,323,PS2002015,25.91,43.85,0
+2014-2015,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,526,PS2192015,42.41,66.24,0
+2014-2015,SU036,Rutland Northeast SU,PS290,Sudbury Country School,29,PS2902015,4,5.92,0
+2014-2015,SU036,Rutland Northeast SU,PS340,Whiting Village School,31,PS3402015,3.1,5.1,0
+2014-2015,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362015,28.95,143.01,0
+2014-2015,SU037,Rutland Central SU,PS232,Proctor Elementary School,129,PS2322015,22.21,44.01,0
+2014-2015,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,134,PS2332015,14,32.6,0
+2014-2015,SU037,Rutland Central SU,PS258,Rutland Town Elem School,349,PS2582015,31.1,55.73,0
+2014-2015,SU037,Rutland Central SU,PS331,West Rutland School,323,PS3312015,37.36,66.96,0
+2014-2015,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372015,3,23.54,0
+2014-2015,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,62,PS1822015,6.5,13.5,0
+2014-2015,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,192,PS2292015,19,37,0
+2014-2015,SU038,Rutland Southwest SU,PS230,Poultney High School,209,PS2302015,25,48.5,0
+2014-2015,SU038,Rutland Southwest SU,PS328,Wells Village School,78,PS3282015,9.9,21.5,0
+2014-2015,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382015,4,20.8,0
+2014-2015,SU040,Rutland City SD,PS253,Rutland High School,846,PS2532015,94.44,162.28,0
+2014-2015,SU040,Rutland City SD,PS255,Northeast Primary School,206,PS2552015,20.75,41.75,0
+2014-2015,SU040,Rutland City SD,PS256,Northwest Primary School,225,PS2562015,23.75,47.25,0
+2014-2015,SU040,Rutland City SD,PS365,Rutland Middle School,318,PS3652015,27.97,51.22,0
+2014-2015,SU040,Rutland City SD,PS382,Rutland Intermediate School,585,PS3822015,54.6,97.35,0
+2014-2015,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402015,12.8,114.35,0
+2014-2015,SU041,Washington Northeast SU,PS055,Cabot School,169,PS0552015,20.4,38.56,0
+2014-2015,SU041,Washington Northeast SU,PS304,Twinfield US #33,372,PS3042015,35.8,69.16,0
+2014-2015,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412015,12.5,19.5,0
+2014-2015,SU042,Washington West SU,PS107,Fayston Elementary School,91,PS1072015,10.3,21.98,0
+2014-2015,SU042,Washington West SU,PS138,Harwood UHS #19,517,PS1382015,58,103.86,0
+2014-2015,SU042,Washington West SU,PS193,Moretown Elementary School,99,PS1932015,9.52,22.02,0
+2014-2015,SU042,Washington West SU,PS315,Waitsfield Elem School,127,PS3152015,12.4,26.29,0
+2014-2015,SU042,Washington West SU,PS320,Warren Elementary School,146,PS3202015,15.2,30.23,0
+2014-2015,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,358,PS3902015,33.6,66.39,0
+2014-2015,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,263,PS3912015,28.8,61.46,0
+2014-2015,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,130,PS3932015,14.38,22.17,0
+2014-2015,SU042,Washington West SU,SU042,Washington West SU,0,SU0422015,0,14.4,0
+2014-2015,SU043,Washington South SU,PS210,Northfield Elementary School,243,PS2102015,26.1,48.07,0
+2014-2015,SU043,Washington South SU,PS211,Northfield Middle/High School,295,PS2112015,32.5,63.77,0
+2014-2015,SU043,Washington South SU,PS250,Roxbury Village School,37,PS2502015,5.05,9.57,0
+2014-2015,SU043,Washington South SU,SU043,Washington South SU,0,SU0432015,0,12.23,0
+2014-2015,SU045,Montpelier SD,PS173,Main Street Middle School,185,PS1732015,22.33,45.48,0
+2014-2015,SU045,Montpelier SD,PS191,Montpelier High School,278,PS1912015,31.8,65.87,0
+2014-2015,SU045,Montpelier SD,PS308,Union Elementary School,472,PS3082015,38.67,74.29,0
+2014-2015,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452015,1,16.17,0
+2014-2015,SU046,Windham Central SU,PS086,Dover Elementary School,90,PS0862015,6.9,14.72,0
+2014-2015,SU046,Windham Central SU,PS149,Jamaica Village School,56,PS1492015,5.7,13.43,0
+2014-2015,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,347,PS1612015,30.93,50.58,0
+2014-2015,SU046,Windham Central SU,PS177,Marlboro Elementary School,77,PS1772015,9.1,20.23,0
+2014-2015,SU046,Windham Central SU,PS301,Townshend Village School,70,PS3012015,6.89,17.34,0
+2014-2015,SU046,Windham Central SU,PS319,Wardsboro Central School,51,PS3192015,6.5,12.38,0
+2014-2015,SU046,Windham Central SU,PS347,Windham Elementary School,19,PS3472015,3.2,6.47,0
+2014-2015,SU046,Windham Central SU,PS408,Newbrook Elementary School,120,PS4082015,10.5,21.55,0
+2014-2015,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462015,1,36.73,0
+2014-2015,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,234,PS0242015,16.8,30.8,0
+2014-2015,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,343,PS0252015,28.59,49.79,0
+2014-2015,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,89,PS1202015,7.5,12.18,0
+2014-2015,SU047,Windham Northeast SU,PS249,Central Elementary School,168,PS2492015,12.7,25.46,0
+2014-2015,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,113,PS2602015,8.8,16.6,0
+2014-2015,SU047,Windham Northeast SU,PS334,Westminster Schools,171,PS3342015,14.63,31.26,0
+2014-2015,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472015,38.05,146.04,0
+2014-2015,SU048,Windham Southeast SU,PS001,Academy School,386,PS0012015,22.4,47.2,0
+2014-2015,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,785,PS0402015,71.6,161.3,0
+2014-2015,SU048,Windham Southeast SU,PS087,Dummerston Schools,156,PS0872015,16,31.2,0
+2014-2015,SU048,Windham Southeast SU,PS128,Guilford Central School,120,PS1282015,11.9,30.7,0
+2014-2015,SU048,Windham Southeast SU,PS234,Putney Central School,158,PS2342015,17.4,37.2,0
+2014-2015,SU048,Windham Southeast SU,PS313,Vernon Elementary School,159,PS3132015,17.4,37.2,0
+2014-2015,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,298,PS3672015,29.4,54,0
+2014-2015,SU048,Windham Southeast SU,PS383,Oak Grove School,110,PS3832015,12,26.6,0
+2014-2015,SU048,Windham Southeast SU,PS385,Green Street School,235,PS3852015,16,31.2,0
+2014-2015,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482015,29.4,52.9,0
+2014-2015,SU049,Windham Southwest SU,PS083,Twin Valley Elem School,0,PS0832015,20.2,43.3,0
+2014-2015,SU049,Windham Southwest SU,PS129,Halifax School,47,PS1292015,6.6,11.8,0
+2014-2015,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,50,PS2402015,6.6,12.1,0
+2014-2015,SU049,Windham Southwest SU,PS284,Stamford Elementary School,76,PS2842015,7.9,13.3,0
+2014-2015,SU049,Windham Southwest SU,PS346,Twin Valley High School,154,PS3462015,18.5,41.41,0
+2014-2015,SU049,Windham Southwest SU,PS403,Twin Valley Middle School,104,PS4032015,12.25,25.3,0
+2014-2015,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492015,1.5,26.12,0
+2014-2015,SU050,Windsor Northwest SU,PS034,Bethel Elementary School,148,PS0342015,11,21.74,0
+2014-2015,SU050,Windsor Northwest SU,PS247,Rochester School,138,PS2472015,15.8,30.63,0
+2014-2015,SU050,Windsor Northwest SU,PS285,Stockbridge Central School,52,PS2852015,5.29,10.14,0
+2014-2015,SU050,Windsor Northwest SU,PS338,Whitcomb Jr/Sr High School,126,PS3382015,12.75,23.19,0
+2014-2015,SU050,Windsor Northwest SU,SU050,Windsor Northwest SU,0,SU0502015,4,29.14,0
+2014-2015,SU051,Windsor Central SU,PS017,Barnard Academy,59,PS0172015,6.8,12.15,0
+2014-2015,SU051,Windsor Central SU,PS042,Bridgewater Village School,36,PS0422015,5.96,11.16,0
+2014-2015,SU051,Windsor Central SU,PS226,Pomfret School,53,PS2262015,6.24,10.94,0
+2014-2015,SU051,Windsor Central SU,PS239,Reading Elementary School,44,PS2392015,5.45,10.85,0
+2014-2015,SU051,Windsor Central SU,PS267,Killington Elementary School,91,PS2672015,8.55,17,0
+2014-2015,SU051,Windsor Central SU,PS355,Woodstock Elementary School,175,PS3552015,18.5,37.6,0
+2014-2015,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,347,PS3562015,38.81,85.96,0
+2014-2015,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,145,PS3682015,14.3,22.1,0
+2014-2015,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512015,2.15,15.08,0
+2014-2015,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),77,PS0082015,11,14,0
+2014-2015,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,307,PS1372015,22,43,0
+2014-2015,SU052,Windsor Southeast SU,PS348,Windsor High School,294,PS3482015,24.2,40.6,0
+2014-2015,SU052,Windsor Southeast SU,PS349,Windsor State Street School,257,PS3492015,16.8,35,0
+2014-2015,SU052,Windsor Southeast SU,PS407,Weathersfield School,213,PS4072015,16.75,36.05,0
+2014-2015,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522015,15.7,65.7,0
+2014-2015,SU054,Hartford SD,PS134,Hartford High School,522,PS1342015,48.8,78.21,0
+2014-2015,SU054,Hartford SD,PS135,Hartford Mem Middle School,312,PS1352015,36.1,57.55,0
+2014-2015,SU054,Hartford SD,PS339,White River School,194,PS3392015,20.2,42.42,0
+2014-2015,SU054,Hartford SD,PS378,Dothan Brook School,217,PS3782015,21.8,45.18,0
+2014-2015,SU054,Hartford SD,PS380,Ottauquechee School,212,PS3802015,19.2,40.1,0
+2014-2015,SU054,Hartford SD,SU054,Hartford SD,0,SU0542015,19.75,74.29,0
+2014-2015,SU055,Sau 70 ,PS176,Marion W Cross School,305,PS1762015,26.4,52.5,0
+2014-2015,SU056,Springfield SD,PS245,Riverside Middle School,291,PS2452015,26,52.5,0
+2014-2015,SU056,Springfield SD,PS277,Elm Hill School,276,PS2772015,23.5,54.8,0
+2014-2015,SU056,Springfield SD,PS278,Springfield High School,433,PS2782015,36.37,75.07,0
+2014-2015,SU056,Springfield SD,PS280,Union Street School,256,PS2802015,25.5,62.4,0
+2014-2015,SU056,Springfield SD,SU056,Springfield SD,0,SU0562015,7,54.9,0
+2014-2015,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,373,PS0362015,42.9,91.75,0
+2014-2015,SU059,Essex Town SD,PS099,Essex Elementary School,396,PS0992015,33.8,80.15,0
+2014-2015,SU059,Essex Town SD,PS101,Essex Middle School,425,PS1012015,35.52,75.86,0
+2014-2015,SU059,Essex Town SD,PS113,Founders Memorial School,379,PS1132015,26.83,63.47,0
+2014-2015,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592015,4.2,25.44,0
+2014-2015,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,216,PS0112015,19.2,32.9,0
+2014-2015,SU060,Battenkill Valley SU,PS109,Fisher School,190,PS1092015,15.5,30.5,0
+2014-2015,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602015,6.47,36.47,0
+2014-2015,SU061,Barre SU,PS020,Barre Town Elementary School,756,PS0202015,75,161,0
+2014-2015,SU061,Barre SU,PS276,Spaulding UHS #41,715,PS2762015,85.58,174.08,0
+2014-2015,SU061,Barre SU,PS381,Barre City Elem/Middle School,772,PS3812015,87,182,0
+2014-2015,SU061,Barre SU,SU061,Barre SU,0,SU0612015,3,27,0
+2014-2015,SU063,Two Rivers SU,PS035,Black River US #39,172,PS0352015,20.04,41.6,0
+2014-2015,SU063,Two Rivers SU,PS063,Cavendish Town Elem School,99,PS0632015,8,20.57,0
+2014-2015,SU063,Two Rivers SU,PS070,Chester Andover US #29,219,PS0702015,20.1,46.95,0
+2014-2015,SU063,Two Rivers SU,PS124,Green Mountain UHS #35,336,PS1242015,33,70,0
+2014-2015,SU063,Two Rivers SU,PS167,Ludlow Elementary School,95,PS1672015,13.41,30,0
+2014-2015,SU063,Two Rivers SU,PS198,Mt Holly School,67,PS1982015,10.34,16.84,0
+2014-2015,SU063,Two Rivers SU,SU063,Two Rivers SU,0,SU0632015,5.2,28.9,0
+2014-2015,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,212,PI0042015,22.01,45.73,0
+2014-2015,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,152,PS1062015,14.42,33,0
+2014-2015,SU064,Rivendell Interstate SD,PS399,Westshire School,84,PS3992015,9.69,22.58,0
+2014-2015,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012015,16,32.8,0
+2014-2015,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092015,17,30.23,0
+2014-2015,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162015,15.5,24.6,0
+2015-2016,SU001,Addison Northeast SU,PS023,Beeman Elementary School,105,PS0232016,7.3,12.51,0
+2015-2016,SU001,Addison Northeast SU,PS045,Bristol Elementary School,267,PS0452016,22.5,39.5,0
+2015-2016,SU001,Addison Northeast SU,PS162,Lincoln Community School,116,PS1622016,9.6,16.92,0
+2015-2016,SU001,Addison Northeast SU,PS189,Monkton Central School,150,PS1892016,10.9,17.9,0
+2015-2016,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,649,PS1952016,59.33,86.33,0
+2015-2016,SU001,Addison Northeast SU,PS246,Robinson School,154,PS2462016,12.1,18.8,0
+2015-2016,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012016,26.42,118.79,0
+2015-2016,SU002,Addison Northwest SU,PS002,Addison Central School,71,PS0022016,6.04,12.24,0
+2015-2016,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,173,PS1082016,13.2,23.05,0
+2015-2016,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,253,PS3112016,19,35.2,0
+2015-2016,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,465,PS3122016,33.24,57.24,0
+2015-2016,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022016,25,75.58,0
+2015-2016,SU003,Addison Central SU,PS043,Bridport Central School,59,PS0432016,7.12,20.19,0
+2015-2016,SU003,Addison Central SU,PS076,Bingham Memorial School,77,PS0762016,8.14,15.04,0
+2015-2016,SU003,Addison Central SU,PS179,Middlebury Id#4,413,PS1792016,28.7,79.02,0
+2015-2016,SU003,Addison Central SU,PS180,Middlebury Union High School,620,PS1802016,47.5,91.08,0
+2015-2016,SU003,Addison Central SU,PS244,Ripton Elementary School,42,PS2442016,4.56,11.96,0
+2015-2016,SU003,Addison Central SU,PS259,Salisbury Community School,92,PS2592016,8.82,18.22,0
+2015-2016,SU003,Addison Central SU,PS268,Shoreham Elementary School,72,PS2682016,9.02,18.67,0
+2015-2016,SU003,Addison Central SU,PS336,Weybridge Elementary School,45,PS3362016,5.11,11.91,0
+2015-2016,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,265,PS3662016,27.4,54.44,0
+2015-2016,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032016,27.6,70.9,0
+2015-2016,SU004,Addison Rutland SU,PS031,Benson Village School,81,PS0312016,8.7,21.7,0
+2015-2016,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,327,PS0612016,28.4,79.06,0
+2015-2016,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,292,PS1032016,26.82,61.34,0
+2015-2016,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,448,PS1042016,37,77.39,0
+2015-2016,SU004,Addison Rutland SU,PS218,Orwell Village School,122,PS2182016,11.1,19.5,0
+2015-2016,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042016,25.18,46.32,0
+2015-2016,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,267,PS0292016,16.7,33.48,0
+2015-2016,SU005,Southwest Vermont SU,PS188,Molly Stark School,405,PS1882016,24.5,42.29,0
+2015-2016,SU005,Southwest Vermont SU,PS192,Monument Elementary School,131,PS1922016,9.4,17.13,0
+2015-2016,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,955,PS1962016,66.83,114.33,0
+2015-2016,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,547,PS1972016,39,69.5,0
+2015-2016,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,239,PS2312016,19,31.63,0
+2015-2016,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,240,PS2622016,16.8,25.8,0
+2015-2016,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,24,PS3542016,2.7,4.9,0
+2015-2016,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052016,93.41,285.67,0
+2015-2016,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,86,PS0792016,7.3,19.14,0
+2015-2016,SU006,Bennington Rutland SU,PS085,Dorset School,191,PS0852016,17,38,0
+2015-2016,SU006,Bennington Rutland SU,PS111,Flood Brook USD #301,265,PS1112016,29.12,61.47,0
+2015-2016,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,349,PS1752016,31,70.92,0
+2015-2016,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,82,PS2932016,8.2,13.2,0
+2015-2016,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,158,PS3922016,15.78,37.83,0
+2015-2016,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062016,26.41,69.1,0
+2015-2016,SU007,Colchester SD,PS072,Colchester High School,731,PS0722016,59.8,117.3,0
+2015-2016,SU007,Colchester SD,PS073,Colchester Middle School,424,PS0732016,38.1,83.24,0
+2015-2016,SU007,Colchester SD,PS174,Malletts Bay School,477,PS1742016,32.24,70.62,0
+2015-2016,SU007,Colchester SD,PS227,Porters Point School,253,PS2272016,18.33,56.66,0
+2015-2016,SU007,Colchester SD,PS309,Union Memorial School,250,PS3092016,18.83,50.76,0
+2015-2016,SU007,Colchester SD,SU007,Colchester SD,0,SU0072016,3,48.94,0
+2015-2016,SU008,Caledonia North SU,PS051,Burke Town School,190,PS0512016,19.31,27.44,0
+2015-2016,SU008,Caledonia North SU,PS170,Lyndon Town School,395,PS1702016,44.5,63.37,0
+2015-2016,SU008,Caledonia North SU,PS184,Millers Run School US #37,90,PS1842016,9.01,17.73,0
+2015-2016,SU008,Caledonia North SU,PS201,Newark School,67,PS2012016,7.2,10.01,0
+2015-2016,SU008,Caledonia North SU,PS294,Sutton Village School,95,PS2942016,8.85,14.75,0
+2015-2016,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082016,72.5,92.91,0
+2015-2016,SU009,Caledonia Central SU,PS018,Barnet Elementary School,184,PS0182016,18.7,39.7,0
+2015-2016,SU009,Caledonia Central SU,PS082,Danville School,340,PS0822016,35.9,65,0
+2015-2016,SU009,Caledonia Central SU,PS223,Peacham Elementary School,40,PS2232016,5.2,9.9,0
+2015-2016,SU009,Caledonia Central SU,PS316,Walden School,86,PS3162016,9.9,15.2,0
+2015-2016,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092016,7.32,25.45,0
+2015-2016,SU010,Milton SD,PS140,Milton Elementary School,670,PS1402016,61,148.5,0
+2015-2016,SU010,Milton SD,PS185,Milton Middle School,336,PS1852016,31,51,0
+2015-2016,SU010,Milton SD,PS186,Milton High School,492,PS1862016,44,85.5,0
+2015-2016,SU010,Milton SD,SU010,Milton SD,0,SU0102016,0,18,0
+2015-2016,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,633,PS4002016,61.3,145.77,0
+2015-2016,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112016,0,0,0
+2015-2016,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,111,PS0412016,7.2,13.24,0
+2015-2016,SU012,Chittenden East SU,PS050,Browns River Middle School,411,PS0502016,30.7,45.11,0
+2015-2016,SU012,Chittenden East SU,PS058,Camels Hump Middle School,342,PS0582016,26.1,39.97,0
+2015-2016,SU012,Chittenden East SU,PS152,Jericho Elementary School,233,PS1522016,18.1,28.64,0
+2015-2016,SU012,Chittenden East SU,PS199,Mt Mansfield USD #401B,790,PS1992016,52.7,82,0
+2015-2016,SU012,Chittenden East SU,PS243,Richmond Elementary School,228,PS2432016,18.8,28.76,0
+2015-2016,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),67,PS2702016,4.5,8.45,0
+2015-2016,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,103,PS3062016,8.6,15.35,0
+2015-2016,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,91,PS3072016,6.5,10.74,0
+2015-2016,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122016,47.9,230.37,0
+2015-2016,SU013,Chittenden Central SU,PS009,Albert D Lawton School,347,PS0092016,31.8,56,0
+2015-2016,SU013,Chittenden Central SU,PS141,Hiawatha School,215,PS1412016,19.6,46.3,0
+2015-2016,SU013,Chittenden Central SU,PS292,Summit Street School,208,PS2922016,19.6,45.8,0
+2015-2016,SU013,Chittenden Central SU,PS299,Thomas Fleming School,246,PS2992016,18.1,41.9,0
+2015-2016,SU013,Chittenden Central SU,PS333,Westford Elementary School,169,PS3332016,15.5,31.6,0
+2015-2016,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1217,PS3882016,102.5,274.2,0
+2015-2016,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132016,0,35.1,0
+2015-2016,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1209,PS0662016,89.99,149.69,0
+2015-2016,SU014,Chittenden South SU,PS068,Charlotte Central School,367,PS0682016,29.15,54.31,0
+2015-2016,SU014,Chittenden South SU,PS143,Hinesburg Community School,499,PS1432016,34.9,64.12,0
+2015-2016,SU014,Chittenden South SU,PS264,Shelburne Community School,757,PS2642016,53.5,109,0
+2015-2016,SU014,Chittenden South SU,PS398,Williston Schools,994,PS3982016,76.8,137.56,0
+2015-2016,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142016,64.3,355.17,0
+2015-2016,SU015,Burlington SD,PS052,Burlington Senior High School,1051,PS0522016,110.57,188.39,0
+2015-2016,SU015,Burlington SD,PS065,Champlain Elementary School,317,PS0652016,24.66,36.06,0
+2015-2016,SU015,Burlington SD,PS080,C P Smith School,269,PS0802016,22.5,45.5,0
+2015-2016,SU015,Burlington SD,PS094,Edmunds Elementary School,341,PS0942016,28.5,50.4,0
+2015-2016,SU015,Burlington SD,PS095,Edmunds Middle School,407,PS0952016,46.21,72.11,0
+2015-2016,SU015,Burlington SD,PS155,J J Flynn School,345,PS1552016,30,56.8,0
+2015-2016,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes,189,PS1592016,20,41,0
+2015-2016,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,383,PS1692016,49.77,82.27,0
+2015-2016,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler,265,PS3372016,24.6,44.1,0
+2015-2016,SU015,Burlington SD,SU015,Burlington SD,0,SU0152016,3,167.35,0
+2015-2016,SU016,South Burlington SD,PS064,Chamberlin School,223,PS0642016,23.33,50.66,0
+2015-2016,SU016,South Burlington SD,PS216,Orchard School,349,PS2162016,32.72,57.8,0
+2015-2016,SU016,South Burlington SD,PS271,Rick Marcotte Central School,355,PS2712016,29.5,61.84,0
+2015-2016,SU016,South Burlington SD,PS272,So Burlington High School,881,PS2722016,72.24,124.52,0
+2015-2016,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,516,PS2732016,47.18,79.27,0
+2015-2016,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162016,4.4,125.96,0
+2015-2016,SU017,Winooski SD,PS154,J F Kennedy Elem School,351,PS1542016,40.44,91.9,0
+2015-2016,SU017,Winooski SD,PS351,Winooski High School,228,PS3512016,25.09,49.1,0
+2015-2016,SU017,Winooski SD,PS401,Winooski Middle School,159,PS4012016,19.82,36.62,0
+2015-2016,SU017,Winooski SD,SU017,Winooski SD,0,SU0172016,0,7.63,0
+2015-2016,SU018,Essex Caledonia SU,PS074,Concord Graded/Middle School,128,PS0742016,13.4,28.4,0
+2015-2016,SU018,Essex Caledonia SU,PS127,Guildhall Elementary School,20,PS1272016,2.1,3.3,0
+2015-2016,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,114,PS1682016,10.25,24.65,0
+2015-2016,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,126,PS3242016,11.99,29.21,0
+2015-2016,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182016,7,23.25,0
+2015-2016,SU019,Essex North SU,PS059,Canaan Schools,183,PS0592016,20.5,32.55,0
+2015-2016,SU019,Essex North SU,SU019,Essex North SU,0,SU0192016,2,11.63,0
+2015-2016,SU020,Franklin Northeast SU,PS015,Bakersfield School,130,PS0152016,13.4,26.84,0
+2015-2016,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,201,PS0322016,13.8,34.76,0
+2015-2016,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,191,PS0962016,18.4,42.4,0
+2015-2016,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,458,PS0982016,42.25,98.2,0
+2015-2016,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,127,PS1902016,9.5,25.37,0
+2015-2016,SU020,Franklin Northeast SU,PS241,Richford Elementary School,198,PS2412016,16.4,38.75,0
+2015-2016,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,190,PS2422016,18.6,44.74,0
+2015-2016,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202016,33,50,0
+2015-2016,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,119,PS1152016,8.55,26.08,0
+2015-2016,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,295,PS1422016,24.8,37.78,0
+2015-2016,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,805,PS1872016,75.58,154.28,0
+2015-2016,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,262,PS2662016,21,52.5,0
+2015-2016,SU021,Franklin Northwest SU,PS295,Swanton Schools,486,PS2952016,45.2,111.26,0
+2015-2016,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212016,35.45,90.02,0
+2015-2016,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),541,PS0272016,40.3,89.9,0
+2015-2016,SU022,Franklin West SU,PS110,Fletcher Elementary School,117,PS1102016,10.1,22.1,0
+2015-2016,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,575,PS1172016,47.8,97.9,0
+2015-2016,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),314,PS4052016,24.2,40,0
+2015-2016,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222016,20.3,50.1,0
+2015-2016,SU023,Franklin Central SU,PS105,Fairfield Center School,205,PS1052016,18.3,38.3,0
+2015-2016,SU023,Franklin Central SU,PS288,St Albans City School,669,PS2882016,59.1,137.85,0
+2015-2016,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,698,PS2892016,56,114.73,0
+2015-2016,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),935,PS4062016,88.8,185.74,0
+2015-2016,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232016,53.9,96.05,0
+2015-2016,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,181,PS0102016,21.5,43.47,0
+2015-2016,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,132,PS1122016,13.6,28.83,0
+2015-2016,SU024,Grand Isle SU,PS122,Grand Isle  School,170,PS1222016,20,39.4,0
+2015-2016,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,27,PS1482016,4.21,7.85,0
+2015-2016,SU024,Grand Isle SU,PS209,North Hero School,53,PS2092016,6.21,12.32,0
+2015-2016,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242016,0.8,11,0
+2015-2016,SU025,Lamoille North SU,PS057,Cambridge Elementary School,317,PS0572016,32.3,68.1,0
+2015-2016,SU025,Lamoille North SU,PS093,Eden Central School,112,PS0932016,12,40.4,0
+2015-2016,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,210,PS1452016,21.5,52.2,0
+2015-2016,SU025,Lamoille North SU,PS153,Johnson Elementary School,225,PS1532016,21.7,50.1,0
+2015-2016,SU025,Lamoille North SU,PS158,Lamoille UHS #18,536,PS1582016,94.9,183.4,0
+2015-2016,SU025,Lamoille North SU,PS325,Waterville Elementary School,77,PS3252016,8,17.9,0
+2015-2016,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,221,PS4042016,27.6,63.4,0
+2015-2016,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252016,0,27.03,0
+2015-2016,SU026,Lamoille South SU,PS156,Elmore School,19,PS1562016,1,2.33,0
+2015-2016,SU026,Lamoille South SU,PS194,Morristown Elem Schools,276,PS1942016,26.6,59,0
+2015-2016,SU026,Lamoille South SU,PS224,Peoples Academy,247,PS2242016,24.27,48.2,0
+2015-2016,SU026,Lamoille South SU,PS286,Stowe Elementary School,346,PS2862016,24.95,52.75,0
+2015-2016,SU026,Lamoille South SU,PS287,Stowe Middle/High School,413,PS2872016,35.95,71.95,0
+2015-2016,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,287,PS3942016,23.4,46.84,0
+2015-2016,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262016,2,28,0
+2015-2016,SU027,Orange East SU,PS037,Bradford Elementary School,228,PS0372016,24.84,52.98,0
+2015-2016,SU027,Orange East SU,PS202,Newbury Elementary School,131,PS2022016,15.3,38.11,0
+2015-2016,SU027,Orange East SU,PS220,Oxbow UHS #30,347,PS2202016,47.6,93.03,0
+2015-2016,SU027,Orange East SU,PS298,Thetford Elementary School,194,PS2982016,21.9,48.9,0
+2015-2016,SU027,Orange East SU,PS310,Waits River Valley US #36,228,PS3102016,28,55,0
+2015-2016,SU027,Orange East SU,SU027,Orange East SU,0,SU0272016,0.67,15.05,0
+2015-2016,SU028,Orange Southwest SU,PS038,Braintree School,78,PS0382016,6.7,9,0
+2015-2016,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,52,PS0472016,5.2,6.85,0
+2015-2016,SU028,Orange Southwest SU,PS237,Randolph UHS #2,423,PS2372016,51.65,73.3,0
+2015-2016,SU028,Orange Southwest SU,PS359,Randolph Elementary School,289,PS3592016,22.4,31.94,0
+2015-2016,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282016,17.5,82.12,0
+2015-2016,SU029,Orange North SU,PS215,Orange Center School,107,PS2152016,9.1,22.7,0
+2015-2016,SU029,Orange North SU,PS322,Washington Village School,80,PS3222016,6.9,16.9,0
+2015-2016,SU029,Orange North SU,PS343,Williamstown Elem School,185,PS3432016,15.8,36.8,0
+2015-2016,SU029,Orange North SU,PS344,Williamstown Middle/High School,315,PS3442016,23,48.2,0
+2015-2016,SU029,Orange North SU,SU029,Orange North SU,0,SU0292016,10,26.6,0
+2015-2016,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,174,PS0692016,17.21,30.96,0
+2015-2016,SU030,Orange Windsor SU,PS206,Newton School,117,PS2062016,10.9,16.88,0
+2015-2016,SU030,Orange Windsor SU,PS263,Sharon Elementary School,131,PS2632016,9.95,18.77,0
+2015-2016,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,361,PS2742016,32.9,53.77,0
+2015-2016,SU030,Orange Windsor SU,PS303,Tunbridge Central School,111,PS3032016,11.2,18.5,0
+2015-2016,SU030,Orange Windsor SU,SU030,Orange Windsor SU,0,SU0302016,19.15,57.15,0
+2015-2016,SU031,North Country SU,PS044,Brighton Elementary School,80,PS0442016,12.77,29.48,0
+2015-2016,SU031,North Country SU,PS067,Charleston Elem School,95,PS0672016,13.3,27.94,0
+2015-2016,SU031,North Country SU,PS077,Coventry Village School,115,PS0772016,12.63,23.34,0
+2015-2016,SU031,North Country SU,PS084,Derby Elementary School,382,PS0842016,36.5,85,0
+2015-2016,SU031,North Country SU,PS144,Holland Elementary School,30,PS1442016,5.5,13.8,0
+2015-2016,SU031,North Country SU,PS166,Lowell Graded School,101,PS1662016,13.2,26.13,0
+2015-2016,SU031,North Country SU,PS204,Newport City Elem Schools,293,PS2042016,31.5,76.87,0
+2015-2016,SU031,North Country SU,PS205,Newport Town School,94,PS2052016,11.6,30.34,0
+2015-2016,SU031,North Country SU,PS208,North Country UHS #22A,724,PS2082016,88.5,173.99,0
+2015-2016,SU031,North Country SU,PS302,Troy Elementary School,162,PS3022016,16.48,37.08,0
+2015-2016,SU031,North Country SU,PS364,North Country Union Jr High #22B,281,PS3642016,32.5,67.2,0
+2015-2016,SU031,North Country SU,PS374,Jay/Westfield Joint School,79,PS3742016,8,17.09,0
+2015-2016,SU031,North Country SU,SU031,North Country SU,0,SU0312016,5.8,52.82,0
+2015-2016,SU032,Washington Central SU,PS033,Berlin Elementary School,175,PS0332016,14.65,32.51,0
+2015-2016,SU032,Washington Central SU,PS056,Calais Elementary School,112,PS0562016,9.5,22.14,0
+2015-2016,SU032,Washington Central SU,PS091,East Montpelier Elem School,176,PS0912016,16.2,31.22,0
+2015-2016,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),165,PS1812016,12.08,29.27,0
+2015-2016,SU032,Washington Central SU,PS305,U32 UHS #32,764,PS3052016,63.2,128.84,0
+2015-2016,SU032,Washington Central SU,PS357,Doty Memorial School,70,PS3572016,6.48,15.11,0
+2015-2016,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322016,22.35,50.15,0
+2015-2016,SU033,Rutland South SU,PS071,Clarendon Elementary School,154,PS0712016,16.8,28.5,0
+2015-2016,SU033,Rutland South SU,PS183,Mill River US #40,461,PS1832016,42.15,69.38,0
+2015-2016,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,66,PS2692016,6.85,11.96,0
+2015-2016,SU033,Rutland South SU,PS300,Tinmouth Elementary School,32,PS3002016,3.64,8.63,0
+2015-2016,SU033,Rutland South SU,PS317,Wallingford Village School,123,PS3172016,9.85,21.1,0
+2015-2016,SU033,Rutland South SU,SU033,Rutland South SU,0,SU0332016,15,73.01,0
+2015-2016,SU034,Orleans Central SU,PS007,Albany Community School,84,PS0072016,8.7,15.7,0
+2015-2016,SU034,Orleans Central SU,PS022,Barton Graded School,142,PS0222016,15,26.5,0
+2015-2016,SU034,Orleans Central SU,PS049,Brownington Central School,103,PS0492016,10.6,15.3,0
+2015-2016,SU034,Orleans Central SU,PS118,Glover Community School,112,PS1182016,10.3,19.4,0
+2015-2016,SU034,Orleans Central SU,PS147,Irasburg Village School,128,PS1472016,11.41,19.42,0
+2015-2016,SU034,Orleans Central SU,PS157,Lake Region UHS #24,359,PS1572016,30.83,51.62,0
+2015-2016,SU034,Orleans Central SU,PS217,Orleans Elementary School,106,PS2172016,10.4,17.63,0
+2015-2016,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342016,22.24,92.78,0
+2015-2016,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,176,PS0782016,15.2,26.4,0
+2015-2016,SU035,Orleans Southwest SU,PS126,Lakeview US #43,72,PS1262016,6.3,12.5,0
+2015-2016,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,231,PS1312016,22,33.8,0
+2015-2016,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,330,PS1392016,30.7,54.3,0
+2015-2016,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,128,PS3522016,9.1,17,0
+2015-2016,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,50,PS3532016,4.6,10.2,0
+2015-2016,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352016,19.9,98.7,0
+2015-2016,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,178,PS0212016,16.02,28.67,0
+2015-2016,SU036,Rutland Northeast SU,PS160,Leicester Central School,46,PS1602016,5.07,7.77,0
+2015-2016,SU036,Rutland Northeast SU,PS165,Lothrop School,203,PS1652016,18.7,30.56,0
+2015-2016,SU036,Rutland Northeast SU,PS200,Neshobe School,328,PS2002016,24.5,42.45,0
+2015-2016,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,547,PS2192016,42.41,64.71,0
+2015-2016,SU036,Rutland Northeast SU,PS290,Sudbury Country School,37,PS2902016,4,6.04,0
+2015-2016,SU036,Rutland Northeast SU,PS340,Whiting Village School,31,PS3402016,3.1,5.18,0
+2015-2016,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362016,30.15,143.18,0
+2015-2016,SU037,Rutland Central SU,PS232,Proctor Elementary School,128,PS2322016,15,29.6,0
+2015-2016,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,123,PS2332016,16,27.9,0
+2015-2016,SU037,Rutland Central SU,PS258,Rutland Town Elem School,323,PS2582016,31.7,53.6,0
+2015-2016,SU037,Rutland Central SU,PS331,West Rutland School,314,PS3312016,35.8,64.3,0
+2015-2016,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372016,3,24.58,0
+2015-2016,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,61,PS1822016,5.5,12.41,0
+2015-2016,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,188,PS2292016,16,35.89,0
+2015-2016,SU038,Rutland Southwest SU,PS230,Poultney High School,196,PS2302016,20.5,41,0
+2015-2016,SU038,Rutland Southwest SU,PS328,Wells Village School,69,PS3282016,5.5,12.41,0
+2015-2016,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382016,13,30.01,0
+2015-2016,SU040,Rutland City SD,PS253,Rutland High School,853,PS2532016,93.07,162.64,0
+2015-2016,SU040,Rutland City SD,PS255,Northeast Primary School,190,PS2552016,20.75,40.75,0
+2015-2016,SU040,Rutland City SD,PS256,Northwest Primary School,214,PS2562016,22.75,43.25,0
+2015-2016,SU040,Rutland City SD,PS365,Rutland Middle School,299,PS3652016,26.97,50.22,0
+2015-2016,SU040,Rutland City SD,PS382,Rutland Intermediate School,584,PS3822016,55.6,94.35,0
+2015-2016,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402016,12.8,108.93,0
+2015-2016,SU041,Washington Northeast SU,PS055,Cabot School,160,PS0552016,16.9,35.21,0
+2015-2016,SU041,Washington Northeast SU,PS304,Twinfield US #33,357,PS3042016,36.4,72.13,0
+2015-2016,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412016,8.5,20,0
+2015-2016,SU042,Washington West SU,PS107,Fayston Elementary School,94,PS1072016,9.65,22.8,0
+2015-2016,SU042,Washington West SU,PS138,Harwood UHS #19,511,PS1382016,56.27,101.17,0
+2015-2016,SU042,Washington West SU,PS193,Moretown Elementary School,104,PS1932016,9.65,21.75,0
+2015-2016,SU042,Washington West SU,PS315,Waitsfield Elem School,111,PS3152016,11,24.14,0
+2015-2016,SU042,Washington West SU,PS320,Warren Elementary School,149,PS3202016,13.4,29.2,0
+2015-2016,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,357,PS3902016,33.42,67.88,0
+2015-2016,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,254,PS3912016,29.3,64.86,0
+2015-2016,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,140,PS3932016,15.53,26.03,0
+2015-2016,SU042,Washington West SU,SU042,Washington West SU,0,SU0422016,0,14.03,0
+2015-2016,SU043,Washington South SU,PS210,Northfield Elementary School,237,PS2102016,24.1,44.43,0
+2015-2016,SU043,Washington South SU,PS211,Northfield Middle/High School,295,PS2112016,31,57.97,0
+2015-2016,SU043,Washington South SU,PS250,Roxbury Village School,42,PS2502016,4.8,7.94,0
+2015-2016,SU043,Washington South SU,SU043,Washington South SU,0,SU0432016,0,11.35,0
+2015-2016,SU045,Montpelier SD,PS173,Main Street Middle School,296,PS1732016,26.2,46.6,0
+2015-2016,SU045,Montpelier SD,PS191,Montpelier High School,285,PS1912016,32.9,64.1,0
+2015-2016,SU045,Montpelier SD,PS308,Union Elementary School,403,PS3082016,36.1,68.86,0
+2015-2016,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452016,1,16.51,0
+2015-2016,SU046,Windham Central SU,PS086,Dover Elementary School,86,PS0862016,6.6,14.6,0
+2015-2016,SU046,Windham Central SU,PS149,Jamaica Village School,56,PS1492016,5.9,13.82,0
+2015-2016,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,315,PS1612016,33.1,70.7,0
+2015-2016,SU046,Windham Central SU,PS177,Marlboro Elementary School,80,PS1772016,8,27.93,0
+2015-2016,SU046,Windham Central SU,PS301,Townshend Village School,65,PS3012016,6.78,17.96,0
+2015-2016,SU046,Windham Central SU,PS319,Wardsboro Central School,54,PS3192016,5.8,12.61,0
+2015-2016,SU046,Windham Central SU,PS347,Windham Elementary School,16,PS3472016,1.9,5.17,0
+2015-2016,SU046,Windham Central SU,PS408,Newbrook Elementary School,128,PS4082016,10.4,23.1,0
+2015-2016,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462016,1,18.41,0
+2015-2016,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,233,PS0242016,18,30.5,0
+2015-2016,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,337,PS0252016,21.67,40.34,0
+2015-2016,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,91,PS1202016,7.83,11.13,0
+2015-2016,SU047,Windham Northeast SU,PS249,Central Elementary School,167,PS2492016,12.7,20.4,0
+2015-2016,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,103,PS2602016,7.8,15.9,0
+2015-2016,SU047,Windham Northeast SU,PS334,Westminster Schools,177,PS3342016,15.6,30.5,0
+2015-2016,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472016,40.39,160.92,0
+2015-2016,SU048,Windham Southeast SU,PS001,Academy School,373,PS0012016,32,67.5,0
+2015-2016,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,752,PS0402016,47,151.5,0
+2015-2016,SU048,Windham Southeast SU,PS087,Dummerston Schools,155,PS0872016,14,28.2,0
+2015-2016,SU048,Windham Southeast SU,PS128,Guilford Central School,111,PS1282016,11.5,29.1,0
+2015-2016,SU048,Windham Southeast SU,PS234,Putney Central School,154,PS2342016,15.6,36.7,0
+2015-2016,SU048,Windham Southeast SU,PS313,Vernon Elementary School,159,PS3132016,13.8,32.4,0
+2015-2016,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,321,PS3672016,29,49,0
+2015-2016,SU048,Windham Southeast SU,PS383,Oak Grove School,110,PS3832016,11,25.5,0
+2015-2016,SU048,Windham Southeast SU,PS385,Green Street School,224,PS3852016,22,46.3,0
+2015-2016,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482016,57.5,103.3,0
+2015-2016,SU049,Windham Southwest SU,PS083,Twin Valley Elem School,183,PS0832016,17.6,36.85,0
+2015-2016,SU049,Windham Southwest SU,PS129,Halifax School,44,PS1292016,5.3,10.2,0
+2015-2016,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,39,PS2402016,5.6,11.7,0
+2015-2016,SU049,Windham Southwest SU,PS284,Stamford Elementary School,74,PS2842016,6.4,12.5,0
+2015-2016,SU049,Windham Southwest SU,PS346,Twin Valley High School,139,PS3462016,14.5,31.65,0
+2015-2016,SU049,Windham Southwest SU,PS403,Twin Valley Middle School,94,PS4032016,11.1,22.8,0
+2015-2016,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492016,12,40.8,0
+2015-2016,SU050,Windsor Northwest SU,PS034,Bethel Elementary School,147,PS0342016,11.5,24,0
+2015-2016,SU050,Windsor Northwest SU,PS247,Rochester School,128,PS2472016,12.25,26.25,0
+2015-2016,SU050,Windsor Northwest SU,PS285,Stockbridge Central School,42,PS2852016,5.24,12.24,0
+2015-2016,SU050,Windsor Northwest SU,PS338,Whitcomb Jr/Sr High School,113,PS3382016,14,24.5,0
+2015-2016,SU050,Windsor Northwest SU,SU050,Windsor Northwest SU,0,SU0502016,10,37,0
+2015-2016,SU051,Windsor Central SU,PS017,Barnard Academy,60,PS0172016,5.8,11.05,0
+2015-2016,SU051,Windsor Central SU,PS239,Reading Elementary School,41,PS2392016,5.5,10.45,0
+2015-2016,SU051,Windsor Central SU,PS267,Killington Elementary School,90,PS2672016,9.45,18.46,0
+2015-2016,SU051,Windsor Central SU,PS355,Woodstock Elementary School,168,PS3552016,20,36.65,0
+2015-2016,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,341,PS3562016,38.5,87.1,0
+2015-2016,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,158,PS3682016,15.3,22.1,0
+2015-2016,SU051,Windsor Central SU,PS409,The Prosper Valley School,81,PS4092016,8.7,13.8,0
+2015-2016,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512016,1.95,15.98,0
+2015-2016,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),71,PS0082016,9,16.7,0
+2015-2016,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,309,PS1372016,25.35,43.45,0
+2015-2016,SU052,Windsor Southeast SU,PS407,Weathersfield School,204,PS4072016,16.6,32.4,0
+2015-2016,SU052,Windsor Southeast SU,PS410,Windsor School,523,PS4102016,45,71.5,0
+2015-2016,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522016,13.6,65.6,0
+2015-2016,SU054,Hartford SD,PS134,Hartford High School,497,PS1342016,71.76,116.45,0
+2015-2016,SU054,Hartford SD,PS135,Hartford Mem Middle School,315,PS1352016,34.75,54.86,0
+2015-2016,SU054,Hartford SD,PS339,White River School,197,PS3392016,20.18,42.52,0
+2015-2016,SU054,Hartford SD,PS378,Dothan Brook School,232,PS3782016,22.4,45.03,0
+2015-2016,SU054,Hartford SD,PS380,Ottauquechee School,199,PS3802016,19.2,38.49,0
+2015-2016,SU054,Hartford SD,SU054,Hartford SD,0,SU0542016,18.1,65.5,0
+2015-2016,SU055,Sau 70 ,PS176,Marion W Cross School,310,PS1762016,27.4,52.04,0
+2015-2016,SU056,Springfield SD,PS245,Riverside Middle School,282,PS2452016,26,56.45,0
+2015-2016,SU056,Springfield SD,PS277,Elm Hill School,264,PS2772016,23.5,55.1,0
+2015-2016,SU056,Springfield SD,PS278,Springfield High School,424,PS2782016,37.87,77.12,0
+2015-2016,SU056,Springfield SD,PS280,Union Street School,269,PS2802016,25.5,61.2,0
+2015-2016,SU056,Springfield SD,SU056,Springfield SD,0,SU0562016,7,54.1,0
+2015-2016,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,363,PS0362016,42.5,87.85,0
+2015-2016,SU059,Essex Town SD,PS099,Essex Elementary School,390,PS0992016,34.8,82.34,0
+2015-2016,SU059,Essex Town SD,PS101,Essex Middle School,407,PS1012016,35.62,74.52,0
+2015-2016,SU059,Essex Town SD,PS113,Founders Memorial School,407,PS1132016,29.8,67.97,0
+2015-2016,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592016,4.2,24.86,0
+2015-2016,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,213,PS0112016,19.4,29.6,0
+2015-2016,SU060,Battenkill Valley SU,PS109,Fisher School,167,PS1092016,14.6,28,0
+2015-2016,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602016,6,35.5,0
+2015-2016,SU061,Barre SU,PS020,Barre Town Elementary School,745,PS0202016,70,141,0
+2015-2016,SU061,Barre SU,PS276,Spaulding UHS #41,661,PS2762016,82.07,173.64,0
+2015-2016,SU061,Barre SU,PS381,Barre City Elem/Middle School,765,PS3812016,90.75,177.31,0
+2015-2016,SU061,Barre SU,SU061,Barre SU,0,SU0612016,4,32,0
+2015-2016,SU063,Two Rivers SU,PS035,Black River US #39,169,PS0352016,17.04,32.98,0
+2015-2016,SU063,Two Rivers SU,PS063,Cavendish Town Elem School,99,PS0632016,8,20.92,0
+2015-2016,SU063,Two Rivers SU,PS070,Chester Andover US #29,215,PS0702016,16.1,45.26,0
+2015-2016,SU063,Two Rivers SU,PS124,Green Mountain UHS #35,330,PS1242016,27.4,61.82,0
+2015-2016,SU063,Two Rivers SU,PS167,Ludlow Elementary School,92,PS1672016,10.15,25.65,0
+2015-2016,SU063,Two Rivers SU,PS198,Mt Holly School,75,PS1982016,8.5,14.6,0
+2015-2016,SU063,Two Rivers SU,SU063,Two Rivers SU,0,SU0632016,23.2,49.96,0
+2015-2016,SU064,Rivendell Interstate SD,U146,Rivendell Interstate School District,0,U1462016,0.5,11.65,0
+2015-2016,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,199,PI0042016,22.03,41.16,0
+2015-2016,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,166,PS1062016,15,32.68,0
+2015-2016,SU064,Rivendell Interstate SD,PS399,Westshire School,78,PS3992016,9.14,23.79,0
+2015-2016,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012016,18,38,0
+2015-2016,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092016,17.5,34.1,0
+2015-2016,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162016,15.25,26.75,0
+2016-2017,SU001,Addison Northeast SU,PS023,Beeman Elementary School,96,PS0232017,7.9,13.5,0
+2016-2017,SU001,Addison Northeast SU,PS045,Bristol Elementary School,258,PS0452017,22.5,40.5,0
+2016-2017,SU001,Addison Northeast SU,PS162,Lincoln Community School,118,PS1622017,9.6,16.99,0
+2016-2017,SU001,Addison Northeast SU,PS189,Monkton Central School,152,PS1892017,11.2,19.3,0
+2016-2017,SU001,Addison Northeast SU,PS195,Mt Abraham UHS #28,639,PS1952017,59.52,88.02,0
+2016-2017,SU001,Addison Northeast SU,PS246,Robinson School,155,PS2462017,12.6,19.01,0
+2016-2017,SU001,Addison Northeast SU,SU001,Addison Northeast SU,0,SU0012017,27.3,117.86,0
+2016-2017,SU002,Addison Northwest SU,PS002,Addison Central School,62,PS0022017,8.35,17.85,0
+2016-2017,SU002,Addison Northwest SU,PS108,Ferrisburgh Central School,151,PS1082017,19.1,34.75,0
+2016-2017,SU002,Addison Northwest SU,PS311,Vergennes Ues #44,238,PS3112017,25,50.45,0
+2016-2017,SU002,Addison Northwest SU,PS312,Vergennes UHS #5,457,PS3122017,44.65,82.65,0
+2016-2017,SU002,Addison Northwest SU,SU002,Addison Northwest SU,0,SU0022017,0,16.6,0
+2016-2017,SU003,Addison Central SU,PS043,Bridport Central School,59,PS0432017,6.9,17.05,0
+2016-2017,SU003,Addison Central SU,PS076,Bingham Memorial School,79,PS0762017,8.12,15.02,0
+2016-2017,SU003,Addison Central SU,PS179,Middlebury Id#4,446,PS1792017,30.5,82.1,0
+2016-2017,SU003,Addison Central SU,PS180,Middlebury Union High School,599,PS1802017,45.5,93.16,0
+2016-2017,SU003,Addison Central SU,PS244,Ripton Elementary School,41,PS2442017,4.5,12.46,0
+2016-2017,SU003,Addison Central SU,PS259,Salisbury Community School,87,PS2592017,8.8,20.27,0
+2016-2017,SU003,Addison Central SU,PS268,Shoreham Elementary School,78,PS2682017,8,17.8,0
+2016-2017,SU003,Addison Central SU,PS336,Weybridge Elementary School,50,PS3362017,5,12.01,0
+2016-2017,SU003,Addison Central SU,PS366,Middlebury Union Middle School #3,251,PS3662017,28.1,52.16,0
+2016-2017,SU003,Addison Central SU,SU003,Addison Central SU,0,SU0032017,28.5,66.41,0
+2016-2017,SU004,Addison Rutland SU,PS031,Benson Village School,70,PS0312017,8.7,20.19,0
+2016-2017,SU004,Addison Rutland SU,PS061,Castleton Hubbardton US #42,326,PS0612017,27.4,76.43,0
+2016-2017,SU004,Addison Rutland SU,PS103,Fair Haven Grade School,311,PS1032017,26.7,65.51,0
+2016-2017,SU004,Addison Rutland SU,PS104,Fair Haven UHS #16,407,PS1042017,37,78.1,0
+2016-2017,SU004,Addison Rutland SU,PS218,Orwell Village School,118,PS2182017,11.7,20.5,0
+2016-2017,SU004,Addison Rutland SU,SU004,Addison Rutland SU,0,SU0042017,24.9,49.1,0
+2016-2017,SU005,Southwest Vermont SU,PS029,Bennington Elementary School,254,PS0292017,17.7,34.48,0
+2016-2017,SU005,Southwest Vermont SU,PS188,Molly Stark School,382,PS1882017,23,40.79,0
+2016-2017,SU005,Southwest Vermont SU,PS192,Monument Elementary School,126,PS1922017,9.7,17.43,0
+2016-2017,SU005,Southwest Vermont SU,PS196,Mt Anthony Sr UHS #14,903,PS1962017,66.83,114.33,0
+2016-2017,SU005,Southwest Vermont SU,PS197,Mt Anthony Union Middle School,540,PS1972017,38,68.5,0
+2016-2017,SU005,Southwest Vermont SU,PS231,Pownal Elementary School,244,PS2312017,19,32.63,0
+2016-2017,SU005,Southwest Vermont SU,PS262,Shaftsbury Elem School,242,PS2622017,17.8,26.8,0
+2016-2017,SU005,Southwest Vermont SU,PS354,Woodford Hollow School,18,PS3542017,2.7,5.5,0
+2016-2017,SU005,Southwest Vermont SU,SU005,Southwest Vermont SU,0,SU0052017,93.87,289.56,0
+2016-2017,SU006,Bennington Rutland SU,PS079,Currier Memorial US #23,84,PS0792017,7.3,18.55,0
+2016-2017,SU006,Bennington Rutland SU,PS085,Dorset School,180,PS0852017,18,39.31,0
+2016-2017,SU006,Bennington Rutland SU,PS111,Flood Brook USD #301,282,PS1112017,25,54.68,0
+2016-2017,SU006,Bennington Rutland SU,PS175,Manchester Elem/Middle School,354,PS1752017,30.17,69.73,0
+2016-2017,SU006,Bennington Rutland SU,PS293,Sunderland Elem School,86,PS2932017,7.8,12,0
+2016-2017,SU006,Bennington Rutland SU,PS392,Mettawee Community US #47,167,PS3922017,15.2,36.8,0
+2016-2017,SU006,Bennington Rutland SU,SU006,Bennington Rutland SU,0,SU0062017,24.6,73.23,0
+2016-2017,SU007,Colchester SD,PS072,Colchester High School,668,PS0722017,59,115,0
+2016-2017,SU007,Colchester SD,PS073,Colchester Middle School,445,PS0732017,38.1,86.79,0
+2016-2017,SU007,Colchester SD,PS174,Malletts Bay School,490,PS1742017,35.2,74.9,0
+2016-2017,SU007,Colchester SD,PS227,Porters Point School,233,PS2272017,19.2,55.2,0
+2016-2017,SU007,Colchester SD,PS309,Union Memorial School,253,PS3092017,19.9,54.47,0
+2016-2017,SU007,Colchester SD,SU007,Colchester SD,0,SU0072017,3,48.41,0
+2016-2017,SU008,Caledonia North SU,PS051,Burke Town School,180,PS0512017,21.2,31.43,0
+2016-2017,SU008,Caledonia North SU,PS170,Lyndon Town School,415,PS1702017,42.07,64.29,0
+2016-2017,SU008,Caledonia North SU,PS184,Millers Run School US #37,100,PS1842017,9.21,23.54,0
+2016-2017,SU008,Caledonia North SU,PS201,Newark School,61,PS2012017,7,9.81,0
+2016-2017,SU008,Caledonia North SU,PS294,Sutton Village School,98,PS2942017,11.39,18.99,0
+2016-2017,SU008,Caledonia North SU,SU008,Caledonia North SU,0,SU0082017,32,95.78,0
+2016-2017,SU009,Caledonia Central SU,PS018,Barnet Elementary School,175,PS0182017,16.75,35.55,0
+2016-2017,SU009,Caledonia Central SU,PS082,Danville School,330,PS0822017,30.67,58.17,0
+2016-2017,SU009,Caledonia Central SU,PS223,Peacham Elementary School,46,PS2232017,5.6,10.6,0
+2016-2017,SU009,Caledonia Central SU,PS316,Walden School,89,PS3162017,8.3,14.6,0
+2016-2017,SU009,Caledonia Central SU,SU009,Caledonia Central SU,0,SU0092017,11.8,40.06,0
+2016-2017,SU010,Milton SD,PS140,Milton Elementary School,668,PS1402017,58,158,0
+2016-2017,SU010,Milton SD,PS185,Milton Middle School,351,PS1852017,33,55,0
+2016-2017,SU010,Milton SD,PS186,Milton High School,478,PS1862017,42,80.5,0
+2016-2017,SU010,Milton SD,SU010,Milton SD,0,SU0102017,0,19.5,0
+2016-2017,SU011,St Johnsbury SD,PS400,St Johnsbury Schools,616,PS4002017,70,146.45,0
+2016-2017,SU011,St Johnsbury SD,SU011,St Johnsbury SD,0,SU0112017,0,0,0
+2016-2017,SU012,Chittenden East SU,PS041,Brewster Pierce Elementary School,105,PS0412017,7.6,13.26,0
+2016-2017,SU012,Chittenden East SU,PS050,Browns River Middle School,405,PS0502017,30.8,45.59,0
+2016-2017,SU012,Chittenden East SU,PS058,Camels Hump Middle School,326,PS0582017,26.4,40.38,0
+2016-2017,SU012,Chittenden East SU,PS152,Jericho Elementary School,240,PS1522017,18.5,29.04,0
+2016-2017,SU012,Chittenden East SU,PS199,Mt Mansfield USD #401B,800,PS1992017,54.8,84.25,0
+2016-2017,SU012,Chittenden East SU,PS243,Richmond Elementary School,220,PS2432017,17.6,27.23,0
+2016-2017,SU012,Chittenden East SU,PS270,Smilie Memorial School(Bolton),67,PS2702017,4.6,8.49,0
+2016-2017,SU012,Chittenden East SU,PS306,Underhill Central Elementary School,103,PS3062017,6.6,12.97,0
+2016-2017,SU012,Chittenden East SU,PS307,Underhill Id Elementary School,96,PS3072017,6.5,11.14,0
+2016-2017,SU012,Chittenden East SU,SU012,Chittenden East SU,0,SU0122017,47.65,242.85,0
+2016-2017,SU013,Chittenden Central SU,PS009,Albert D Lawton School,367,PS0092017,31.2,54.4,0
+2016-2017,SU013,Chittenden Central SU,PS141,Hiawatha School,198,PS1412017,19.1,42.9,0
+2016-2017,SU013,Chittenden Central SU,PS292,Summit Street School,205,PS2922017,19.6,43.4,0
+2016-2017,SU013,Chittenden Central SU,PS299,Thomas Fleming School,218,PS2992017,19.1,50.9,0
+2016-2017,SU013,Chittenden Central SU,PS333,Westford Elementary School,164,PS3332017,16.1,31.6,0
+2016-2017,SU013,Chittenden Central SU,PS388,Essex Community Ed Ctr,1216,PS3882017,150,354.1,0
+2016-2017,SU013,Chittenden Central SU,SU013,Chittenden Central SU,0,SU0132017,0,36.65,0
+2016-2017,SU014,Chittenden South SU,PS066,Champlain Valley UHS #15,1253,PS0662017,85.49,139.89,0
+2016-2017,SU014,Chittenden South SU,PS068,Charlotte Central School,359,PS0682017,27.65,49.19,0
+2016-2017,SU014,Chittenden South SU,PS143,Hinesburg Community School,506,PS1432017,33.3,63.42,0
+2016-2017,SU014,Chittenden South SU,PS264,Shelburne Community School,729,PS2642017,51.82,97.35,0
+2016-2017,SU014,Chittenden South SU,PS398,Williston Schools,975,PS3982017,71.65,129.11,0
+2016-2017,SU014,Chittenden South SU,SU014,Chittenden South SU,0,SU0142017,70.9,360.99,0
+2016-2017,SU015,Burlington SD,PS052,Burlington Senior High School,1005,PS0522017,99.75,161.1,0
+2016-2017,SU015,Burlington SD,PS065,Champlain Elementary School,316,PS0652017,24.1,47.68,0
+2016-2017,SU015,Burlington SD,PS080,C P Smith School,269,PS0802017,24.35,46.95,0
+2016-2017,SU015,Burlington SD,PS094,Edmunds Elementary School,325,PS0942017,26.8,49.44,0
+2016-2017,SU015,Burlington SD,PS095,Edmunds Middle School,408,PS0952017,33.6,60.56,0
+2016-2017,SU015,Burlington SD,PS155,J J Flynn School,335,PS1552017,28.7,53.7,0
+2016-2017,SU015,Burlington SD,PS159,Sustain Acad At Lawrence Barnes,174,PS1592017,20.9,37.62,0
+2016-2017,SU015,Burlington SD,PS169,Lyman C Hunt Middle School,401,PS1692017,36.55,65.22,0
+2016-2017,SU015,Burlington SD,PS337,Integrated Arts Acad At Ho Wheeler,269,PS3372017,25.8,40.8,0
+2016-2017,SU015,Burlington SD,SU015,Burlington SD,0,SU0152017,10.6,237.36,0
+2016-2017,SU016,South Burlington SD,PS064,Chamberlin School,218,PS0642017,22.63,48.94,0
+2016-2017,SU016,South Burlington SD,PS216,Orchard School,372,PS2162017,32.72,62.26,0
+2016-2017,SU016,South Burlington SD,PS271,Rick Marcotte Central School,361,PS2712017,29.5,65.9,0
+2016-2017,SU016,South Burlington SD,PS272,So Burlington High School,917,PS2722017,75.14,128.14,0
+2016-2017,SU016,South Burlington SD,PS273,Frederick H Tuttle Middle School,517,PS2732017,46.98,83.39,0
+2016-2017,SU016,South Burlington SD,SU016,South Burlington SD,0,SU0162017,4.3,126.95,0
+2016-2017,SU017,Winooski SD,PS154,J F Kennedy Elem School,357,PS1542017,41.44,91.22,0
+2016-2017,SU017,Winooski SD,PS351,Winooski High School,211,PS3512017,26.95,51.92,0
+2016-2017,SU017,Winooski SD,PS401,Winooski Middle School,167,PS4012017,20.21,39.16,0
+2016-2017,SU017,Winooski SD,SU017,Winooski SD,0,SU0172017,0,7.8,0
+2016-2017,SU018,Essex Caledonia SU,PS074,Concord Graded/Middle School,122,PS0742017,13.8,29.56,0
+2016-2017,SU018,Essex Caledonia SU,PS168,Lunenburg/Gilman Schools,120,PS1682017,11.75,25.15,0
+2016-2017,SU018,Essex Caledonia SU,PS324,Waterford Elementary School,133,PS3242017,11.8,26.57,0
+2016-2017,SU018,Essex Caledonia SU,SU018,Essex Caledonia SU,0,SU0182017,10,26,0
+2016-2017,SU019,Essex North SU,PS059,Canaan Schools,174,PS0592017,19.5,31.63,0
+2016-2017,SU019,Essex North SU,SU019,Essex North SU,0,SU0192017,2,13.85,0
+2016-2017,SU020,Franklin Northeast SU,PS015,Bakersfield School,122,PS0152017,13.45,27.64,0
+2016-2017,SU020,Franklin Northeast SU,PS032,Berkshire Elementary School,200,PS0322017,14.89,38.86,0
+2016-2017,SU020,Franklin Northeast SU,PS096,Enosburg Falls Elementary School,193,PS0962017,18.1,42.4,0
+2016-2017,SU020,Franklin Northeast SU,PS098,Enosburg Falls Middle-High School,438,PS0982017,42.7,101.22,0
+2016-2017,SU020,Franklin Northeast SU,PS190,Montgomery Elementary School,121,PS1902017,9.8,26.64,0
+2016-2017,SU020,Franklin Northeast SU,PS241,Richford Elementary School,163,PS2412017,16.4,38.54,0
+2016-2017,SU020,Franklin Northeast SU,PS242,Richford Jr/Sr High School,230,PS2422017,17.86,43.91,0
+2016-2017,SU020,Franklin Northeast SU,SU020,Franklin Northeast SU,0,SU0202017,33.19,51.44,0
+2016-2017,SU021,Franklin Northwest SU,PS115,Franklin Elementary School,118,PS1152017,8.45,27.64,0
+2016-2017,SU021,Franklin Northwest SU,PS142,Highgate Elementary School,312,PS1422017,23.2,61.93,0
+2016-2017,SU021,Franklin Northwest SU,PS187,Missisquoi Valley UHS #7,795,PS1872017,76.83,152.78,0
+2016-2017,SU021,Franklin Northwest SU,PS266,Sheldon Elementary School,260,PS2662017,23,49.1,0
+2016-2017,SU021,Franklin Northwest SU,PS295,Swanton Schools,490,PS2952017,40.9,105.87,0
+2016-2017,SU021,Franklin Northwest SU,SU021,Franklin Northwest SU,0,SU0212017,43.55,94.41,0
+2016-2017,SU022,Franklin West SU,PS027,Bellows Free Academy (Fairfax),558,PS0272017,40.2,89.4,0
+2016-2017,SU022,Franklin West SU,PS110,Fletcher Elementary School,106,PS1102017,10.1,20.9,0
+2016-2017,SU022,Franklin West SU,PS117,Georgia Elem/Middle School,553,PS1172017,49.8,98.7,0
+2016-2017,SU022,Franklin West SU,PS405,Bellows Free Academy HS(Fairfax),281,PS4052017,23.3,40.2,0
+2016-2017,SU022,Franklin West SU,SU022,Franklin West SU,0,SU0222017,20.4,49.8,0
+2016-2017,SU023,Franklin Central SU,PS105,Fairfield Center School,196,PS1052017,18.3,38.3,0
+2016-2017,SU023,Franklin Central SU,PS288,St Albans City School,674,PS2882017,51,129.72,0
+2016-2017,SU023,Franklin Central SU,PS289,St Albans Town Educ Center,684,PS2892017,55,113.1,0
+2016-2017,SU023,Franklin Central SU,PS406,Bellows Free Academy (St Albans),897,PS4062017,82.2,173.01,0
+2016-2017,SU023,Franklin Central SU,SU023,Franklin Central SU,0,SU0232017,46.9,96.74,0
+2016-2017,SU024,Grand Isle SU,PS010,Alburgh Community Ed Center,176,PS0102017,18,38,0
+2016-2017,SU024,Grand Isle SU,PS112,Folsom Ed And Community Ctr,135,PS1122017,12.6,26.71,0
+2016-2017,SU024,Grand Isle SU,PS122,Grand Isle School,182,PS1222017,17,33.31,0
+2016-2017,SU024,Grand Isle SU,PS148,Isle La Motte Elem School,28,PS1482017,3.8,6.3,0
+2016-2017,SU024,Grand Isle SU,PS209,North Hero School,45,PS2092017,5.19,9.28,0
+2016-2017,SU024,Grand Isle SU,SU024,Grand Isle SU,0,SU0242017,11.5,26.67,0
+2016-2017,SU025,Lamoille North SU,PS057,Cambridge Elementary School,308,PS0572017,28.5,58.2,0
+2016-2017,SU025,Lamoille North SU,PS093,Eden Central School,110,PS0932017,11,33.8,0
+2016-2017,SU025,Lamoille North SU,PS145,Hyde Park Elementary School,213,PS1452017,20.5,51.9,0
+2016-2017,SU025,Lamoille North SU,PS153,Johnson Elementary School,216,PS1532017,17.2,54.8,0
+2016-2017,SU025,Lamoille North SU,PS158,Lamoille UHS #18,478,PS1582017,58.6,119,0
+2016-2017,SU025,Lamoille North SU,PS325,Waterville Elementary School,77,PS3252017,7.3,19.1,0
+2016-2017,SU025,Lamoille North SU,PS404,Lamoille Union Middle School #18,251,PS4042017,22.6,38.1,0
+2016-2017,SU025,Lamoille North SU,SU025,Lamoille North SU,0,SU0252017,25,69.8,0
+2016-2017,SU026,Lamoille South SU,PS156,Elmore School,17,PS1562017,1,2.23,0
+2016-2017,SU026,Lamoille South SU,PS194,Morristown Elem Schools,276,PS1942017,27.6,56.67,0
+2016-2017,SU026,Lamoille South SU,PS224,Peoples Academy,264,PS2242017,23.16,49.01,0
+2016-2017,SU026,Lamoille South SU,PS286,Stowe Elementary School,331,PS2862017,25.95,49.95,0
+2016-2017,SU026,Lamoille South SU,PS287,Stowe Middle/High School,445,PS2872017,38.15,72.95,0
+2016-2017,SU026,Lamoille South SU,PS394,Peoples Academy Middle School,259,PS3942017,23.51,47.2,0
+2016-2017,SU026,Lamoille South SU,SU026,Lamoille South SU,0,SU0262017,1,24.3,0
+2016-2017,SU027,Orange East SU,PS037,Bradford Elementary School,226,PS0372017,21.6,50.84,0
+2016-2017,SU027,Orange East SU,PS202,Newbury Elementary School,144,PS2022017,12.3,36.2,0
+2016-2017,SU027,Orange East SU,PS220,Oxbow UHS #30,337,PS2202017,41.76,88.12,0
+2016-2017,SU027,Orange East SU,PS298,Thetford Elementary School,191,PS2982017,20.9,47.97,0
+2016-2017,SU027,Orange East SU,PS310,Waits River Valley US #36,232,PS3102017,26,49,0
+2016-2017,SU027,Orange East SU,SU027,Orange East SU,0,SU0272017,11.67,27.06,0
+2016-2017,SU028,Orange Southwest SU,PS038,Braintree School,78,PS0382017,6.5,8.8,0
+2016-2017,SU028,Orange Southwest SU,PS047,Brookfield Elementary School,69,PS0472017,5,6.75,0
+2016-2017,SU028,Orange Southwest SU,PS237,Randolph UHS #2,386,PS2372017,46.7,64.05,0
+2016-2017,SU028,Orange Southwest SU,PS359,Randolph Elementary School,284,PS3592017,21.2,30.5,0
+2016-2017,SU028,Orange Southwest SU,SU028,Orange Southwest SU,0,SU0282017,15.5,80.04,0
+2016-2017,SU029,Orange North SU,PS215,Orange Center School,97,PS2152017,9.1,12.9,0
+2016-2017,SU029,Orange North SU,PS322,Washington Village School,80,PS3222017,6.9,10.9,0
+2016-2017,SU029,Orange North SU,PS343,Williamstown Elem School,201,PS3432017,15.4,21.4,0
+2016-2017,SU029,Orange North SU,PS344,Williamstown Middle/High School,288,PS3442017,23.3,35.8,0
+2016-2017,SU029,Orange North SU,SU029,Orange North SU,0,SU0292017,9.6,56.9,0
+2016-2017,SU030,Orange Windsor SU,PS034,Bethel Elementary School,135,PS0342017,25.25,43.42,0
+2016-2017,SU030,Orange Windsor SU,PS069,Chelsea Elem High School,175,PS0692017,15.8,29.45,0
+2016-2017,SU030,Orange Windsor SU,PS206,Newton School,113,PS2062017,10.2,17.26,0
+2016-2017,SU030,Orange Windsor SU,PS247,Rochester School,117,PS2472017,14.5,26.03,0
+2016-2017,SU030,Orange Windsor SU,PS263,Sharon Elementary School,120,PS2632017,9.1,19.8,0
+2016-2017,SU030,Orange Windsor SU,PS274,So Royalton Elem/High School,355,PS2742017,29.36,52.71,0
+2016-2017,SU030,Orange Windsor SU,PS285,Stockbridge Central School,41,PS2852017,5.27,9.97,0
+2016-2017,SU030,Orange Windsor SU,PS303,Tunbridge Central School,114,PS3032017,8.6,16.21,0
+2016-2017,SU030,Orange Windsor SU,PS338,Whitcomb Jr/Sr High School,111,PS3382017,11.75,22.39,0
+2016-2017,SU030,Orange Windsor SU,SU030,White River Valley SU,0,SU0302017,0.8,69.49,0
+2016-2017,SU031,North Country SU,PS044,Brighton Elementary School,88,PS0442017,9.8,24.06,0
+2016-2017,SU031,North Country SU,PS067,Charleston Elem School,95,PS0672017,12.39,29.39,0
+2016-2017,SU031,North Country SU,PS077,Coventry Village School,115,PS0772017,11.7,22.49,0
+2016-2017,SU031,North Country SU,PS084,Derby Elementary School,360,PS0842017,31.42,73.42,0
+2016-2017,SU031,North Country SU,PS144,Holland Elementary School,34,PS1442017,4.7,11.5,0
+2016-2017,SU031,North Country SU,PS166,Lowell Graded School,92,PS1662017,11.64,25.68,0
+2016-2017,SU031,North Country SU,PS204,Newport City Elem Schools,288,PS2042017,27.8,68.8,0
+2016-2017,SU031,North Country SU,PS205,Newport Town School,104,PS2052017,10.8,30.84,0
+2016-2017,SU031,North Country SU,PS208,North Country UHS #22A,711,PS2082017,73.1,149.56,0
+2016-2017,SU031,North Country SU,PS302,Troy Elementary School,167,PS3022017,13.97,36.57,0
+2016-2017,SU031,North Country SU,PS364,North Country Union Jr High #22B,259,PS3642017,25.5,59.18,0
+2016-2017,SU031,North Country SU,PS374,Jay/Westfield Joint School,67,PS3742017,7,14.65,0
+2016-2017,SU031,North Country SU,SU031,North Country SU,0,SU0312017,49.47,91.75,0
+2016-2017,SU032,Washington Central SU,PS033,Berlin Elementary School,197,PS0332017,15.5,34.7,0
+2016-2017,SU032,Washington Central SU,PS056,Calais Elementary School,113,PS0562017,10,22.84,0
+2016-2017,SU032,Washington Central SU,PS091,East Montpelier Elem School,174,PS0912017,15.5,29.12,0
+2016-2017,SU032,Washington Central SU,PS181,Rumney Memorial School (Middlesex),159,PS1812017,12.4,28.63,0
+2016-2017,SU032,Washington Central SU,PS305,U32 UHS #32,746,PS3052017,64.6,130.84,0
+2016-2017,SU032,Washington Central SU,PS357,Doty Memorial School,67,PS3572017,6.2,15.03,0
+2016-2017,SU032,Washington Central SU,SU032,Washington Central SU,0,SU0322017,24.95,53.75,0
+2016-2017,SU033,Rutland South SU,PS071,Clarendon Elementary School,147,PS0712017,16.8,28,0
+2016-2017,SU033,Rutland South SU,PS183,Mill River US #40,437,PS1832017,37.44,64.25,0
+2016-2017,SU033,Rutland South SU,PS269,Shrewsbury Mountain School,63,PS2692017,7.05,11.96,0
+2016-2017,SU033,Rutland South SU,PS300,Tinmouth Elementary School,40,PS3002017,4.04,9.27,0
+2016-2017,SU033,Rutland South SU,PS317,Wallingford Village School,130,PS3172017,10.19,21.09,0
+2016-2017,SU033,Rutland South SU,SU033,Mill River Unified Union SUpervisory District,0,SU0332017,16,76.97,0
+2016-2017,SU034,Orleans Central SU,PS007,Albany Community School,70,PS0072017,8.9,16.15,0
+2016-2017,SU034,Orleans Central SU,PS022,Barton Graded School,136,PS0222017,15.2,26.5,0
+2016-2017,SU034,Orleans Central SU,PS049,Brownington Central School,114,PS0492017,10.6,15.53,0
+2016-2017,SU034,Orleans Central SU,PS118,Glover Community School,116,PS1182017,10.3,18.9,0
+2016-2017,SU034,Orleans Central SU,PS147,Irasburg Village School,113,PS1472017,11.17,19.18,0
+2016-2017,SU034,Orleans Central SU,PS157,Lake Region UHS #24,394,PS1572017,31.33,54.03,0
+2016-2017,SU034,Orleans Central SU,PS217,Orleans Elementary School,96,PS2172017,10.4,16.63,0
+2016-2017,SU034,Orleans Central SU,SU034,Orleans Central SU,0,SU0342017,22.45,92.51,0
+2016-2017,SU035,Orleans Southwest SU,PS078,Craftsbury Schools,183,PS0782017,17.5,38,0
+2016-2017,SU035,Orleans Southwest SU,PS126,Lakeview US #43,75,PS1262017,7.9,18.8,0
+2016-2017,SU035,Orleans Southwest SU,PS131,Hardwick Elementary School,215,PS1312017,22.5,46.6,0
+2016-2017,SU035,Orleans Southwest SU,PS139,Hazen UHS #26,329,PS1392017,38.1,75.1,0
+2016-2017,SU035,Orleans Southwest SU,PS352,Wolcott Elementary School,137,PS3522017,13.2,31,0
+2016-2017,SU035,Orleans Southwest SU,PS353,Woodbury Elementary School,50,PS3532017,5.1,11.6,0
+2016-2017,SU035,Orleans Southwest SU,SU035,Orleans Southwest SU,0,SU0352017,13.5,36.7,0
+2016-2017,SU036,Rutland Northeast SU,PS021,Barstow Memorial School,173,PS0212017,17.61,28.49,0
+2016-2017,SU036,Rutland Northeast SU,PS160,Leicester Central School,46,PS1602017,5.77,8.68,0
+2016-2017,SU036,Rutland Northeast SU,PS165,Lothrop School,196,PS1652017,17.8,28.47,0
+2016-2017,SU036,Rutland Northeast SU,PS200,Neshobe School,335,PS2002017,26.6,43.93,0
+2016-2017,SU036,Rutland Northeast SU,PS219,Otter Valley UHS #8,528,PS2192017,43.55,66.85,0
+2016-2017,SU036,Rutland Northeast SU,PS290,Sudbury Country School,37,PS2902017,3,6.24,0
+2016-2017,SU036,Rutland Northeast SU,PS340,Whiting Village School,28,PS3402017,4.4,6.89,0
+2016-2017,SU036,Rutland Northeast SU,SU036,Rutland Northeast SU,0,SU0362017,30.15,140.28,0
+2016-2017,SU037,Rutland Central SU,PS232,Proctor Elementary School,132,PS2322017,11,25.1,0
+2016-2017,SU037,Rutland Central SU,PS233,Proctor Jr/Sr High School,121,PS2332017,13.3,26.1,0
+2016-2017,SU037,Rutland Central SU,PS258,Rutland Town Elem School,326,PS2582017,26.2,45.7,0
+2016-2017,SU037,Rutland Central SU,PS331,West Rutland School,313,PS3312017,31.1,54.1,0
+2016-2017,SU037,Rutland Central SU,SU037,Rutland Central SU,0,SU0372017,18,39.5,0
+2016-2017,SU038,Rutland Southwest SU,PS182,Middletown Springs Elem School,62,PS1822017,5.9,12.29,0
+2016-2017,SU038,Rutland Southwest SU,PS229,Poultney Elementary School,189,PS2292017,16,32.67,0
+2016-2017,SU038,Rutland Southwest SU,PS230,Poultney High School,187,PS2302017,20.5,39.5,0
+2016-2017,SU038,Rutland Southwest SU,PS328,Wells Village School,77,PS3282017,8.02,19.9,0
+2016-2017,SU038,Rutland Southwest SU,SU038,Rutland Southwest SU,0,SU0382017,9.5,26.95,0
+2016-2017,SU040,Rutland City SD,PS253,Rutland High School,840,PS2532017,89.16,161.86,0
+2016-2017,SU040,Rutland City SD,PS255,Northeast Primary School,183,PS2552017,21,43.17,0
+2016-2017,SU040,Rutland City SD,PS256,Northwest Primary School,222,PS2562017,22.75,43.75,0
+2016-2017,SU040,Rutland City SD,PS365,Rutland Middle School,305,PS3652017,26.37,43.62,0
+2016-2017,SU040,Rutland City SD,PS382,Rutland Intermediate School,539,PS3822017,53.8,86.55,0
+2016-2017,SU040,Rutland City SD,SU040,Rutland City SD,0,SU0402017,9,102.63,0
+2016-2017,SU041,Washington Northeast SU,PS055,Cabot School,158,PS0552017,12.62,24.32,0
+2016-2017,SU041,Washington Northeast SU,PS304,Twinfield US #33,341,PS3042017,36.1,62.54,0
+2016-2017,SU041,Washington Northeast SU,SU041,Washington Northeast SU,0,SU0412017,7.5,32.66,0
+2016-2017,SU042,Washington West SU,PS107,Fayston Elementary School,86,PS1072017,24.3,55.86,0
+2016-2017,SU042,Washington West SU,PS138,Harwood UHS #19,493,PS1382017,45.57,86.07,0
+2016-2017,SU042,Washington West SU,PS193,Moretown Elementary School,101,PS1932017,8.6,17.65,0
+2016-2017,SU042,Washington West SU,PS315,Waitsfield Elem School,111,PS3152017,9.4,20.36,0
+2016-2017,SU042,Washington West SU,PS320,Warren Elementary School,138,PS3202017,9.7,25.53,0
+2016-2017,SU042,Washington West SU,PS390,Thatcher Brook Primary US #45,380,PS3902017,29,57.36,0
+2016-2017,SU042,Washington West SU,PS391,Crossett Brook Middle US #45,277,PS3912017,32,65.06,0
+2016-2017,SU042,Washington West SU,PS393,Harwood Union Middle UHS #19,151,PS3932017,14.28,23.58,0
+2016-2017,SU042,Washington West SU,SU042,Washington West SU,0,SU0422017,25.75,53.65,0
+2016-2017,SU043,Washington South SU,PS210,Northfield Elementary School,241,PS2102017,23.6,45.3,0
+2016-2017,SU043,Washington South SU,PS211,Northfield Middle/High School,310,PS2112017,30.1,54.98,0
+2016-2017,SU043,Washington South SU,PS250,Roxbury Village School,40,PS2502017,4.6,8.3,0
+2016-2017,SU043,Washington South SU,SU043,Washington South SU,0,SU0432017,0,10.89,0
+2016-2017,SU045,Montpelier SD,PS173,Main Street Middle School,299,PS1732017,27.35,48.78,0
+2016-2017,SU045,Montpelier SD,PS191,Montpelier High School,308,PS1912017,30.35,65.25,0
+2016-2017,SU045,Montpelier SD,PS308,Union Elementary School,410,PS3082017,36.4,70.33,0
+2016-2017,SU045,Montpelier SD,SU045,Montpelier SD,0,SU0452017,1.5,19.3,0
+2016-2017,SU046,Windham Central SU,PS086,Dover Elementary School,78,PS0862017,7.4,16.8,0
+2016-2017,SU046,Windham Central SU,PS149,Jamaica Village School,47,PS1492017,6.1,13.22,0
+2016-2017,SU046,Windham Central SU,PS161,Leland And Gray UHS #34,307,PS1612017,33.58,71.51,0
+2016-2017,SU046,Windham Central SU,PS177,Marlboro Elementary School,81,PS1772017,9.1,17.32,0
+2016-2017,SU046,Windham Central SU,PS301,Townshend Village School,60,PS3012017,6.5,19.9,0
+2016-2017,SU046,Windham Central SU,PS319,Wardsboro Central School,48,PS3192017,5.8,11.5,0
+2016-2017,SU046,Windham Central SU,PS347,Windham Elementary School,14,PS3472017,2.15,5.82,0
+2016-2017,SU046,Windham Central SU,PS408,Newbrook Elementary School,120,PS4082017,11,24.28,0
+2016-2017,SU046,Windham Central SU,SU046,Windham Central SU,0,SU0462017,1,18.08,0
+2016-2017,SU047,Windham Northeast SU,PS024,Bellows Falls Middle School,258,PS0242017,18,30.5,0
+2016-2017,SU047,Windham Northeast SU,PS025,Bellows Falls UHS #27,328,PS0252017,21.67,40.34,0
+2016-2017,SU047,Windham Northeast SU,PS120,Athens/Grafton Joint Contract School,91,PS1202017,7.83,12.13,0
+2016-2017,SU047,Windham Northeast SU,PS249,Central Elementary School,160,PS2492017,12.7,20.4,0
+2016-2017,SU047,Windham Northeast SU,PS260,Saxtons River Elem School,99,PS2602017,7.8,15.9,0
+2016-2017,SU047,Windham Northeast SU,PS334,Westminster Schools,190,PS3342017,15.6,30.5,0
+2016-2017,SU047,Windham Northeast SU,SU047,Windham Northeast SU,0,SU0472017,40,164.19,0
+2016-2017,SU048,Windham Southeast SU,PS001,Academy School,348,PS0012017,32,65.5,0
+2016-2017,SU048,Windham Southeast SU,PS040,Brattleboro UHS #6,747,PS0402017,60,151,0
+2016-2017,SU048,Windham Southeast SU,PS087,Dummerston Schools,149,PS0872017,13,28,0
+2016-2017,SU048,Windham Southeast SU,PS128,Guilford Central School,94,PS1282017,12,27,0
+2016-2017,SU048,Windham Southeast SU,PS234,Putney Central School,140,PS2342017,15,34,0
+2016-2017,SU048,Windham Southeast SU,PS313,Vernon Elementary School,166,PS3132017,14,30,0
+2016-2017,SU048,Windham Southeast SU,PS367,Bratt Area Middle School #6,318,PS3672017,28,48,0
+2016-2017,SU048,Windham Southeast SU,PS383,Oak Grove School,114,PS3832017,13,26,0
+2016-2017,SU048,Windham Southeast SU,PS385,Green Street School,227,PS3852017,23,43,0
+2016-2017,SU048,Windham Southeast SU,SU048,Windham Southeast SU,0,SU0482017,56,112,0
+2016-2017,SU049,Windham Southwest SU,PS083,Twin Valley Elem School,174,PS0832017,17.6,37.95,0
+2016-2017,SU049,Windham Southwest SU,PS129,Halifax School,52,PS1292017,5.3,10,0
+2016-2017,SU049,Windham Southwest SU,PS240,Readsboro Elementary School,43,PS2402017,5.8,11.1,0
+2016-2017,SU049,Windham Southwest SU,PS284,Stamford Elementary School,72,PS2842017,6.4,11.8,0
+2016-2017,SU049,Windham Southwest SU,PS411,Twin Valley Middle High School,229,PS4112017,24.7,49.85,0
+2016-2017,SU049,Windham Southwest SU,SU049,Windham Southwest SU,0,SU0492017,11.5,40.1,0
+2016-2017,SU051,Windsor Central SU,PS017,Barnard Academy,52,PS0172017,4.8,9.2,0
+2016-2017,SU051,Windsor Central SU,PS239,Reading Elementary School,43,PS2392017,4.7,11.05,0
+2016-2017,SU051,Windsor Central SU,PS267,Killington Elementary School,81,PS2672017,8.45,15.54,0
+2016-2017,SU051,Windsor Central SU,PS355,Woodstock Elementary School,156,PS3552017,17,37.1,0
+2016-2017,SU051,Windsor Central SU,PS356,Woodstock Sr UHS #4,320,PS3562017,31.6,75.5,0
+2016-2017,SU051,Windsor Central SU,PS368,Woodstock Union Middle School,178,PS3682017,13.8,28.6,0
+2016-2017,SU051,Windsor Central SU,PS409,The Prosper Valley School,81,PS4092017,8.75,13.08,0
+2016-2017,SU051,Windsor Central SU,SU051,Windsor Central SU,0,SU0512017,12.99,27.42,0
+2016-2017,SU052,Windsor Southeast SU,PS008,Albert Bridge School (W Wind),64,PS0082017,6,13,0
+2016-2017,SU052,Windsor Southeast SU,PS137,Hartland Elementary School,310,PS1372017,25.05,44.75,0
+2016-2017,SU052,Windsor Southeast SU,PS407,Weathersfield School,205,PS4072017,17.8,30.6,0
+2016-2017,SU052,Windsor Southeast SU,PS410,Windsor School,553,PS4102017,45,71.5,0
+2016-2017,SU052,Windsor Southeast SU,SU052,Windsor Southeast SU,0,SU0522017,18.6,77.4,0
+2016-2017,SU054,Hartford SD,PS134,Hartford High School,467,PS1342017,67.37,112.32,0
+2016-2017,SU054,Hartford SD,PS135,Hartford Mem Middle School,296,PS1352017,32.32,53.46,0
+2016-2017,SU054,Hartford SD,PS339,White River School,190,PS3392017,20.62,45.86,0
+2016-2017,SU054,Hartford SD,PS378,Dothan Brook School,224,PS3782017,21.65,45.58,0
+2016-2017,SU054,Hartford SD,PS380,Ottauquechee School,193,PS3802017,19.95,39,0
+2016-2017,SU054,Hartford SD,SU054,Hartford SD,0,SU0542017,18.7,64.01,0
+2016-2017,SU055,Sau 70 ,PS176,Marion W Cross School,298,PS1762017,24.62,53.32,0
+2016-2017,SU056,Springfield SD,PS245,Riverside Middle School,248,PS2452017,27,54.75,0
+2016-2017,SU056,Springfield SD,PS277,Elm Hill School,266,PS2772017,23.5,52.5,0
+2016-2017,SU056,Springfield SD,PS278,Springfield High School,425,PS2782017,32.4,76.15,0
+2016-2017,SU056,Springfield SD,PS280,Union Street School,286,PS2802017,24.5,58.2,0
+2016-2017,SU056,Springfield SD,SU056,Springfield SD,0,SU0562017,8,53.05,0
+2016-2017,SU057,Blue Mountain SD,PS036,Blue Mountain US #21,373,PS0362017,41.32,87.72,0
+2016-2017,SU059,Essex Town SD,PS099,Essex Elementary School,380,PS0992017,34.6,79.98,0
+2016-2017,SU059,Essex Town SD,PS101,Essex Middle School,433,PS1012017,37.72,72.15,0
+2016-2017,SU059,Essex Town SD,PS113,Founders Memorial School,414,PS1132017,7,46.07,0
+2016-2017,SU059,Essex Town SD,SU059,Essex Town SD,0,SU0592017,3.44,25.43,0
+2016-2017,SU060,Battenkill Valley SU,PS011,Arlington Memorial High School,205,PS0112017,19.2,29.9,0
+2016-2017,SU060,Battenkill Valley SU,PS109,Fisher School,168,PS1092017,15.5,29.4,0
+2016-2017,SU060,Battenkill Valley SU,SU060,Battenkill Valley SU,0,SU0602017,9,36.7,0
+2016-2017,SU061,Barre SU,PS020,Barre Town Elementary School,746,PS0202017,53,117,0
+2016-2017,SU061,Barre SU,PS276,Spaulding UHS #41,666,PS2762017,74,142,0
+2016-2017,SU061,Barre SU,PS381,Barre City Elem/Middle School,781,PS3812017,69.75,142.52,0
+2016-2017,SU061,Barre SU,SU061,Barre SU,0,SU0612017,59,116,0
+2016-2017,SU063,Two Rivers SU,PS035,Black River US #39,150,PS0352017,16.85,30.55,0
+2016-2017,SU063,Two Rivers SU,PS063,Cavendish Town Elem School,100,PS0632017,8,26.45,0
+2016-2017,SU063,Two Rivers SU,PS070,Chester Andover US #29,196,PS0702017,16.1,46.35,0
+2016-2017,SU063,Two Rivers SU,PS124,Green Mountain UHS #35,319,PS1242017,27.4,59,0
+2016-2017,SU063,Two Rivers SU,PS167,Ludlow Elementary School,95,PS1672017,9.25,26.4,0
+2016-2017,SU063,Two Rivers SU,PS198,Mt Holly School,81,PS1982017,8,13.6,0
+2016-2017,SU063,Two Rivers SU,SU063,Two Rivers SU,0,SU0632017,23.7,60.3,0
+2016-2017,SU064,Rivendell Interstate SD,U146,Rivendell Interstate School District,0,U1462017,0,0,0
+2016-2017,SU064,Rivendell Interstate SD,PI004,Rivendell Academy,203,PI0042017,21.24,39.59,0
+2016-2017,SU064,Rivendell Interstate SD,PS106,Samuel Morey Elementary School,161,PS1062017,14.71,30.59,0
+2016-2017,SU064,Rivendell Interstate SD,PS399,Westshire School,80,PS3992017,8.27,28.17,0
+2016-2017,SU064,Rivendell Interstate SD,SU064,Rivendell Interstate SD,0,SU0642017,0.2,11.15,0
+2016-2017,TE001,Patricia Hannaford Career Ctr,VC001,Patricia Hannaford Career Ctr,0,VC0012017,16.76,34.26,0
+2016-2017,TE002,SW VT Career Development Ctr,VC009,SW VT Career Development Ctr,0,VC0092017,14,30.5,0
+2016-2017,TE003,River Valley Technical Center,VC016,River Valley Technical Center,0,VC0162017,15.15,27.15,0
