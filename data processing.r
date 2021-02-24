@@ -63,7 +63,7 @@ for (i in 2007:2016) {
   raw.data <- melt(raw.data, id=c("County","SupervisoryUnion","OperatingDistrict","School","year"), variable.name = "Grade", value.name = "Enrollment")
   enrollment <- bind_rows(enrollment,raw.data)
 }
-for (i in 2017:2017) {
+for (i in 2017:2019) {
   read.csv(paste("CSV data/Enrollment Report ",i-1,"-",i,".csv",sep=""), 
            header=FALSE, skip=23, strip.white = TRUE, colClasses = "character") %>% 
     select(County=V2,SupervisoryUnion=V7,OperatingDistrict=V8,School=V12,

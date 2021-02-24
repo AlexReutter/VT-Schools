@@ -4,6 +4,7 @@ author: "Alex Reutter"
 date: "`r format(Sys.Date())`"
 output: 
   github_document:
+#    md_extension: +gfm_auto_identifiers
     toc: true # table of content true
     toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
 ---  
@@ -23,11 +24,13 @@ The purpose of this project is to help shed some light on questions surrounding 
 
 ## Background
 
-The school district of Burlington, VT, is in its nth consecutive year of staff cuts, and parents are concerned about whether these cuts will adversely affect the quality of education provided by the district.
+I originally ran this report in 2018 on data through the end of the 2016-2017 school year, when the school district of Burlington, VT, was in its nth consecutive year of staff cuts, and parents were concerned about whether these cuts will adversely affect the quality of education provided by the district.
+
+Now I've added more years of data, as available from the VTAoE.
 
 ## Summary
 
-While there is good evidence that statewide and Chittenden countywide enrollment is dropping, the data show that Burlington's K-12 enrollment has been stable over the last 14 years, and the expansion of the Pre-K program has actually increased total enrollment since 2003.
+While there is good evidence that statewide and Chittenden countywide enrollment is dropping, the data show that Burlington's K-12 enrollment has been stable over the time, and the expansion of the Pre-K program has actually increased total enrollment since 2003.
 
 # Data sources
 
@@ -62,7 +65,7 @@ Unfortunately, the VTAOE reports are not in good condition for performing furthe
 
 ## State-level analysis
 
-It is clear that, in Vermont as a whole, total K-12 enrollment is decreasing, and over the last 14 years, the decline is near the [20% claimed by Sec. Holcombe](http://www.burlingtonfreepress.com/story/news/local/vermont/2017/10/19/vermont-education-budget-gap-may-have-burlington-tightening-its-belt/745578001/).
+It is clear that, in Vermont as a whole, total K-12 enrollment is decreasing, and over the 16 years of data available, the decline is near the [20% claimed by Sec. Holcombe](http://www.burlingtonfreepress.com/story/news/local/vermont/2017/10/19/vermont-education-budget-gap-may-have-burlington-tightening-its-belt/745578001/).
 
 ```{r echo=FALSE}
 enrollment %>%
@@ -75,7 +78,7 @@ enrollment %>%
 ```
 
 
-The plot below shows that the rate of decline differs from county to county.  There is a separate line to represent each county, which shows the enrollment in that county, relative to the maximum enrollment observed over the last 13 years.  Essex and Grafton counties have experienced the most severe declines, while Lamoille and Chittenden county have seen the least declines.
+The plot below shows that the rate of decline differs from county to county.  There is a separate line to represent each county, which shows the enrollment in that county, relative to the maximum enrollment observed.  Essex and Grafton counties have experienced the most severe declines, while Lamoille and Chittenden county have seen the least declines.
 
 ```{r echo=FALSE}
 enrollment %>%
@@ -92,7 +95,7 @@ This chart displays a ratio rather than the total enrollment because this makes 
 
 Let’s look more closely at the supervisory unions and school districts within Chittenden county.  This is the same style of plot as shown for comparing the county-to-county enrollment, but here there is a separate line to represent each supervisory union or school district.
 
-What this plot shows is that, within Chittenden county, most districts appear to have experienced a decline in K-12 enrollment; however, Burlington has held steady.
+What this plot shows is that, within Chittenden county, most districts appear to have experienced a decline in K-12 enrollment; however, Burlington has held steady.  **Update**: with the extra data available, it appears that Burlington's enrollment could now be declining.
 
 ```{r echo=FALSE}
 enrollment %>%
@@ -120,7 +123,8 @@ enrollment %>%
 
 ```
 
-This chart breaks it down by school.
+
+This chart breaks it down by school, which makes it look like the losses are occurring in high school.
 
 ```{r echo=FALSE}
 enrollment %>%
@@ -130,6 +134,19 @@ enrollment %>%
   summarise(EnrollmentSum=sum(Enrollment)) %>% 
   mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment)  %>% 
   ggplot(aes(x=year, y=EnrollmentSum, color=School)) + geom_line()
+
+```
+
+This chart breaks it down by grade.
+
+```{r echo=FALSE}
+enrollment %>%
+  filter(SupervisoryUnion == "Burlington SD") %>% 
+  filter(Grade != 'PKEEE') %>%
+  group_by(Grade,year) %>% 
+  summarise(EnrollmentSum=sum(Enrollment)) %>% 
+  mutate(maxEnrollment=max(EnrollmentSum),enrollmentRatio=EnrollmentSum/maxEnrollment)  %>% 
+  ggplot(aes(x=year, y=EnrollmentSum, color=Grade)) + geom_line()
 
 ```
 
